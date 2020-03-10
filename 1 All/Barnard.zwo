@@ -1,0 +1,84 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Barnard</name>
+    <description>Barnard consists of 6 sets of anaerobic power repeats in the 40/20 format where you'll spend 40 seconds between 130-145% FTP followed by 20 seconds of active recovery. The recoveries between sets are decreasing then increasing starting at 3 minutes, down to 1 minute, then back up to 3 minutes.
+
+When riders are content with their ability to produce high power, the next step is learning to repeat that effort with very little rest between repetitions thereby building exceptional anaerobic capabilities thanks in large part to a well-developed aerobic system.It's one thing to fire off a hard 40-second attack but it's entirely another to follow it up with another and another and another. It's just this sort of tactic that leaves would-be competitors gasping for air and reassessing their race aspirations in the wake of a relentless display of power.Learn to work hard for brief periods and teach yourself to repeat these sharp efforts in order to grow your aerobic/anaerobic arsenal.Try to keep your spin high, upwards of 100rpm if you can maintain a fluid, relaxed pedalstroke for the entirety of each 40-second stretch.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="200.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="140.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="80.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="140.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="200.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.4" pace="1128505344"/>
+	<Ramp Duration="260.4" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

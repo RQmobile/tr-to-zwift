@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Guyat</name>
+    <description>Guyat is 4x10-minute intervals where each one increases 5% in intensity starting 85% FTP and finishing at 95% FTP. Recoveries between intervals are 2 minutes long.
+
+While the emphasis of each effort becomes less about aerobic endurance and more about muscular endurance, the overall objective revolves around improving your ability to last &amp; extending your time to exhaustion.Try to keep your spin in the 85-95rpm range throughout the workout, even during the brief recovery valleys.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

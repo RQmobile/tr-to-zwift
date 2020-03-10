@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Agassiz -1</name>
+    <description>Agassiz -1 consists of 3 sets of 3x2-minute VO2max repeats where you'll spend the first 45 seconds at 125% FTP followed by a slow, 75-second decline to 110% FTP.Brief, 90-second recoveries fall between intervals and 5-minute recoveries fall between each set of repeats.
+
+By working at power outputs high enough to elicit very high levels of oxygen uptake, tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive amount of training stress at a high level of intensity while avoiding the need to frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="220.2" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="1.25" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

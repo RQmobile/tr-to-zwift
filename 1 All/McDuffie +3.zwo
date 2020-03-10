@@ -1,0 +1,88 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>McDuffie +3</name>
+    <description>McDuffie +3 consists of 8 sets of "sprint-ervals" each comprised of 3x12-second sprints at 200% FTP followed closely by a slightly suprathreshold, 5-minute effort at 102% FTP. Recoveries between sprints are about 50 seconds long, and the recoveries between sets are 5 minutes each.
+
+The primary objective is to increase muscle fiber recruitment via the use of all-out sprint efforts and secondarily reap the reward of this additional muscle activity to power through a demanding, leg-searing stretch of work slightly above Functional Threshold Power (FTP).So, both neural activation as well as muscular endurance are targeted in each tidy set of sprints + intervals.Recovery following the sprints is minimal and won't allow complete recovery while recovery between sprint-ervals is longer with the intention of allowing just enough rest to effectively repeat these challenging sets.Sprint-ervals aim to increase fiber recruitment via short, powerful, pre-interval sprints such that the subsequent supra-threshold intervals feel more manageable as a result of more muscle activity.Keep your spin well above 100rpm during the sprints and closer to 90rpm during the longer, subsequent stretches.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.51" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="2" pace="1128505344"/>
+	<SteadyState Duration="264" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.02" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

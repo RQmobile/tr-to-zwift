@@ -1,0 +1,56 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Norman Clyde -2</name>
+    <description>Norman Clyde -2 is made up of 3 sets of 2x5-minute intervals each consisting of 1-minute steps up from 93-107% FTP and then back down again. Recovery between intervals is a brief 60 seconds while the recoveries between sets of stepping intervals are each 5 minutes long.
+
+This threshold workout targets both muscular endurance as well as lactate tolerance which takes place at both the muscular level as well as the psychological level.While your muscles will gradually adapt to increasing levels of lactate and acidic accumulation and improve their ability to shuttle these metabolic byproducts more effectively, your mind will grow accustomed to tolerating these increasing levels of discomfort, all to the same end - riding harder for longer.The true challenge with these little bad boys comes as you step back down without letting your cadence plummet - spin steadily for the whole interval!Try to keep your spin in the 85-95rpm range, higher if you can do it without elevating your HR to an unsustainable level. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.93" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

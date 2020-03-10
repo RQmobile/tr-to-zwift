@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Jacques Cartier</name>
+    <description>Jacques Cartier consists of 5 intervals alternating between 20 and 25 minutes at 78-90% FTP with 10-minute recoveries between intervals. 
+
+Tempo rides are the height of aerobic endurance and while rather uncomfortable, they aren't too stressful to keep you from spending pretty long durations at a productive work level that isn't too demanding in terms of recovery.This is where most long-course triathletes will live for 3-6 hours per triathlon, give or take a bit of time. This is also where most time is spent during any long road ride.Use portions or the entirety of these intervals to work on riding in your aerodynamic position without sacrificing power, and try to do so with a cadence above 85rpm so you can carry that quicker spin over to a quicker turnover on the run.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.79" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.79" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.79" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.79" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.78" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

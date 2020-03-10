@@ -1,0 +1,70 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>King Peak -3</name>
+    <description>King Peak -3 is 4x14-minute over-under intervals with 90-second valleys at 80% FTP and 2-minute peaks that ascend to either 95% or 100% of your FTP. Recovery intervals between the over-unders are 9 minutes long.
+
+While typical over-unders aim to flood your muscles with an acidic burn during the over-segments, this version aims to keep you just below that point. An important objective during something like the bike segment of a long-course triathlon or sustained climbs in a road race is to restrain yourself from overdoing it. These intervals will help you learn how to rein in your effort while improving your muscular endurance at a repeatable but highly demanding effort level.Try to keep your spin in that 85-95rpm range and spend increasingly longer periods of time in your aero position if it suits your ride discipline. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.8" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

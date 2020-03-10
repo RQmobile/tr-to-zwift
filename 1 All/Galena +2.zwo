@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Galena +2</name>
+    <description>Galena +2 is 3x20-minute near-FTP intervals between 95-99% FTP with 6 minutes of recovery between each. 
+
+The primary objective here is improvements in muscular endurance accomplished by growing your ability to repeat efforts at near-FTP wattages.By working close to but below your FTP, you not only accumulate a lot of time at a meaningful level of stress, but recovery from slightly sub-threshold effort comes much more readily than recovery following work done above your FTP.Try to hold your spin above 85rpm and even as high as 105rpm depending on your sustainable power and cadence goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.42" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.99" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

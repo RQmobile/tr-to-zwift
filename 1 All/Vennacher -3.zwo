@@ -1,0 +1,48 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Vennacher -3</name>
+    <description>Vennacher -3 is 3x12-minute over-under intervals where you'll ride 2-minute valleys at 95% FTP and then ramp your watts up to 110% FTP over the course of a minute before ramping back down to 95% FTP for a minute.Recoveries between over-unders last 5 minutes each.
+
+Vennacher -3's primary goal is to develop or further the ability to work very close to your FTP thereby increasing your high-level endurance capabilities and potentially lift your FTP.These peaking over-segments gradually flood your muscles with metabolic byproducts bringing with them the desire to easy up - don't. Manage that burn, then gradually back off slightly during the valleys in order to "work through the burn" and effectively train your muscles to process the buildup while your mind learns to compartmentalize the discomfort.Try to keep your cadence above 85rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.1" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

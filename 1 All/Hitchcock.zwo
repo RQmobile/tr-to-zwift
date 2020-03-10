@@ -1,0 +1,21 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hitchcock</name>
+    <description>60 minutes of low- to moderate-intensity work including 2x15-minute Tempo intervals at 86% FTP with 3 minutes of recovery between them.
+
+Tempo efforts primarily target aerobic base albeit toward the upper end of the aerobic range. As your body's aerobic capabilities improve, you'll utilize less sugar (carbohydrate) and more oxygen as your primary fuel source thus sparing your limited fuels stores and enhancing the body's ability to work aerobically for longer durations at higher output levels.Try to keep your spin above 85rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.6" pace="1128505344"/>
+    </workout>
+</workout_file>

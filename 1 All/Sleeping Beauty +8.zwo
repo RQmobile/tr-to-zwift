@@ -1,0 +1,82 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Sleeping Beauty +8</name>
+    <description>Sleeping Beauty +5 is 6 sets of 5x30/15's where 30 seconds are spent at 135% FTP and then immediately followed by 15 seconds of much lighter Endurance work. Recoveries between sets of intervals are 3.5 minutes long.
+
+Primarily, these efforts are about improving your maximum aerobic power or your ability to repeatedly operate at or near it.Intervals like these can raise your aerobic ceiling and create room for later improvements in your VO2max, and in the process they'll bring about aerobic adaptations that benefit your performance across the board. Strive for a cadence of at least 90rpm or even a bit higher during each interval. But if fatigue forces a lack of control at these higher cadences, ride smoothly at any cadence that suits you.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

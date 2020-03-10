@@ -1,0 +1,96 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cypress</name>
+    <description>Cypress is 3 sets of 13x30-second Anaerobic repeats at 130-140% FTP with equal-duration recoveries between each short repeat.The first set of 30/30's is preceded by a fairly demanding 20-minute warm-up aimed at increasing VO2 uptake prior to the first set.Recoveries between sets are 5 minutes long.
+
+The primary goal is to improve maximum aerobic capacity, or the endurance that allows you to work harder and longer with improved oxygen utilization and less sugar-expense.Simultaneously, increasing your anaerobic work capacity is a secondary goal leading to greater speed endurance, improved lactate utilization and improved high-end capabilities.Cadence should exceed 100rpm during every interval, but if fatigue forces a lack of control at higher cadences then shoot for 90+rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<Ramp Duration="450" PowerLow="0.45" PowerHigh="0.35" pace="1128505344"/>
+    </workout>
+</workout_file>

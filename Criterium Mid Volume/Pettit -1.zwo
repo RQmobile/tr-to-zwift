@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pettit -1</name>
+    <description>Pettit -1 is an hour of light Endurance work spent mostly between 50-60% FTP.
+
+The primary aim here is to allow riders to accumulate a little extra workout stress without hampering recovery.Additionally, optional form drills target improvements in pedaling mechanics and sustainable leg speed.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="1080" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

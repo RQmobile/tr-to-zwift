@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carson</name>
+    <description>Carson is 6x5-7-minute intervals between 88-94% FTP totaling 36 minutes of Sweet Spot work. Intervals are separated by 2-minute recoveries.Optional hill climbing drills are included and optional muscle control work in the form of slow-cadence recommendations are offered as well.
+
+Primarily, Carson aims to increase muscular endurance via Sweet Spot efforts by expanding your base for more intense workouts later on while increasing power output and endurance at moderate intensities in the process.Additionally, you can work to improve muscle control via low-rpm riding in an effort to pinpoint poor pedaling mechanics as well as strengthen slowly adaptive connective tissues. And why not improve the ability to smoothly transition in &amp; out of the saddle while you're at it?Climbing cadence should fall in the 65-85rpm range and slow-force cadence won't drop lower than 50rpm for most riders.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

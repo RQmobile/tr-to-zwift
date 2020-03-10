@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Monadnock +4</name>
+    <description>Monadnock +4 consists of 2 sets of 3x3-minute VO2max intervals at 122% FTP followed by 30 minutes of Endurance riding at 65% FTP. Recoveries between intervals are 5 minutes long and they're 8 minutes long between sets.
+
+By working at very high percentages of your power at peak aerobic uptake (pVO2max), tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to frequently quit intervals early. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="140.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

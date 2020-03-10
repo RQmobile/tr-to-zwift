@@ -1,0 +1,21 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Reynolds</name>
+    <description>Reynolds is a tune-up time trial consisting of a 45-minute effort very close to your current time trial power.About the first 10% of the time trial duration will bring you right up to your sustainable power where you'll try to remain for the rest of the long interval.
+
+The goals of tune-up time trials are two-fold: 1 - Grow more accustomed to working at the height of your sustainable power for an increasingly longer span of time.2 - Assess improvements in FTP based on your time trial and more importantly your perceived exertion.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="2400" PowerLow="0.98" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

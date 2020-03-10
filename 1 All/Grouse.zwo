@@ -1,0 +1,57 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Grouse</name>
+    <description>Grouse is 4 sets of 5x40- to 60-second Anaerobic repeats at 130% FTP with 40-second  recoveries between each short repeat.The first set of repeats is preceded by a fairly demanding 15-minute warm-up aimed at increasing VO2 uptake prior to the first set.Recoveries between sets are 4 minutes long.
+
+The primary goal is to improve maximum aerobic capacity, or the endurance that allows you to work harder and longer with improved oxygen utilization and less sugar-expense.Simultaneously, increasing your anaerobic work capacity is a secondary goal leading to greater speed endurance, improved lactate utilization and improved high-end capabilities.Cadence should exceed 100rpm during every interval, but if fatigue forces a lack of control at higher cadences then shoot for 90+rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="290.4" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

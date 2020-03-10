@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Truuli -1</name>
+    <description>Truuli -1 is a priming workout meant to precede any endurance event and is recommended 24 hours prior to your event. This version includes 2x4-minute steady-state efforts right at FTP followed by 2x90-second efforts between 120-125% FTP
+
+The benefits of opener workouts like this one are both physiological as well as psychological, and most importantly, very subjective. Some athletes need some hard work the day prior to their event, some need an easy spin, some need a day off. It's up to each of them to determine how their body responds to various types of priming workouts based on the event ahead as well as the amount of fatigue they're carrying at the time.Give yourself adequate recovery between efforts, try to stay hydrated and nourished, and don't neglect your post-workout nutrition.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.45" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

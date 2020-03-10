@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tenaya</name>
+    <description>Tenaya consists of about 3 hours 15 minutes&nbsp;of aerobic Endurance riding spent between 60-75% FTP.Some of the optional form drills are form sprints, endurance-spinning intervals, and&nbsp;some Isolated Leg Training (ILT) drills.
+
+Tenaya is primarily aimed at building aerobic power and efficiency by improving your ability to metabolize fat at higher power outputs while sparing sugar in the process.Try to keep your cadence above 85rpm unless instructed otherwise.The optional form drills target improvements in pedaling mechanics by focusing on the top &amp; bottom quadrants of your pedalstroke, improvements in leg speed and pedal economy, and improvement in the application of power throughout each leg's entire pedalstrokeForm Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear.&nbsp;As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10 seconds long and are all about leg speed, form &amp; technique, so experiment with which foot leads and learn how to generate a lot of leg speed in very little time.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence. Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals more quickly with less force (muscle stress) thereby improving your ability to remain predominantly aerobic over a wide rpm range. If your HR rises more than a few bpm, you're pedaling too quickly - take it easy and stay relaxed but quick.Isolated Leg Training (One-Leggers): Like Single-Leg Focus drills, the objective here is to learn to more effectively apply power throughout the entire pedalstroke by focusing strictly on one leg's activity through the bottom, upstroke, &amp; over the top of the pedalstroke. Completely unclip one foot from the pedal and rest it on your trainer, a stool, or anything that allows it to remain safely out of the way without interfering with your other leg's pedaling. Begin with a slow cadence - very slow in some cases - and periods of 10-20 seconds per leg unless you can pedal longer without "knocking". Don't worry about your temporarily low power, these drills aren't about strength. As you improve, your cadence will increase as will each leg's duration.Pay close attention your kick &amp; pull thinking more in terms of horizontal/back &amp; forth pedaling especially if you begin feeling deadspots in your pedalstroke or you begin hearing a knocking sound due to those deadspots. Keep tension on the chain and switch anytime your form degrades - don't practice bad habits just to tack on 5 or 10 more seconds.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1620" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1560" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1140" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

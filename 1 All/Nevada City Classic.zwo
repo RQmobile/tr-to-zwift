@@ -1,0 +1,112 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Nevada City Classic</name>
+    <description>This potential FTP-buster of a 15-lap race simulation is geared toward getting riders ready for the demands of the Nevada City Criterium, the longest running Pro-Am cycling event in the US. This faux-criterium is considered one of the most technically and physically challenging 1-day courses in America and consists of a looped course that is 1/3 flat, 1/3 uphill and 1/3 downhill. Each lap has two short but punishing back-to-back, segmented climbs.
+
+Each lap is basically a 2min15sec VO2max repeat which will challenge your ability to dole out high power for short durations again and again. You'll repeat these efforts at varied intensity levels which never fall below FTP and target improvements in power at VO2 Max and/or the percentage of VO2 Max power you can sustain at FTP. Additionally, your Anaerobic power could eventually rise due to the sheer quantity of brief efforts way above FTP and the minimized recovery opportunities.So too could your aerobic power & capacity as a result of improvements accompanying VO2 Max work, e.g. increased mitochondrial content, further muscle capillarization, greater lactate tolerance/buffering, etc. And let's not forget the psychological challenge and consequent benefit of forging a tougher rider who can withstand greater & greater amounts of abuse. Completed at full intensity, there's a good chance your FTP has increased and it's time to reassess your fitness in order to properly scale your training levels. For everyone else, consider dropping the Workout Intensity by 5, 10, even 15% before kicking off this beast.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.19" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.39" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.89" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

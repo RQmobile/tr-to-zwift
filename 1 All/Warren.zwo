@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Warren</name>
+    <description>Warren consists of about 2&nbsp;hours 15 minutes&nbsp;of aerobic Endurance riding spent between 60-70% FTP and includes optional form drills like form sprints, endurance-spinning, and&nbsp;Individual Leg Training (ILT).
+
+Endurance workouts are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.
+
+
+
+This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same&nbsp; adaptations.&nbsp;Regarding the form drills, Warren targets improvements in pedaling mechanics, leg speed &amp; sprinting form, improved pedal economy and improvements in the application of power throughout each leg's entire pedalstroke</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1260" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1620" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

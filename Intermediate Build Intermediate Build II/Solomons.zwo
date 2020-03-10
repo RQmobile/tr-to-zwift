@@ -1,0 +1,44 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Solomons</name>
+    <description>Solomons is a combination of VO2max repeats with a 12-minute Tempo interval thrown in for good measure. The first round of VO2max work consists of 6x3 minutes at 115% FTP with equal, 3-minute recoveries.After the 12-minute Tempo block at 70% FTP, you'll finish up with 4x2 minutes at 130% FTP with longer, 4-minute recoveries.
+
+By working at very high percentages of pVO2max (power at your highest oxygen uptake) which is well above FTP, riders can see tremendous improvements in both aerobic and anaerobic power, all in very little time.Additionally, the Tempo interval will further your body?s ability to metabolize fat for fuel and further the challenge both physically and mentally during the final set of shorter, VO2max repeats.During this lower intensity stretch, try to demonstrate a smooth, fluid pedalstroke as soon as possible and recover while doing a bit of work.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing, and do your best to keep that quick spin even as you fatigue.Aim for something around 95rpm during the Tempo interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

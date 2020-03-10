@@ -1,0 +1,88 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Rixford</name>
+    <description>Rixford is 5 varied sets of VO2max efforts in 2 different formats.Format 1: 2.5 minutes at 105% FTP + 30 seconds rest, 1.5 minutes at 110% FTP + 30 seconds rest, 1 minute at 115% FTP,  rest for 90 seconds, reverse the sequence. Format 2: 45 seconds at 115% FTP, 45 seconds at 120% FTP, 45 seconds at 125% FTP, 15-second breaks between each, then 45 seconds at 130% FTP, rest for more than 4 minutes then reverse the sequence.
+
+This mix of aerobic power repeats and anaerobic power repeats covers a lot of bases and will demonstrate your high level conditioning (or lack thereof) over the course of this high-stress/low-rest workout. Not for the fainthearted, Rixford requires both aerobic and anaerobic fitness and will let crit riders, road racers, 'cross racers and MTB'ers know just how race-ready their fitness is. Make note of which format is more demanding and decide if that challenge is one worth addressing or one that's not too important to your events or riding style.Shoot for high-rpm cadences above 100rpm when possible, above 90rpm in all other cases.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="255" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="195" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="255" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="195" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Fiske</name>
+    <description>Fiske consists of 3 sets of 3x4-minute efforts at 95, 100 and 105% FTP with slightly increasing rest periods from 1 to 3 minutes in duration at a more challenging 65-75% FTP.
+
+Fiske is all about improved muscle endurance and increased time to exhaustion when riding at/near FTP.  With very little downtime and rests that become slightly less forgiving the longer they are, this workout is over 50 minutes of reasonably high Threshold-realm effort.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

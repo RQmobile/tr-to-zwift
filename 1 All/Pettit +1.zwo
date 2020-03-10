@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pettit +1</name>
+    <description>Pettit +1 is an hour of aerobic Endurance work&nbsp;spent mostly between 60-70% FTP and includes a couple late-ride sprints. It also&nbsp;includes some optional&nbsp;form sprints, endurance spinning intervals, and various pedaling drills.Modifications: 2 late-ride sprints
+
+Aerobic Endurance workouts are aimed at improving your aerobic-power-producing capabilities in a low stress manner. By riding for increasingly longer periods of time, your endurance muscle fibers become more efficient at utilizing fat for fuel and sparing sugar stores for more intense efforts.Additionally, Endurance workouts like this can improve oxygen delivery &amp; utilization, increase muscular resistance to fatigue, improve integrity of connective tissue, and even help you improve your on-bike nutrition strategies.The additional sprint efforts are aimed at increasing your ability to recruit additional muscle fibers in an effort to grow your work capacity and lift your sustainable power.Regarding the form drills, Pettit +1&nbsp;targets improvements in pedaling mechanics, leg speed, and sprinting form.Form Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear. As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10s long and are all about leg speed, form, and technique. Experiment with which foot to lead with, and learn how to generate a lot of leg speed in very little time.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence. Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals more quickly with less force (muscle stress) thereby improving your ability to remain predominantly aerobic over a wide range of rpm's. If your HR rises more than a few BPM, you're pedaling too quickly - take it easy and stay relaxed but quick.Pistons: Few if any riders need to practice pushing down on the pedals, but improvements in how well your knees move are both beneficial to economy and joint health. As you pedal, pay close attention to how your knees track. They should move directly up, directly down - like pistons - with little if any lateral movement, especially at the top of each pedalstroke. Focus on one knee for 30s before switching sides.&nbsp;Kick and Pull: A balanced pedalstroke is dependent upon consistent tension on your bike's drivetrain throughout the entire pedalstroke. Reinforce your ability to maintain tension through the weakest portions of the pedalstroke, the top and bottom quadrants. As your knee approaches top-dead-center, lightly kick your toes into the fronts of your shoes, and as your feet approach bottom-dead-center, lightly pull your heels into the backs of your shoes - kick and pull. Focus on just the kick for 30s, just the pull for 30s, then eventually both for 30s simultaneously.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

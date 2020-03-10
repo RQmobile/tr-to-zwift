@@ -1,0 +1,21 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lola</name>
+    <description>Lola is a 30-minute tune up time trial at your current FTP.The first 10% of the time trial duration will bring you to the power you'll try to hold for the remainder of the long interval.
+
+The goals of tune-up time trials are two-fold: 1 - Grow more accustomed to working at the height of your sustainable power for an increasingly longer span of time.2 - Assess improvements in FTP based on your time trial and more importantly your perceived exertion.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.91" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="1620" PowerLow="0.98" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

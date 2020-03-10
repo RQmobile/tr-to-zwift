@@ -1,0 +1,60 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Trail Trainer Bootleg Canyon</name>
+    <description>Bootleg Canyon is a rugged desert bike park featuring some of the most technically advanced downhill trails around. With 35 miles of trails ranging from beginner to extreme technical, anyone can find a thrill here. The rocky terrain is rideable all year long, but it gets very hot in the summer months.
+
+This workout starts at the pavilion and heads up the road onto the West Leg trail. The climbing ensues as you roll over the rough rocks to the top of the canyon. Once you arrive at the top of the West Leg trail, the trail cuts across the road and drops back down the hill on the East Leg trail. This section is a bit more technical than the West Leg, so be on your toes. As you roll to the bottom of the canyon, you?ll find yourself back where the trail began at the pavilion.
+
+Bootleg Canyon is located right on the edge of Boulder City, Nevada which is just to the East of Las Vegas.
+
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<Ramp Duration="294.6" PowerLow="0.5" PowerHigh="0.51" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30.6" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="30.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="21" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="192" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

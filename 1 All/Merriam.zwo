@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Merriam</name>
+    <description>Merriam consists of 4x7-minute 'Strip Sets' starting with 1 minute at 130% FTP followed by 2 minutes at 95% FTP and then 4 minute at 90% FTP.5 minutes of recovery fall between intervals.
+
+By briefly overwhelming the more frequently relied upon leg muscles, this workout places a greater burden on the lesser involved muscles and muscle fibers during the remainder of each interval in an effort to better exploit all available muscular capacity.Start with a fairly high cadence, 100+rpm during the opening minute and then settle into something in the range of 85-95rpm for the remainder of each interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

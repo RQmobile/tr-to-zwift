@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Truuli Peak</name>
+    <description>Truuli Peak is a priming workout meant to precede shorter, higher-intensity endurance events and is recommended 24 hours prior to your event. This version includes 3 sets of 3x1-minute efforts at 150% FTP with 1-minute recoveries between repeats and 5-minute recoveries between sets of repeats.
+
+The benefits of opener workouts like this one are both physiological as well as psychological, and most importantly, very subjective. Some athletes need some hard work the day prior to their event, some need an easy spin, some need a day off. It's up to each of them to determine how their body responds to various types of priming workouts based on the event ahead as well as the amount of fatigue they're carrying at the time.Give yourself adequate recovery between efforts, try to stay hydrated and nourished, and don't neglect your post-workout nutrition.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.45" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

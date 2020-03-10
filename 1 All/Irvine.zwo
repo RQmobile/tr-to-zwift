@@ -1,0 +1,44 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Irvine</name>
+    <description>Irvine is a combination of 6x3-minute repeats at 120%FTP with 3-minute recoveries in between and 4x2-minute Anaerobic repeats at 135% FTP with 2-minute recoveries between each. A 15-minute Tempo interval separates the sets of high-intensity repeats. 
+
+By working at very high percentages of pVO2max (power at your highest oxygen uptake) which is well above FTP, riders can see tremendous improvements in both aerobic and anaerobic power, all in very little time.Additionally, the Tempo interval will further your body?s ability to metabolize fat for fuel and further the challenge both physically and mentally during the final set of shorter, VO2max repeats.During this lower intensity stretch, try to demonstrate a smooth, fluid pedalstroke as soon as possible  and recover while doing a bit of work.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing, and do your best to keep that quick spin even as you fatigue. Aim for something around 95rpm during the Tempo interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.35" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Flinders -1</name>
+    <description>Flinders -1 consists of 4 sets of 2x3-minute efforts at 105% FTP. Recoveries between intervals only last a quick 30 seconds and recoveries between sets of intervals are 2 minutes long.
+
+Working above FTP is typically about lifting your FTP by stressing both your aerobic and anaerobic energy delivery systems in a joined effort to increase both sets of capabilities. Put simply, workouts like this one are bent on achieving performance improvement, whether aerobically or anerobically driven. The short recoveries lend themselves to a higher level of oxygen uptake within the sets, and the high-intensity efforts themselves address greater anaerobic work capacity at the lower end of that spectrum.As the suprathreshold intervals increasingly stress your anaerobic capabilities, they become more and more aerobic making this workout mostly about improved aerobic capacity.Shoot for a cadence above 100rpm during the intervals if possible, and try not to drop below 90rpm at any point during the workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

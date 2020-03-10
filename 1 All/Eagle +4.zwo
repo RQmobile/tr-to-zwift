@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eagle +4</name>
+    <description>Eagle +4 consists of 5x10-minute intervals between 101-105% FTP with an additional 15 minutes at 65% FTP tacked onto the end of the workout.Recoveries between intervals are all 5 minutes long.
+
+The goal of Threshold workouts is to extend high power over greater durations and stave off muscle fatigue in the process. So each iteration of this particular type of suffering will usually include more or longer work intervals than the version before it and the recovery valleys often shrink from training phase to training phase. These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position. The Endurance interval is aimed at improving your aerobic power production capabilities in a steady, low-stress manner.By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same adaptations.Strive your keep your cadence in that 85-95rpm range, higher if it suits you.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

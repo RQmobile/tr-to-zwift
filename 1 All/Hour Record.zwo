@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hour Record</name>
+    <description>Simply put, this workout simulates an Hour Record effort.A structured warmup with three high cadence efforts will get you primed and ready for 60 minutes of effort.
+
+The goal of this workout is to find your true sustainable hour power.In addition to the physical requirements of 60 minutes of consistent effort, the mental fortitude required is immense, so discovering a variation from your FTP will not be uncommon.As your familiarity with efforts like these increases, so will your ability to perform.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="3300" PowerLow="0.95" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

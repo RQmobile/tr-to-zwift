@@ -1,0 +1,42 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>McGee</name>
+    <description>McGee is the ideal combination of VO2max efforts and muscle endurance work first pitting you against 4x2-minute VO2max repeats at 130-140% FTP. You'll actively recovery for 1 minute between repeats before heading into a longer, 8-minute stretch of recovery. Then, you'll tackle 4x3-minute over-under intervals that start with 2 minutes at 99% FTP and conclude with 1 minute at 110% FTP resting for 3 minutes after each. Additionally, you'll log a total of 40 minutes at Endurance pace with the inclusion of 2x20-minute efforts bookending the higher-intensity intervals.
+
+Improvements in aerobic power include benefits both above & below FTP and are brought on via short VO2max repeats.The added emphasis on improving muscle endurance, i.e. pushing the pedals harder for longer durations, come via short over-under intervals making this combination workout beneficial in many ways. Use combo workouts like this one during tapers & maintenance periods to hold a high fitness edge without too-high levels of fatigue. Cadence during the VO2max efforts ought to be high, 100+ rpm while your cadence during the Over-Unders will fall in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="1200" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

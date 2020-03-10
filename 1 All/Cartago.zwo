@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cartago</name>
+    <description>Cartago begins with a 30-minute warmup including a 5-minute 'spin triangle' and then moves onto 2x20-minute intervals at 88-92% FTP with 8 minutes of active recovery between them. Then you'll ride 3x3-minute VO2max intervals at 100-120% FTP with 10-12 minutes of recovery between them. You'll conclude the workout with another spin triangle.
+
+The Threshold work is aimed at extending the amount of time you're able to ride near your highest sustainable power thereby extending your muscular endurance. As your body grows accustomed to a certain level of stress, your ability to withstand that stress for longer periods of time improves.&nbsp;The goal of the VO2max repeats is to improve your aerobic capabilities and allow a greater percentage of your effort to rely on your most efficient form of energy production. This improved aerobic capacity and power will also raise your sustainable power and leave room for later or even concurrent improvements in your FTP.&nbsp;Shoot for a quick spin during the VO2max intervals, something above 100rpm if possible, and anything above 85rpm is recommended during the Threshold work. Created by Adam.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="1260" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

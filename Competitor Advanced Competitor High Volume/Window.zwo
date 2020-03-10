@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Window</name>
+    <description>Window is 3x10-minute intervals in the Threshold power level at 95-99% FTP with 5-minute recoveries between intervals.
+
+The goal here is quite simply to elevate FTP.By spending time very close to lactate threshold while remaining just below it, riders can improve their sustainable power &amp; muscle endurance by teaching their muscles to process high levels of lactate &amp; acidic buildup without slowing down.Additionally, and equally as important, riders learn to tolerate the mental discomfort inherent in maintaining high levels of Functional Threshold Power (FTP). Cadence should fall in the 85-95rpm range but steady stress and target watts are more important than leg speed so prioritize accordingly and don't worry if your cadence falls outside of this range from time to time.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

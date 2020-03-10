@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Davis</name>
+    <description>Davis begins witn 5 minutes of gradual, low-intensity spinning, followed by a 3-minute effort from 90-95% FTP and then concludes with 2 high-intensity, 1-minute ramps up to 130-140% FTP. This warmup works well for a wide range of workouts that might include subthreshold and suprathreshold efforts. Follow this warmup directly with 5 minutes of recovery riding prior to beginning your workout, or simply follow it with the easy 5 minutes that kick off many of our interval workouts.
+
+Warm up for Sweet Spot workouts, Threshold workouts, VO2max workouts and even Anaerobic workouts anytime a workout?s warmup is insufficiently brief.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.2" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.2" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

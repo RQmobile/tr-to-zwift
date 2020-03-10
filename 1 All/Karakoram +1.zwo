@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Karakoram +1</name>
+    <description>Karakoram +1 consists of 3 sets of short efforts lasting between 1-4 minutes at 85-115% FTP with very short, 30-second recoveries between intervals.Recoveries between sets of intervals last 5 minutes each.
+
+Mish-mash intervals like these address a number of performance attributes all within the confines of a single set of efforts. Where Sweet Spot work aims to improve muscular endurance, the VO2max efforts target aerobic capacity and the Threshold repeats fall somewhere in between. All told, these 'kictchen sink' sets of short work intervals cover a lot of bases and do it with minimal recovery time in between.Try to keep your spin upwards of 90rpm during the subthreshold work, then shoot for something above 100rpm when working above FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="330" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

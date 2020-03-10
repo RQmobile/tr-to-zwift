@@ -1,0 +1,62 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gendarme -6</name>
+    <description>The time-crunched version of Gendarme is made up of 2x10-minute sets of 30-second VO2max repeats at 120% FTP.The quick breaks within the sets of short repeats match the work intervals at 30 seconds each and recovery between the 10-minute sets is 4 minutes long.
+
+The goal with most VO2max intervals is to improve maximum aerobic capacity (power that draws heavily from oxygen rather than sugar stores) by pinpointing repeatable 30-second power to heftily stress the aerobic capabilities in order to improve them. Short, 30-second recoveries within the sets keep aerobic uptake high lending to higher percentages of oxygen uptake as the intervals accumulate. This yields more total time at or near peak aerobic power than longer intervals with longer recoveries do.Put another way, this workout affords an opportunity to accumulate as much as 10 minutes at peak aerobic output in order to improve power at VO2max and maybe even VO2max itself.Cadence should be at least 100rpm during every interval, but if fatigue forces a lack of control at higher cadences then shoot for 90+rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="75" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="75" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

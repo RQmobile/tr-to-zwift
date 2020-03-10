@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eisenhower -2</name>
+    <description>Eisenhower -2 is an abbreviated version of this workout that consists of 4x9-minute intervals at FTP with 4-minute recoveries between each.
+
+The primary aim is to improve muscular endurance, but especially during climbing, both in and out of the saddle. Accordingly, high levels of muscle control during slower, higher-force efforts are emphasized during some of the optional drills.Pedalstroke quadrant drills are included mostly during the seated segments but trickle into the standing segments too in order to further pedal economy both in and out of the saddle.Additionally, you'll strive to improve your ability to not only transition in and out of the saddle smoothly, but to do so while limiting fluctuations in power output.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

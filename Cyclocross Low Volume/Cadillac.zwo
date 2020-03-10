@@ -1,0 +1,62 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cadillac</name>
+    <description>Cadillac is 3 sets of 6x15-second repeats at 125% FTP coupled with 15-second floats at 88% FTP. Extended 30-second floats fall after every couple of high-intensity kicks and each set is followed by 5 minutes of recovery. This workout can be used as a taper version of more difficult, similar workouts or simply a precursor to harder versions.
+
+All workouts of this nature are aimed at retaining your peak aerobic fitness through consistent high-intensity but less of it.In reducing the overall stress, the goals of improved aerobic efficiency and aerobic power are balanced against reducing your weekly workload and allowing your body to absorb the stress of previous training weeks while retaining the hard-earned fitness improvements.Reduce the Workout Intensity to match the same repeatable aerobic power used in earlier, more difficult versions of workouts like this one.If you find that 3 sets is too stressful to allow adequate recovery, try performing only 2 sets in order to shift your focus more toward adequate recovery than unruly amounts of stress.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

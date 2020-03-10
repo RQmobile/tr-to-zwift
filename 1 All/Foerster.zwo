@@ -1,0 +1,71 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Foerster</name>
+    <description>Foerster is 3x12-minute sets of 50 seconds all-out (125% FTP) followed closely by 50 seconds of rest where the less predictable spacing of efforts is meant to surprise riders & keep them attentive.4 minutes of recovery separates each set of intervals.
+
+Foersters's primary aim is to Improve maximum aerobic capacity, i.e. endurance that allows riders to work harder &amp; longer with less sugar-expense and improved oxygen utilization. Secondarily, Foerster strives to simultaneously challenge one's anaerobic work capacity leading to greater speed endurance, improved lactate processing & sprint capabilities.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="140.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

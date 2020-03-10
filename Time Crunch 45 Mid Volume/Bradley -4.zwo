@@ -1,0 +1,57 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Bradley -4</name>
+    <description>Bradley -4 is 4x8-minute intervals at 95-99% FTP. Each interval includes 4x8-second neuromuscular bursts at 150-180% FTP, and recoveries between intervals are each 2 minutes long.
+
+The bulk of these intervals targets muscular endurance by training you to push the pedals hard for sustained periods of time, but about every 2 minutes the emphasis very briefly shifts to improving muscle fiber recruitment, or how much of your existing muscle mass contributes to turning the pedals.These short bursts of high power also serve to break up the monotony of the intervals while cultivating the ability to quickly and forcefully change speeds and then abruptly return to a high, sustained power output.Shoot for a spin above 85rpm during the sustained segments and a cadence well above 100rpm during the brief bursts.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000001" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000001" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000001" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="52.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.39" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="1" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="52.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000002" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="52.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000002" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000002" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000002" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="112.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="7.8000000000002" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="52.2" Power="0.98" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

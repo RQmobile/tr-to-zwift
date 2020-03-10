@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tiehacker</name>
+    <description>3 sets of ascending-intensity/descending-duration VO2max repeats starting with 3x3-minutes at 105-109% FTP with 3-minute recoveries. Next is 3x2-minute efforts at 110-114% FTP with 2-minute recoveries. Finally, 3x1-minute repeats at 120-130% FTP with 1-minute recoveries close out the workout.
+
+VO2max intervals aim to raise your aerobic ceiling and create more room for FTP growth. So not only can you potentially raise your aerobic capacity and improve your aerobic power, but you can elevate your sustainable power in the process. Think of it this way. If your pVO2max (power at aerobic capacity) is 300w and your FTP is 85% of that, your threshold is about 255w. But if you grow your pVO2max to 320w and your FTP remains at 85% of your pVO2max, your threshold rises to 272w! Tiehacker also serves as an excellent introductory VO2max workout by exposing riders to the differences in pain management from duration to duration, intensity to intensity. By starting with mild but longer intervals, the workout rewards higher intensity with less total work duration from set to set. Tiehacker is also the basis for numerous alternate versions that will allow riders to alter the intensity, the interval durations, or the recovery durations.Try to keep your cadence above 90rpm over the course of the workout, perhaps even above 100rpm during the work intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.14" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

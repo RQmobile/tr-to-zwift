@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gammon</name>
+    <description>Gammon is 2 hours of uninterrupted aerobic and muscular endurance work between 65-90% FTP.
+
+The combination of aerobic Endurance work coupled with intermittent stretches of Sweet Spot work center these goals around endurance improvement. Whether that endurance is almost entirely aerobic or becomes increasingly sugar-driven, the outcome is always about furthering time to fatigue at subthreshold power outputs.Try to keep your spin above 90rpm throughout, but feel free to treat different segments as lower-rpm climbs and higher-rpm speed-endurance opportunities.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.8" PowerHigh="0.84" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.84" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="390" PowerLow="0.75" PowerHigh="0.82" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.82" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.82" PowerHigh="0.73" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.73" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.73" PowerHigh="0.78" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.78" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.78" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.75" PowerHigh="0.7" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.7" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="450" PowerLow="0.85" PowerHigh="0.7" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.65" PowerHigh="0.72" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

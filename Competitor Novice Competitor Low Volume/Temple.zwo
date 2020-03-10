@@ -1,0 +1,46 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Temple</name>
+    <description>Temple is 3x12-minute over-under intervals alternating between 2 minutes at 90% FTP and 1 minute at 110% FTP with 5-minute recoveries between intervals.The set of over-unders is sandwiched by a 2x15-minute Endurance intervals spent at 65% FTP. 
+
+The primary objective of over-unders is to increase your ability to tolerate and utilize the byproducts that accompany riding above your FTP, all while maintaining a reasonably high power output. In doing so, you?ll develop the ability to handle changes in pace while doing quite a lot of work. These intervals can increase how long you can work above FTP as well as how quickly you can reprocess the lactate buildup that can lead to muscle acidity. Equally as important, the short efforts above your current FTP can actually lead to increases in FTP.The Endurance intervals are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same adaptations.Try to keep your cadence above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.67" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

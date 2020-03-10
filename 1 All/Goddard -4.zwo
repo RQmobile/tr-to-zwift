@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Goddard -4</name>
+    <description>Goddard -4 is still dedicated to form work but this shorter version removes the ILT drills while retaining the Form Sprints and Cadence Spin-Ups.You'll first face 10x30-second Form Sprints with 90 seconds of rest between each.Then, you'll finish with 2x6-minute Cadence Spin-Ups with 3 minutes of recovery between them.
+
+Improvements in form are the name of the game and this shorter workout version targets improvements in speed endurance via form sprints and spin-ups.Remember, even the smallest improvements in pedal economy - how hard you work for each pedalstroke - are magnified hundreds, even thousands of times. So pay attention and make each drill matter, it will be worth it.Form sprints can be extremely quick but again, only as fast as you can control - no bouncing.Same goes for the spin-ups: fast, faster, all-out, but no bouncing, no joint pain.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

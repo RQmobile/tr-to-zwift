@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>White -5</name>
+    <description>White -5 is 50 continuous minutes of aerobic Endurance work broken into 6x7.5-minute segments ranging from 65-75% FTP.
+
+Endurance workouts are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same  adaptations.Try to keep your spin above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.75" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

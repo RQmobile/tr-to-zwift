@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Vandever -1</name>
+    <description>Vandever -1 is 4x4-minute intervals between 112-114% FTP with 4-minute recoveries between intervals.
+
+A noticeable drop from typical VO2 Max power allows far greater time at a potentially very productive power output well above your current sustainable power.The intent is to build greater muscular endurance and aerobic capacity while forging greater mental toughness. By working at a high percentage of your maximal oxygen uptake with repeats that thoroughly stress your aerobic system, you can start to nudge your FTP closer to the upper limits of your aerobic power. Shoot for a cadence above 85rpm, above 95rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.14" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.37" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.14" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.14" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

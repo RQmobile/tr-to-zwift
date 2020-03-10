@@ -1,0 +1,19 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Free Ride 360</name>
+    <description>Open ride with no target. Pick this one if you have a custom workout that we don't have yet and you want a really long ride.
+
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="18600" Power="0" pace="1128505344"/>
+    </workout>
+</workout_file>

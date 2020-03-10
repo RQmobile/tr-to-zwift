@@ -1,0 +1,45 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>The Tour of the West - Vol. 1</name>
+    <description>If you're an avid cyclist, you've heard of it, you've followed it, maybe you've even dreamed about doing it. It's the Race Across America, that epic, 3,000 mile bicycle race that takes place every June!The Virtual Race Across America gives you a broad sample of this amazing race with seven selected segments of the course all in an awesome one hour training ride.
+
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="27" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="27" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="45.6" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="16.2" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="9.0000000000001" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="21" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="67.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="11.4" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="10.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="34.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="126" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="45.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="131.4" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="90.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="96" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="108.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="72" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="51" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="71.4" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="298.8" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="241.8" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="299.4" PowerLow="0.85" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="300.6" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="19.2" Power="0.65" pace="1128505344"/>
+    </workout>
+</workout_file>

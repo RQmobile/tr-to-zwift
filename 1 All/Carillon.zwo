@@ -1,0 +1,55 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carillon</name>
+    <description>Carillon consists of 2 sets of 2x10-minute criss-cross intervals where the 2-minute valleys range from 88-90% FTP and the 30-second surges fall between 92-95% FTP. Recovery between each pair of intervals is 1 minute long and the recovery between sets lasts 5 minutes.
+
+The primary aim of Sweet Spot work is to improve your ability to resist fatigue at reasonably high power outputs over substantial lengths of time.In other words, workouts like this are all about increasing your muscular endurance.In doing so, you can improve your ability to climb faster and longer, face stiff winds without fading and time trial more consistently over the entire course of an event. Additionally, you can use each short surge to target specific aspects of climbing form, time trialing, speed endurance, and aerodynamic positioning.Aim for a cadence in the 85-95rpm range unless otherwise instructed.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

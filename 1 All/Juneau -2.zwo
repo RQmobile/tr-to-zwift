@@ -1,0 +1,42 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Juneau -2</name>
+    <description>Juneau -2 is 4x18-minute intervals at 88-92% FTP with a couple brief, 1-minute intermediate recoveries during each long interval.7-minute recoveries fall between intervals. 
+
+Sweet Spot work lays the foundation on which we build higher FTP's. Via long Sweet Spot intervals and minimal rest periods, you'll build the muscle endurance necessary to put down steady power at high percentages of your FTP for long durations.This is an uncomfortable but productive power range that doesn't require the same level of recovery as Threshold workouts yet yields many of the same benefits. And long repetitions like these build the capability you to work reasonably hard for extended durations and do it frequently.Try to maintain a reasonably quick cadence of 85-95rpm over the course of this workout </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

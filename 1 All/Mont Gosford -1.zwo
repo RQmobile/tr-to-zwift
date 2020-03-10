@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mont Gosford -1</name>
+    <description>Mont Gosford -1 is a lighter version where the entire 75 minutes stays&nbsp;between 60-70% FTP while the intermittent, 1- to 3-minute recoveries at 55% FTP remain the same.
+
+The primary goal here is to continue building aerobic capabilities during the days between your more demanding &amp; fatiguing interval workouts.Done at the proper intensity, rides like this will have no negative impact on subsequent workouts. So if you recognize that this intensity is still a little too high, drop the Workout Intensity another</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

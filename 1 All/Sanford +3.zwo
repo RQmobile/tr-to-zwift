@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Sanford +3</name>
+    <description>Sanford +3 is 8x3-minute intervals at 105% FTP with 3-minute recoveries between intervals.
+
+Not going to sugarcoat things: these are rough. At least in terms of suffering. But that's a big part of what makes working slightly above FTP so effective. By learning to tolerate discomfort levels a little above your Functional Threshold Power, by forcing your body to tolerate higher levels of the burning accumulation that comes with high, sustained workloads, you'll begin to grow your ability to hold higher power for longer stretches.And what makes these efforts additionally worthwhile is the perspective they lend to efforts below FTP. Working at 85% of FTP will not only seem more manageable, but it will exact a lighter toll on your body as well as your mind.Do your best to keep your cadence above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

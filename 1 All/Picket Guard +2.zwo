@@ -1,0 +1,57 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Picket Guard +2</name>
+    <description>Picket Guard +2 consists of 5x12-minute over-under intervals alternating between 2 minutes at 90% FTP and 2 minutes at 105% FTP with 8-minute recoveries between intervals.
+
+The primary goal of over-unders is to develop or further the ability to work very close to your FTP thereby increasing your high-level endurance capabilities and potentially lift your FTP.These suprathreshold over-segments gradually flood your muscles with metabolic byproducts bringing with them the desire to easy up - don't. Manage that burn, then gradually back off slightly during the valleys in order to "work through the burn" and effectively train your muscles to process the buildup while your mind learns to compartmentalize the discomfort.Try to keep your cadence above 85rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.51" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

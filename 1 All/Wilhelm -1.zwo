@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wilhelm -1</name>
+    <description>Wilhelm -1 consists of 7x5-minute repeats at 108% FTP separated by 3-minute recovery valleys.
+
+A noticeable drop from typical VO2 Max power allows far greater time at a potentially very productive power output well above your current sustainable power.The intent is to build greater muscular endurance and aerobic capacity while forging greater mental toughness. By working at a high percentage of your maximal oxygen uptake with repeats that thoroughly stress your aerobic system, you can start to nudge your FTP closer to the upper limits of your aerobic power.&nbsp;
+
+
+
+Shoot for a cadence above 85rpm, above 95rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

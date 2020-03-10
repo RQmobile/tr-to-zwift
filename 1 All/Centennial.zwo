@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Centennial</name>
+    <description>Centennial is composed of 6 intervals ranging from 6-8 minutes each at 100% FTP.Recoveries range from 3-5 minutes between each interval.
+
+Spending time at FTP is already very demanding, doing it while standing can turn this into an entirely different workout. Use these shorter Threshold intervals to spend increasingly longer durations out-of-the-saddle (OTS) without sacrificing power and without loading your legs up with muscle burn that results in poor form and spotty wattage.Try to spin above 85rpm while seated, then try to keep your cadence in the 65-75rpm range while standing and return to the saddle whenever you fall below 60rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="1" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

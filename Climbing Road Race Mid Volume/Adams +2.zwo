@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Adams +2</name>
+    <description>Adams +2 is a slightly expanded reduced-load assortment of suprathreshold efforts consisting of 7 minutes at 105% FTP, 5 minutes at 108% FTP, 2x3 minutes at 115% FTP and 2x2 minutes at 121% FTP.2-minute recoveries separate all intervals.
+
+The goal of most recovery week workouts is to maintain the intensity of the previous weeks while reducing the total weekly volume enough to allow your body to absorb the training stress and make positive performance adaptations. Shoot for a cadence in the 85-95rpm range on the longer intervals and a quicker, lighter cadence above 95rpm on the shorter intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.21" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.21" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.21" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.21" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

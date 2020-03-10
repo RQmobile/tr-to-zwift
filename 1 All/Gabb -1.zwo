@@ -1,0 +1,56 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gabb -1</name>
+    <description>Gabb -1 is a combination workout that blends a couple sets of Anaerobic power repeats ranging from 30 seconds at 135% FTP to 2 minutes at 123% FTP with a couple 8-minute muscle endurance ramps ranging from 85-105% FTP.Active recoveries between the short, Anaerobic efforts are twice as long as the work interval that precedes them and the breaks after the shorties and between the 2 ramps are both 4 minutes long.
+
+Combination workouts like Gabb strive to challenge even the fittest riders and in this case use Anaerobic power repeats to fry your muscles before subjecting you to something longer, subtler, yet no less challenging. Being able to dole out short, high-output efforts early in a mass-start event is pretty commonplace, but it's the ability to follow up efforts like those with more sustained, only slightly less powerful pushes that often separate the pretenders from the contenders. Try to keep your cadence above 100rpm during the first half of Gabb, then bring things down to a more sustainable 90+rpm during the concluding ramps. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.23" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.23" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.85" PowerHigh="1.02" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.92" PowerHigh="1.05" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

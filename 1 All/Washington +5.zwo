@@ -1,0 +1,27 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Washington +5</name>
+    <description>Washington +5 is 4x7-minute intervals at 105% FTP with 5-minute recoveries between intervals, all followed by 30 minutes at 65% FTP. 
+
+The goal of slightly suprathreshold workouts is to extend high power over greater durations. By riding only slightly above your current FTP, you'll become accustomed - both physically and mentally - to a workload just beyond your current sustainable reach. These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position.The Endurance intervals are aimed at improving your aerobic power production capabilities in a steady, low-stress manner.By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same adaptations.Try to keep your cadence above 85rpm, preferably above 95rpm.Strive to keep your cadence above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

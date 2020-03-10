@@ -1,0 +1,88 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Graveyard</name>
+    <description>Graveyard is an extended foray into the Tabata Protocol. Bearing in mind that a true Tabata workout is 4 minutes total, here are 4 sets of 4-minute, Tabata-like repeats consisting of 20-second sprints at 190% FTP followed by only 10-second recoveries.8-minute recoveries separate the sets.
+
+Short, hyper-intense work like this is bent on improvements in maxium aerobic power as well as increases in anaerobic work capacity.Each set in and of itself administers enough stress to constitute an effective training dose, so don't hesitate to cut this workout short should your ability to generate high power plummet.These are sprint efforts, so keep your cadence well above 100rpm and do your best to maintain high leg speed as each set presses onward.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="288" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.9" pace="1128505344"/>
+	<Ramp Duration="220.2" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

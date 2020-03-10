@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Star</name>
+    <description>Star is 3 sets of 6x20-second sprints at 160% FTP with diminishing recoveries that start at 60 seconds long and decrease all the way down to 20 seconds before a longer, 2-minute recovery valley rests you up in preparation for the next round of sprints.
+
+Sprint, recover, repeat. Want to find out how many matches you have in your matchbook? See how far you can get through Star and you're sure to gain a better sense of where your limits are, at least for now. As the rest durations decrease, you'll head into each subsequent sprint slightly more fatigued and calling on fresher muscle fibers, maybe even some muscle that would otherwise lay dormant, muscle you've been packing around yet never utilizing. In any case, your ability to sprint numerous times in close succession will be challenged, maybe even overcome, but eventually improved.Try to use the highest cadence you can sustain &amp; repeat during a sprint, ideally higher than 120rpm. Perform some sprints seated, some standing, and demonstrate high levels of control in either case.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

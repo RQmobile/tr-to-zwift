@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>The Priest +5</name>
+    <description>The Priest +5 is an even tougher version of the standard Big Gear Start workout with intervals that now grow to 5x6 minutes each. Each interval still begins with a 30-second wind-up way up at 150% FTP in the biggest gear you can turn.Where these get even more demanding is in the 5 minutes of Threshold work that start at 95% FTP but then slowly climb to 105% FTP, all in a gear that allows you to spin at a more reasonable cadence. Each recovery between intervals is 5 minutes long.
+
+Everyone gets caught at the base of a hill in the wrong gear sometimes and we've all come out of a turn in way too big of a gear, and it's not often that we pick ourselves up after a fall to find we're magically in an easy gear.These efforts are all about creating a lot of force and really muscling the cranks in order to build leg strength and control as well as help us through those unfortunate mishaps in gear selection that happen all too often during the heat of battle.These can also be used to simulate hard starts at the beginning of a race, in which case, start each interval from a dead stop.Each closing segment will target your muscle endurance in hopes of growing your fatigue resistance by training you to stay on the gas even when your muscles are screaming for you to back off.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="165" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

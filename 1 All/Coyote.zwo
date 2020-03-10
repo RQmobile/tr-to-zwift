@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Coyote</name>
+    <description>Following a 10-minute warmup, Coyote consists of 3x5-minute VO2max intervals at 111% FTP each followed by 5 minutes of recovery. The workout concludes with 12 minutes of Threshold work at 98% FTP with cadences changes every 2 minutes. The entire workout includes cadence recommendations for each interval or interval segment.
+
+The VO2max efforts target improvements in aerobic power output, i.e. power output utilizing primarily oxygen as its fuel source, while the final FTP interval aims for increased muscular endurance, i.e. increased time to exhaustion at FTP.The cadence recommendations can demonstrate and/or address limitations (e.g. control, economy/smoothness) in speed endurance (high cadence segments) or leg strength (low cadence segments).</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.11" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.11" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.11" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

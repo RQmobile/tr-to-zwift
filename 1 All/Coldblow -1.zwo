@@ -1,0 +1,69 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Coldblow -1</name>
+    <description>Coldblow -1 consists of 3x11-minute sets of 30- to 90-second high-power repeats between 122-140% FTP that allow riders to accumulate 7 minutes of high-intensity work per set.Recovery intervals between repeats are 2/3's the duration of the preceding work interval (3:2 work-to-rest ratio) and recoveries between sets each last just 4 minutes.
+
+Initially elevating oxygen uptake with short, unsustainably high power requirements sets the stage for a gradual decline in power output, but one that allows the accumulation of a lot of time maximally stressing your aerobic energy delivery system without blowing you up with too-long anaerobic requirements.So the hard work starts immediately and then gets incrementally lighter and longer in order to keep you right at the limit of what you can tolerate without exploding.Aim for a high cadence, preferably in the 90-110rpm range, over the entire course of each set of short, high-power repeats.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="100.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.37" pace="1128505344"/>
+	<SteadyState Duration="25.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.34" pace="1128505344"/>
+	<SteadyState Duration="33" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="45.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="80.4" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="52.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.37" pace="1128505344"/>
+	<SteadyState Duration="25.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.34" pace="1128505344"/>
+	<SteadyState Duration="33" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="46.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="79.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="52.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.37" pace="1128505344"/>
+	<SteadyState Duration="26.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.34" pace="1128505344"/>
+	<SteadyState Duration="33" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.31" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.28" pace="1128505344"/>
+	<SteadyState Duration="46.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="79.8" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="53.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.22" pace="1128505344"/>
+	<Ramp Duration="246" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Baldy +1</name>
+    <description>Mount Baldy +1 is 4x10-minute intervals at 95-99% FTP with 5-minute recoveries between intervals.
+
+The primary objective here is improvements in muscular endurance accomplished by growing your ability to repeat efforts at near-FTP wattages.By working close to but below your FTP, you not only accumulate a lot of time at a meaningful level of stress, but recovery from slightly sub-threshold effort comes much more readily than recovery following work done above your FTP.Try to hold your spin above 85rpm and even as high as 105rpm depending on your sustainable power and cadence goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

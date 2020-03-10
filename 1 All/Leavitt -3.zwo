@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Leavitt -3</name>
+    <description>Leavitt -3 is 50 continuous minutes of Tempo work broken into 7x7-minute segments ranging from 75-85% FTP.
+
+Riding at the lower end of the Sweet Spot range pushes you to the height of aerobic endurance.While rather uncomfortable, working here isn't too stressful to keep you from spending pretty long durations at a productive work level that's not too demanding in terms of recovery.This is close to where half-distance triathletes will spend multiple hours during their bike leg. This is also where ample time is spent during long road races, especially ones with steady climbs.Consider using portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power.There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.Try to keep your cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.75" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.75" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.84" PowerHigh="0.74" pace="1128505344"/>
+	<SteadyState Duration="390" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

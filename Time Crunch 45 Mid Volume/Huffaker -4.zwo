@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Huffaker -4</name>
+    <description>Huffaker -4 is still 6x3-minute VO2max intervals done in 2 sets of 3 intervals where intervals quickly ramp up to the highest sustainable yet repeatable intensity you can handle. But the rest between the intervals shrinks to 2 minutes and rest between the sets of intervals drops to 5 minutes.
+
+Huffaker's goals are to increase your power during short, intense efforts &amp; to expand your aerobic capacity, i.e. the ability to utilize more oxygen at maximal oxygen uptake and spares less plentiful sugar stores, in place of or in addition to low-intensity aerobic endurance work. When training time is very limited, deriving a high training benefit in minimal time is crucial - this is how you do it.Use the opening intervals to determine your highest, REPEATABLE power and then adjust the Workout Intensity on subsequent intervals appropriately.Cadence should fall no lower than 100rpm throughout each interval but some riders may need to ride as low as 90rpm to maintain a higher level of control.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.41" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.15" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.15" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

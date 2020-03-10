@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Raymond</name>
+    <description>Raymond is 4x5-minute repeats at 108% FTP separated by 5-minute recovery valleys.
+
+A noticeable drop from typical VO2 Max power allows far greater time at a potentially very productive power output well above your current sustainable power.The intent is to build greater muscular endurance and mental toughness by working at a high percentage of your maximal oxygen uptake with repeats that thoroughly stress your aerobic system. Shoot for a cadence above 85rpm, above 95rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.50" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.70" PowerHigh="0.108" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.108" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.40" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.70" PowerHigh="0.108" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.108" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.40" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.70" PowerHigh="0.108" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.108" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.40" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.70" PowerHigh="0.108" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.108" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.40" PowerHigh="0.30" pace="1128505344"/>
+    </workout>
+</workout_file>

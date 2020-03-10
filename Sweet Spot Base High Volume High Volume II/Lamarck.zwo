@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lamarck</name>
+    <description>Lamarck is 4x10-minute intervals set right at FTP and the active recoveries between intervals are each 2 minutes long.
+
+Time at threshold is all about increasing your muscular endurance. By working this hard for such long durations, you can improve your ability to tolerate both the physical and psychological stress that comes with riding right at your highest steady-state power.
+As your body becomes accustomed to processing excess lactate and working through high levels of acidic accumulation, your mind becomes familiar with this inherent discomfort in ways that allow you to work harder for longer - your pain tolerance increases, your time to exhaustion grows.
+Aero-inclined riders can work on producing full power in an aerodynamic or time trial position with shorter, more tolerable durations than similar but longer intervals.
+Try to keep your spin above 85rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

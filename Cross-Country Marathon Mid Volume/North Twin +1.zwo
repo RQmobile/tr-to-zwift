@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>North Twin +1</name>
+    <description>North Twin +1 begins with 3x5-minute Tempo intervals between 60-85% FTP that each conclude with a 10-second sprint between 180-200% FTP. The second part of North Twin +1 consists of 36 minutes of Sweet Spot-ish work between 85-95% FTP with short bouts of aerobic Endurance riding at 55-75% FTP separating each interval.
+
+The lower-intensity Sweet Spot intervals will continue building aerobic power while the harder efforts are aimed at improving muscular endurance. Try to keep your cadence above 90rpm for the bulk of the workout, and then shoot for something well above 100rpm during the short sprints.Optional: Strength Sprints require the use of a big gear turned as forcefully as you can in order to recruit as many muscle fibers as possible. From a near stop and in the biggest gear you can gracefully turn over without exceeding 90rpm in 12 pedalstrokes, stand and hold onto your handlebar drops while driving each foot down as hard as you can. If you reach 90rpm inside of 12 pedalstrokes (without compromising your form), choose a bigger gear next time. If you're riding a smart trainer in Erg mode, consider switching to Resistance Mode for your Strength Sprints.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.9" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="2" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.55" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.55" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.65" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="0.55" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.55" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

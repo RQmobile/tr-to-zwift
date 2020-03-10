@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Backbone +1</name>
+    <description>Backbone +1 consists of 8x90-second race-start intervals that begin with 30 seconds at 150% FTP followed by 1 minute at 120% FTP. 3 minutes of recovery fall between each effort. 
+
+This workout offers numerous chances to test and fine-tune your initial acceleration capabilities. Go out too hard and risk blowing up, go out too softly and risk losing position, but if you use these repetitions to learn the sort of efforts you can perform at the start of a race, and perhaps more importantly, repeat during later stages of a race, you'll stand a far greater chance of not only surviving these hard kicks but making them work for you.Strive for a cadence above 100rpm, especially during each initial surge.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="165" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

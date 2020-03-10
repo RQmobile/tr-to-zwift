@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Whiteside -2</name>
+    <description>Whiteside -2 is 5x20-minute Tempo repeats at 85% FTP each separated by 5 minutes of active recovery.
+
+Tempo intervals are primarily aimed at increasing aerobic capabilities via reasonably long, mildly more intense work than your typical long-duration, minimally-changing aerobic endurance workouts.The workloads are low enough that you can spend a lot of time at this intensity without requiring disproportionately long recovery periods like you might face when attempting high amounts of work performed closer to your FTP.&nbsp;But the intensity is high enough to stimulate greater adaptation than you?re likely to see when noodling along at Endurance power for durations as short as these.
+
+
+
+
+
+Try to keep your spin above 85rpm, preferably closer to 95rpm for most athletes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

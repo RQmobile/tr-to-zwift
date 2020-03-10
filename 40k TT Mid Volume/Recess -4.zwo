@@ -1,0 +1,14 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Recess -4</name>
+    <description>The Recess rides range anywhere from 20-60 minutes in duration at roughly 50% FTP.Exhausted rides, sometimes referred to as "accumulation rides" or "depleted rides" are performed within 4-24 hours after your last key workout, race/event, or any other similar, stressful ride.These rides should leave you no more fatigued than you were before you hopped on your bike and there are no strict rules governing effort level as long as these feel recuperative and do not negatively impact your next key workout.
+
+The goals behind the Recess rides are rather wide-ranging and include adaptations such as increased resistance to muscle damage, enhanced neuromuscular coordination (i.e. improved pedal economy), increased fat metabolism, and heat acclimation to name a few.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="2700" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>8 min ftp test testme</name>
+    <description>Following a total of 28 minutes of warm-up, a couple of 8-minute time trials are used to assess Functional Threshold Power (FTP) and Lactate Threshold Heart Rate (LTHR). The recovery interval between assessment efforts is 10 minutes.Use any cadence that suits you, but if you're pedaling slower than 80rpm it's in your best interest to increase your cadence over the course of your training. This workout can also serve as a workout in its own right and will target muscular endurance and optimal aerobic power output during the two 8-minute time trials. This workout could also be used to improve short-duration pacing strategies for short time trials or prologues, perhaps even downhill MTB races. 
+
+By following a strictly structured assessment protocol, riders can assess/reassess possible changes in fitness at any time of training season as long as they're rested and motivated. These short efforts attempt to measure power at VO2max and can serve as a measure of your optimal aerobic power output as well as a measure of FTP, once reduced.Try to allow full recovery prior to performing an assessment workout by scheduling it at the end of a recovery week or following 2-3 days of full rest and/or active recovery.There should be a high level of consistency between efforts, but if there is a substantial power output margin, perhaps greater than 5%, this might indicate poor aerobic fitness due to a low ability to recover quickly between maximal efforts. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.5" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.65" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.5" PowerHigh="1.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

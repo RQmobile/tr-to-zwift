@@ -1,0 +1,20 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Trail Trainer Wasatch Crest</name>
+    <description>Wasatch Crest is an epic downhill ride starting at 10,000 feet above sea level. This workout will build your endurance and stamina and develop your base fitness level. Learn how to pick a good line, improve mental discipline, and get other valuable bike riding tips in this 94 minute workout. After a seven minute warm-up, riders will face a brutal seven minute climb up "Puke Hill". The rest of the workout eases up to an even tempo pace for an hour and fifteen minutes, descending the Wasatch Crest Trail and the Pipeline Trail. A four minute cool-down closes out the workout. This video showcases high alpine terrain with smooth singletrack rolling through the pines and maples. Build base fitness levels and improve endurance with this workout.Wasatch Crest is located east of Salt Lake City, Utah, up Big Cottonwood Canyon. This trail requires a shuttle vehicle to take you to the top of the trail, but is a must ride for those traveling to Utah. The trail has an intense climb and there are several very technical sections that may require walking, but overall the trail is rated intermediate technical. The trail rides along the crest of the mountain and then features a long downhill ride. This trail is only open for a few months because of the high altitude, and certain portions of the trail are only open to bikers on even days. 
+
+Maintain a tempo pace throughout the entire workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="400.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="429" Power="1.13" pace="1128505344"/>
+	<SteadyState Duration="4531.8" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="229.2" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="16.799999999999" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

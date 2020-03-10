@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eichorn</name>
+    <description>Eichorn is 2x20-minute intervals at 90% FTP with 5 minutes of recovery between them. 
+
+Sweet Spot intervals combine the benefit of upper-end aerobic conditioning with more demanding muscle endurance. These workouts are challenging but repeatable and only require a relatively quick recovery window due to their manageable nature.By learning to endure long stretches at this power output, you can count on having the endurance necessary to hang on during a long, fast group ride, climb a fire road at a moderately high yet steady pace, or even spend greater durations in your aero or climbing positions without sacrificing power output.Shoot for a seated spin in the 85-95rpm range unless you're trying to raise your natural cadence to a smoother, quicker spin in which case you'll shoot for 95-105rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

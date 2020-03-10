@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Matthes</name>
+    <description>Matthes is two sets of 3x3-minute VO2max repeats at 110-130%FTP.2 minutes of recovery fall between intervals and 6 minutes of easy spinning separate the sets.
+
+By working at power outputs high enough to elicit very high levels of oxygen uptake, tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.6" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

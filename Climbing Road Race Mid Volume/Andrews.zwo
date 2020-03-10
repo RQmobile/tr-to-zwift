@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Andrews</name>
+    <description>Andrews is 90 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP.
+
+Aerobic Endurance training is primarily about cultivating a deep, wide endurance base that includes all of the physiological adaptations inherent in long, steady, low-intensity riding, e.g. improved fat metabolism &amp; glycogen conservation, lower HR at aerobic workloads, and the improved ability to bounce back from higher-intensity efforts.As time-constrained as most riding schedules are, shorter Endurance rides done consistently can make up for some of the lacking pro-rider time availability.Try to hold your spin within an 85-95rpm range &amp; spend ample time adapting to &amp; modifying your position on the bike while the workload is more manageable.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.68" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.68" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.75" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.75" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

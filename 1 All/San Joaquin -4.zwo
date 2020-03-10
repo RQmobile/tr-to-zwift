@@ -1,0 +1,52 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>San Joaquin -4</name>
+    <description>San Joaquin -4 is roughly 3x5-minute sets of 15 seconds at 200% FTP with 45 seconds of active recovery between each interval. 7 minutes of recovery fall between each set of intervals. 
+
+The goal of high-intensity workouts like this one is to improve both your aerobic efficiency and aerobic power. By working very hard for brief intervals but only recovering for very short periods of time, these microintervals are extremely effective at improving your ability to sustain and repeat efforts well above FTP. This improved aerobic capacity and power can also raise your sustainable power and gradually increase your FTP. These short-duration repeats offer an opportunity to become accustomed to high-intensity work in probably the most manageable manner that doesn't skimp on productivity.Cadence should exceed 100rpm during every interval, but if fatigue forces a lack of control at higher cadences then shoot for 90+rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.9" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

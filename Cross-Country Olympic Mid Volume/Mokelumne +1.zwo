@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mokelumne +1</name>
+    <description>Mokelumne +1 is an hour and a half of aerobic Endurance riding mostly spent at 65% FTP and includes 2x20-second sprints.
+
+The goals of these Endurance + Sprints workouts are the same regardless of duration: improve aerobic fitness, prime the muscles for harder workouts ahead, and&nbsp;increase muscle fiber recruitment in an effort to grow your strength capabilities.Perform the sprints in the saddle at a high, 100+rpm cadence and ride the rest of this workout in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="780" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

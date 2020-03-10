@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Jordan</name>
+    <description>4x8-minute Spin-Ups starting with 4 minute at 84% FTP followed by 3 minutes at 80% FTP and finishing with 1 minute at 76% FTP all after 3x3minutes of Isolated Leg Training (ILT). Recoveries between Spin-Ups are 3 minutes long.
+
+Spin-Ups target leg speed and pedal economy by allowing you to find your highest controllable leg speed and helping you learn to raise it and/or extend how long you can maintain it. ILT intervals help you recognize dead spots in each leg's pedalstroke thereby allowing you to improve each leg's capabilities individually. Shoot for high, controlled rpm's during the Spin-Ups but do so with control, always. When it comes to the ILT segments, spin as slowly as necessary to prevent knocking sounds. Over time, try to reach 90rpm or higher with each leg.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Highland +3</name>
+    <description>Highland +3 consists of 5 long hours of aerobic Endurance mostly spent between 60-67% FTP with 30-minute Tempo segments at 80% FTP. 
+
+Aerobic Endurance workouts primarily target improvements in the ability to metabolize oxygen as the primary fuel source thereby preserving or "stretching" carbohydrate stores and necessitating less food intake over the course of subsequent workouts, rides &amp; races.Additionally, properly recovered athletes are likely to see improvements in the body's ability to deliver oxygen to the muscles and then more effectively utilize it, increases in their time to exhaustion as well as strengthened connective tissues.Long rides of this nature are also an excellent time to practice on-the-bike nutrition.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="2340" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.65" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.8" PowerHigh="0.68" pace="1128505344"/>
+	<SteadyState Duration="2820" Power="0.68" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.68" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.8" PowerHigh="0.63" pace="1128505344"/>
+	<SteadyState Duration="2760" Power="0.63" pace="1128505344"/>
+	<Ramp Duration="390" PowerLow="0.63" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.8" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="900" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

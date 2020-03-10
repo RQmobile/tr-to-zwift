@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Kingsbury</name>
+    <description>Kingsbury is 5x5-minute Threshold repeats between? 95-99% FTP with 4-minute recoveries between each.
+
+The primary aim here is to increase work capacity at a steady, near-FTP effort level. Over time, the ability to work harder without accumulating as high levels of blood-lactate will increase the relative level of exertion at all work levels will decrease due to improved ability to deliver oxygen to and shuttle lactate from the working muscles - more work, less burn.Try to keep your cadence at 90rpm or higher.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.97" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

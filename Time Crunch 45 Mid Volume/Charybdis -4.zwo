@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Charybdis -4</name>
+    <description>Charybdis -4 is still 2 sets of 3x3-minute VO2max repeats that begin at 90% FTP and very quickly ramp up to 120% FTP. The difference for this midrange version is the recoveries between intervals are 2 minutes long and the rest between sets is 5 minutes long. 
+
+By working at very high percentages of pVO2max (power at peak oxygen uptake) which is well above FTP, riders can see tremendous improvements in both aerobic &amp; anaerobic power - all in very little time.Not only can VO2max repeats affect VO2max itself, they can have positive effects on muscle endurance and most importantly aerobic endurance which is especially important for riders working on a very limited amount of weekly training hours.In far less time than that required by traditional base training, riders can develop aerobic capabilities on par (if less sustainable) with those gained via long hours of easy, slow distance - little time, high stress, comparable adaptation.Try to settle on a repeatable power output such that you finish each interval...barely. This might require some trial &amp; error and it's likely to change as your fitness improves - you may be able to hold it for longer, you may be able to increase it, you may be able to repeat it with less rest. Adjust the Workout Intensity as you see fit, but make each one of these mean something, make each one hurt! And don't drop your watts lower than 110% FTP.Start out hard but hold back a little, then go full-gas for the remainder of the interval and recover no longer than recommended - very important. Then do it again &amp; again.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing, and do your best to keep that quick spin by shifting gears should you start to fatigue.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

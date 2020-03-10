@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Whitney</name>
+    <description>Whitney is a single round of Tabata Intervals created exactly as prescribed: a 4-minute set of 20-second, all-out efforts with super short, 10-second recoveries, repeated 8 times.
+
+The aim here is to make improvements across the board by severely stressing your muscular, cardiovascular and respiratory systems all in a very limited timeframe. The intensity is set at 160% of FTP which may or may not be all-out efforts for you, so feel free to manipulate this percentage as necessary.If you feel like you still have something left to give following the eighth and final repeat, these aren't truly all-out efforts, something to keep in mind for next time.Keep your cadence above 100rpm, but control is crucial so only sprint at a cadence that maintains control while probably not exceeding 120rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<Ramp Duration="190.2" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Newcomb</name>
+    <description>4 sets of 2x4-minute Force intervals at 90 or 95% FTP. Recoveries between both the intervals and interval sets are 2 minutes long.
+
+While the term 'Force intervals' can be misleading, low-cadence work is inherently higher force due to lower leg speed. This is not to imply that slow-spinning will give you massive, muscular legs; rather, the focus here is to strengthen the less obvious joint support system otherwise known as tendons &amp; ligaments.Additionally, low-cadence work is an excellent time to analyze form &amp; even flexibility issues by paying close attention to your movements in slow motion. Spin as slowly as you can control, but do so with the utmost concern for your knees, hips &amp; low back. And there's really no reason to drop below 50rpm unless you have very specific event demands that necessitate a dead-slow spin.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

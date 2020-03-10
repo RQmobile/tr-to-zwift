@@ -1,0 +1,45 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pinnacle</name>
+    <description>Pinnacle is a 3x20-minute workout performed right at your FTP, but each interval is varied in some small way.The outer efforts are almost straight blocks of work at 100% FTP, but brief, somewhat unforgiving 30-second reductions in power output to 88% FTP break things up a little.These 2 sets bookend a middle set of 5x4-minute efforts at 100% FTP and each are separated by a single minute of active recovery. 
+
+Time at threshold is all about increasing your muscular endurance, or pushing the pedals hard for reasonably long periods of time, and learning to tolerate both the physical and psychological distress that comes with working at this intensity is valuable if not a bit painful. But as your body becomes accustomed to processing excess lactate and working through high levels of acidic accumulation, your mind becomes familiar with this inherent discomfort in ways that allow you to work harder for longer as your pain tolerance increases.These relatively short Threshold intervals are also a good opportunity to home in on a target cadence or even to experiment with different cadences in order to lower your perceived exertion as much as possible without sacrificing power.Similarly, riders can work on producing full power in an aerodynamic or time trial position with shorter, more tolerable durations than similar but longer intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

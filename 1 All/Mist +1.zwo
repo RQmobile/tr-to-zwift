@@ -1,0 +1,49 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mist +1</name>
+    <description>Mist +1 is 2 sets of 4x4-minute VO2max repeats that start at 118% FTP and finish at 110% FTP.3-minute recoveries fall between intervals and 6 minutes of recovery fall between sets. 
+
+By working at very high percentages of pVO2max (power at peak aerobic uptake) which is well above FTP, riders can see tremendous improvements in both aerobic &amp; anaerobic power - all in very little time.Not only can VO2max repeats improve VO2max itself, they have positive effects on muscle endurance and most importantly aerobic endurance capabilities which is especially important for riders working on a very limited amount of weekly training hours. In far less time than that required by traditional base training, riders can develop aerobic capabilities on par with those gained via long hours of long, slow distance - little time, high stress, comparable adaptation. With prior VO2max repeat experience to draw from, try to settle quickly on your repeatable power output such that you finish each interval...barely. Adjust the 'Workout Intensity' as you see fit, but make each one of these mean something. And don't drop your watts lower than 110% FTP. Go full-gas, recover no longer than recommended - very important - and do it again. Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing, and do your best to keep that quick spin even as you fatigue by shifting gears when necessary to keep your leg speed high. During all intervals , try to pedal quickly in a lighter gear to prevent cooking your muscles any sooner than necessary.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="1.18" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="250.2" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

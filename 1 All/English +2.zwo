@@ -1,0 +1,60 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>English +2</name>
+    <description>English +2 is 3 sets of 7x70-second repeats at 122% FTP with short, 40-second recoveries between most repeats and the occasional 2-minute recovery valley in the midst of each set.Each set is separated by 10 minutes of recovery.
+
+By working at very high percentages of your power at peak aerobic uptake (pVO2max), tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to  frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.200000000001" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.599999999999" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.200000000001" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="69.599999999999" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="1.22" pace="1128505344"/>
+	<Ramp Duration="570" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,48 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Powell</name>
+    <description>Powell is 4 sets of 3x3-minute VO2 Max repeats at 110-125%FTP with an extra 105%'er to further the warmup on your road to finding your repeatable 3-minute power.Short, 2-minute recoveries separate sets & intervals. 
+
+By working at very high percentages of pVO2max (power at peak aerobic uptake) which is well above FTP, riders will see tremendous improvements in both aerobic & anaerobic power - all in very little time.Not only can VO2max repeats improve VO2max itself, they have positive effects on muscle endurance and most importantly aerobic endurance capabilities which is especially important for riders working on a very limited amount of weekly training hours. In far less time than that required by traditional base training, riders can develop aerobic capabilities on par with those gained via long hours of long, slow distance. Little time, high stress, comparable adaptation.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing, and do your best to keep that quick spin even as you fatigue, shift gears when necessary to keep your leg speed high. Try to pedal quickly in a light gear to prevent cooking your muscles any sooner than necessary.Try to settle on a repeatable power output such that you finish each interval...barely.If you complete a set of 3, see if you can handle the next wattage increase. If you get to a point where you simply can't complete the intervals, down-adjust the Workout Intensity as necessary, but make each one of these mean something.And don't drop your watts lower than 110% FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

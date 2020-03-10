@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Geiger -5</name>
+    <description>The time-crunched version of Geiger is 2x12-minute efforts spent in the Sweet Spot (88-94% FTP), a little harder than Tempo work but not as exhausting as Threshold work.Recovery between efforts is brief, just 1 quick minute. .
+
+The primary goal here is to further aerobic efficiency via Sweet Spot efforts by improving glycogen storage capacity, fat utilization, and the capacity for more intense workouts later on.The Sweet Spot power range allows riders to accumulate time at a fairly high percentage of FTP thus improving muscular endurance without working so hard that workout or interval repeatability is compromised. Try to keep your spin above 85rpm and spend time out of the saddle and/or in an aero position if either suit your goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.91" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.88" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.94" PowerHigh="0.91" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.91" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.94" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.88" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.91" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

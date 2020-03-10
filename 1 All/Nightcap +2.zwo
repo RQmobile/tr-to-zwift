@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Nightcap +2</name>
+    <description>Nightcap +2 is 5x10-minute intervals at 102% FTP with 8-minute recoveries between intervals.
+
+The primary objective of oh-so-slightly suprathreshold workouts is to extend high power over greater durations while also bringing the intervals more in line with your race scenarios.&nbsp;In the process, you'll become accustomed - both physically and mentally - to a workload just beyond your current sustainable reach.These intervals are also a perfect time to further bridging the gap between power in an upright riding position and power in an aerodynamic position.Strive your keep your cadence in that 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.02" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

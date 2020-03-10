@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Thunderbolt</name>
+    <description>Thunderbolt consists of 5x5-minute intervals at 100% FTP with brief, 1-minute active recoveries between Threshold intervals. 
+
+In the span of 45 minutes, you can accumuilate up to 25 minutes increasing your lactate processing capabilities and improving your muscular endurance. Riding at FTP can be tremendously uncomfortable but shorter efforts like these allow you to incrementally grow both your muscle endurance as well as your mental capacity for tolerating sustained discomfort. Consider using Thunderbolt's framework within our Workout Creator to nudge up the interval durations on your way to riding 20 and even 30-minute intervals at FTP. Shoot for a spin above 85rpm and don't hesitate to spend much of your time in those aerodynamic riding positions you plan to employ outdoors.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

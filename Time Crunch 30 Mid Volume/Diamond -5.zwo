@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Diamond -5</name>
+    <description>The time-crunched version of Diamond is composed of 4 sets of varied VO2max/Anaerobic (105-135% FTP) bridging efforts ranging from 20-80 seconds with varied intervals at Sweet Spot/Threshold (90-95% FTP) in between.Recoveries between sets of intervals become shorter but less severe as the workout progresses. 
+
+By simulating the demands of bridging gaps or facing harsh headwinds, Diamond strives to make you a tougher, more powerful rider who can find that extra bit of power when it's needed most.Over time, you'll see improvements in lactate processing along with increased muscle contribution which combine to form a higher resistance to muscle fatigue at effort levels near &amp; above FTP. Keep your spin above 85rpm in the "valleys" and preferably above 100rpm during the bridging surges as long as the leg speed doesn't prematurely fry your muscles.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="75" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="75" Power="1" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="80.4" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="75" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="80.4" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="75" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="75" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

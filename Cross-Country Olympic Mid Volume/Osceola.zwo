@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Osceola</name>
+    <description>Osceola is 2 sets of 3x1-minute VO2max intervals at 125% FTP and serves as a taper version of similar VO2max workouts. Active recovery intervals between work intervals is 4 minutes long and recovery between sets of intervals is 8 minutes long.
+
+Tapering is all about high intensity and low levels of volume and fatigue, so pay attention to how you feel as this deceivingly short workout progresses. If your fatigue mounts to a point where you aren't eager to attack the next 1-minute interval, skip it. If you can't rally for the interval that follows that one, your day's probably done. Taper workouts should leave you feeling fresh and ready to perform, not tired and low on motivation.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Nunburnholme +2</name>
+    <description>Nunburnholme&nbsp;+2 is 8x4-minute intervals at 108-112% FTP with 4-minute recoveries between intervals.
+
+The goals of workouts like this one are to extend supra-threshold power over greater durations by increasing both anaerobic and aerobic work capacity via a shorter, more intense approach.This power level incorporates a high anaerobic componenet but also a high aerobic contribution that only gets higher over the course of each reasonably long interval. This impacts both energy delivery systems in a meaningful and useful way; given adequate recovery, of course.Strive to keep your cadence above 90rpm, even closer to 100rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.42" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="570" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

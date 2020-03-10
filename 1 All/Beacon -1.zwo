@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Beacon -1</name>
+    <description>Beacon -1 is still 6x8-minute intervals between 95-99% FTP separated by 4-minute recoveries, but the first minute of each interval is reduced by 5% FTP. 
+
+Increase work capability at a given heart rate. Over time, Threshold workouts increase the ability to work harder without accumulating too-high levels of blood lactate and the associated heart rate at Threshold work levels will decrease due to improved fitness. Additionally, by sustaining durations at this intensity you'll gradually become more metabolically fit and increase your ability to buffer &amp; shuttle lactic accumulation. More work, less burn. Try to keep your cadence at 90rpm or higher.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.91" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

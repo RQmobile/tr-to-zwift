@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>South Twin -1</name>
+    <description>South Twin -1 consists of 2 sets of 2x2-minute VO2 Max intervals at 120% FTP.Active recovery between intervals is 4 minutes long and between sets of intervals is 8 minutes long.
+
+As with most taper/recovery workouts, the intent is to keep the intensity and ditch some of the volume and overall stress.If you find that 3 of these intervals wipes you out, then resist the urge to poorly perform the fourth and final interval simply because it's there. Similarly, if you're smoked after 2 intervals, bag the rest of the workout knowing that rest is more important and productive than stress today.Try to keep your spin quick, preferably above 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

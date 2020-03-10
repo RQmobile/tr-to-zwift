@@ -1,0 +1,44 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cardinal</name>
+    <description>Cardinal is 3x10-minute intervals in the 95-99% FTP range where riders spend 1-2 minutes segments riding out of the saddle. The workout begins with 6 minutes of Isolated Leg Training (ILT), and recoveries between intervals last 5 minutes each.
+
+Time at or near your FTP is all about increasing your muscular endurance. Growing the ability to push the pedals harder for long periods of time requires work done at high percentages of your Functional Threshold Power.Additionally, there's an emphasis on learning to tolerate both the physical and psychological distress that comes with working at this intensity. As your body becomes accustomed to processing excess lactate and working through high levels of acidic accumulation, your mind becomes familiar with this inherent discomfort in ways that allow you to work harder for longer thereby increasiong your pain tolerance.And by working in &amp; out of the saddle, you'll learn to transition more fluidly between these positions with minimal power loss while also refining your form when pedaling while standing.Try to keep your cadence above 65rpm when standing and higher than 85rpm when seated. During the ILT drills, drop your cadence as low as necessary to perform the drills effectively with and eventual goal of 90+ rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

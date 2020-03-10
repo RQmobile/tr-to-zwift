@@ -1,0 +1,33 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hermit</name>
+    <description>Hermit is two sets of 3x2-minute increasing-intensity repeats from 120-140% FTP.3 minutes of recovery fall between intervals and 8 minutes of easy spinning separate the sets.
+
+Hermit looks to sharpen your fitness without overtaxing your body as you come closer to an important/peak event by having you briefly work at very high percentages of VO2max power.Use this workout's increasing-intensity format to determine your repeatable capabilities and then repeat efforts at that % of FTP.Depending on your level of recovery and/or the proximity of your target event, Hermit can be tailored to be mildly to quite demanding based on the repeated work level you settle on.In any case, it's a short workout with a main set consisting of only 12 total minutes of time at intensityAdjust the intensity as you see fit in order to make each one of these repeats effective based on your current capabilities, but try not to drop your watts too low.Go full-gas, recover no longer than recommended and do it again.This is well above FTP and riders can see some final improvements in both aerobic and anaerobic power but without overtaxing their bodies with excessive stress in the weeks prior to your event.Not only can VO2max repeats improve VO2max itself, they have positive effects on muscle endurance and most importantly aerobic endurance capabilities which is especially important for riders working on a very limited amount of weekly training hours.In far less time than that required by traditional base training, riders can develop aerobic capabilities on par with those gained via long hours of long, slow distance. Little time, high stress, comparable adaptation.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

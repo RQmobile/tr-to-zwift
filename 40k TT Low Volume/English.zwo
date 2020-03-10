@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>English</name>
+    <description>English is 2 sets of 7x60-second repeats at 127% FTP with 50-second recoveries between each.Each set is separated by 8 minutes of recovery.
+
+By working at very high percentages of your power at peak aerobic uptake (pVO2max), tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to  frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<Ramp Duration="430.2" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

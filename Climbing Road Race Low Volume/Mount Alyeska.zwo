@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Alyeska</name>
+    <description>Mount Alyeska is 6x4-minute intervals at 105-109% FTP with 4-minute recoveries between intervals.
+
+No two ways about it, these are hard. Holding power above FTP is, by its nature, short-term due to the fact that it's a tough place to reside.But by working at mildly suprathreshold power outputs, ones that at take place at high percentages of your VO2max power, you can push your FTP higher while gaining some meaningful aerobic adaptation in the process.On top of that, intervals that induce &amp; sustain high levels of lactate work well toward lifting your physical (and mental) lactate tolerance.Strive for a cadence above 85rpm, preferably one above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.06" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.07" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.09" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.06" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

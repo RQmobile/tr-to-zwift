@@ -1,0 +1,21 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lolita -2</name>
+    <description>Lolita -2 is centered around a 20-minute practice TT effort at about 90% FTP.
+
+The goals of tune-up time trials are two-fold: 1 - Grow more accustomed to working at the height of your sustainable power for an increasingly longer span of time.2 - Assess improvements in FTP based on your time trial and more importantly your perceived exertion.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.81" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="1080" PowerLow="0.89" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

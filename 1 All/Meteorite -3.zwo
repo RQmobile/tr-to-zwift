@@ -1,0 +1,71 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Meteorite -3</name>
+    <description>Meteorite -3 is 4x18-minute over-under intervals with 90-second valleys at 85% FTP and 3-minute peaks that ascend to either 95% or 100% of your FTP. Recovery intervals between each over-under are 8-minutes long.
+
+While typical over-nders aim to flood your muscles with an acidic burn during the over-segments, this version aims to keep you just below that point. An important objective during most steady-state cycling events is to restrain yourself from overdoing it and these intervals will help you recognize these boundaries while improving your muscular endurance.Try to keep your spin in that 85-95rpm range spend some time down low &amp; aero if it suits your particular cycling discipline.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.85" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="1" PowerHigh="0.85" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

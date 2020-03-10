@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eagle -1</name>
+    <description>Eagle -1 consists of 5x10-minute intervals between 101-105% FTP with brief, 2-minute recoveries. 
+
+The goal of Threshold workouts is to extend high power over greater durations and stave off muscle fatigue in the process. So each iteration of this particular type of suffering will usually include more or longer work intervals than the version before it and the recovery valleys often shrink from training phase to training phase. These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position. Strive your keep your cadence in that 85-95rpm range, higher if it suits you.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="1.01" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

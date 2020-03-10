@@ -1,0 +1,46 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Sleeping Beauty -5</name>
+    <description>Sleeping Beauty -5 is 3 sets of 4x30/30's where 30 seconds are spent at 115% FTP and then immediately followed by 30 seconds of much lighter Endurance work. Recoveries between sets of intervals are 3 minutes long.
+
+Primarily, these efforts are about improving your maximum aerobic power or your ability to repeatedly operate at or near it.Intervals like these can raise your aerobic ceiling and create room for later improvements in your VO2max, and in the process they'll bring about aerobic adaptations that benefit your performance across the board. In the event you're using this workout to maintain a bit of intensity during a recovery week, do so cautiously.If you sometimes find yourself tired following a recovery week, reduce the volume of workouts like this or bypass them in lieu of lighter-intensity work. The aim is to begin each new training phase rested and eager to do some work.In any case, strive for a cadence of at least 90rpm or even a bit higher during each interval. But if fatigue forces a lack of control at these higher cadences, ride smoothly at any cadence that suits you.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.59" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Izaak Walton -1</name>
+    <description>Izaak Walton -1 is 4x6-minute over-uder intervals alternating between 2 minutes at 95% FTP and 1 minute at 105% FTP with 6-minute acitve recoveries between intervals.The over-unders are sandwiched by 2x20-minute Endurance intervals spent at 65% FTP. 
+
+The primary objective of over-unders is to increase your ability to tolerate and utilize the byproducts that accompany riding above your FTP, all while maintaining a reasonably high power output. In doing so, you?ll develop the ability to handle changes in pace while doing quite a lot of work. These intervals can increase how long you can work above FTP as well as how quickly you can reprocess the lactate buildup that can lead to muscle acidity. Equally as important, the short efforts above your current FTP can actually lead to increases in FTP.The Endurance intervals are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same adaptations.Try to keep your cadence above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.49" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

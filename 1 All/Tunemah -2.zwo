@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tunemah -2</name>
+    <description>Tunemah -2 is 3x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 2 minutes at 105% FTP with just 3-minute recoveries between intervals.
+
+The primary objective of over-unders is to develop the ability to handle changes in pace while maintaining a high level of work. The over-segments or "surges" flood the muscle with metabolic byproducts bringing with them the desire to easy up - don't. Hold that burn, then back off only slightly during the under-segments or "valleys" in order to work through the burn and effectively train your muscles to process the lactic buildup while still doing a lot of work.These intervals will increase your ability to better process lactate thereby increasing not only how long you can work above FTP but also potentially increasing FTP itself. Do your best to keep your cadence above 85rpm. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

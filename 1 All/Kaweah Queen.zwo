@@ -1,0 +1,46 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Kaweah Queen</name>
+    <description>Kaweah Queen consists of&nbsp;4x9-minute intervals in the 95-99% FTP range where riders spend 1-2 minutes at a time standing. Recoveries between intervals are each&nbsp;4 minutes long.
+
+Time at/near threshold is all about increasing your muscular endurance, i.e. pushing the pedals hard for reasonably long periods of time, and learning to tolerate both the physical and psychological distress that comes with working at this intensity. As your body becomes accustomed to processing excess lactate and working through high levels of acidic accumulation, i.e. your aerobic fitness improves, your mind becomes familiar with this inherent discomfort in ways that allow you to work harder for longer, i.e. your pain tolerance increases.By working in &amp; out-of-the-saddle, you'll learn to transition more fluidly between positions and with minimal power loss while also refining your form when pedaling while standing.Try to keep your cadence above 70rpm when standing and higher than 85rpm when seated.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

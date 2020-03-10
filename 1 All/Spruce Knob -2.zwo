@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Spruce Knob -2</name>
+    <description>Spruce Knob -2 is 2x20-minute intervals at 85% FTP with a 6-minute recovery between intervals. 
+
+The primary aim is to improve your ability to resist fatigue at reasonably high power output over substantial lengths of time.In other words, this workout is all about increasing your muscular endurance.In doing so, you can improve your ability to climb faster &amp; longer, face stiff winds without fading and time trial more consistently over the entire course of each event. Additionally, you have the option of targeting specific riding attributes like speed endurance and pedal economy via single-leg focus drills.Cadence recommendations vary depending on the current drill, but riders choosing to omit the drills should aim for a spin between 85-95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.43" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

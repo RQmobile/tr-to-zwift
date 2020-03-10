@@ -1,0 +1,90 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Katahdin -3</name>
+    <description>Katahdin -3 is still 4 sets lasting almost 5 minutes each, but these consist of 8x15-second efforts down at 120% FTP with the same less than restful "floats" for 15-30 seconds at 88% FTP. This version includes an intermediate 30-second recovery in the middle of each set and recoveries between sets are 5 minuts long.
+
+VO2max workouts in general target your aerobic power, pain tolerance, muscular recruitment - both in terms of how hard and how quickly you can muster that strength - and muscle endurance in a manner that coaxes you into doing a whole lot of repeats.Race simulation workouts like this one allow you to accumulate a hefty amount of time at VO2max power, all inside a reasonably short workout (even if you skip a repeat here and there). Fight hard to last through the end of each set knowing that each additional repeat can make you stronger, tougher and more capable on the race course.Important: Performing these intervals at 120% FTP assumes you can complete the intervals with few/no breaks. If you're frequently skipping repeats or backpedaling during the brief floats, reduce the Workout Intensity to your repeatable aerobic power.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

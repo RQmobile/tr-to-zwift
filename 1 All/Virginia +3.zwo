@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Virginia +3</name>
+    <description>Virgina +3 consists of 1.75 hours of Tempo work spent between 80-85% FTP.
+
+Tempo intervals are primarily aimed at increasing aerobic capabilities via reasonably long, mildly more intense work than your typical long-duration, minimally-changing aerobic endurance workouts.The workloads are low enough that you can spend a lot of time at this intensity without requiring disproportionately long recovery periods like you might face when attempting high amounts of work performed closer to your FTP.&nbsp;But the intensity is high enough to stimulate greater adaptation than you?re likely to see when noodling along at Endurance power for durations as short as these.Try to keep your spin above 85rpm, preferably closer to 95rpm for most athletes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.82" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.82" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.82" PowerHigh="0.84" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.84" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.84" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carter</name>
+    <description>Carter is 45 minutes of aerobic Endurance riding where you'll spend 30 continuous minutes between 65-75% FTP.
+
+Aerobic Endurance training is primarily about cultivating a deeper aerobic base and includes all of the physiological adaptations inherent in long, steady, low-intensity riding like improved fat metabolism, better oxygen delivery and glycogen conservation, lower HR at higher power outputs, improved work efficiency, etc.As time-constrained as most riding schedules are though, shorter Endurance rides done consistently have to make up for some of the time restrictions faced by most riders.Try to keep your spin above 85rpm range and spend ample time adapting to and modifying your position on the bike while the workload is relatively gentle.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.75" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

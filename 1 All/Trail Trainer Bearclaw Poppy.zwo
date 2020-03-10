@@ -1,0 +1,18 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Trail Trainer Bearclaw Poppy</name>
+    <description>Bearclaw Poppy Trail is a fast and short bomb down the rolling bluffs of the desert, which makes it a perfect fit for a high intensity cardio workout. Learn technique for riding up and down steep terrain and enjoy the ups and downs of the trail. Come workout with us in this fun, fast, and furious 20 minute workout that will leave your thighs screaming.This ride features a short uphill one mile climb, a quick descent down "The Fingers of Death", a ride along a desert wash, a series of steep drop-offs ("Acid Drops"), and a roller coaster style descent down the mountain. Located just outside of St. George, Utah, this fast paced trail is good for all ages and skill levels. Riders may choose level of difficulty by following the blue (intermediate) or green (easy) trail signs. The loop for this trail covers 11 miles and is one of the most popular trails in the area.
+
+Keep your power consistent throughout the entire main set.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<Ramp Duration="193.8" PowerLow="0.74" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="967.8" Power="1.13" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

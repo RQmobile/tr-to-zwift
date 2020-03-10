@@ -1,0 +1,73 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carillon +2</name>
+    <description>Carillon +2 consists of 3 sets of 2x10-minute Criss-Cross intervals ranging between 88-90% FTP during the 2-minute valleys &amp; 92-95% FTP during the 30-second surges as each interval weaves back &amp; forth across the Sweet Spot power range. 1 minute of recovery separates the intervals &amp; 5 minutes of recovery separate each set.
+
+Sweet Spot work is largely about increasing one's ability to sustain high levels of power for long periods of time, i.e. increase muscular endurance.This format breaks things up in order to also work on skills such as saddle transitions, riding out of the saddle or aerodynamically, and cadence variations, e.g. speed work &amp; force work.Shoot for a cadence higher than 85rpm when seated and above 65rpm when standing unless the drills indicate otherwise.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

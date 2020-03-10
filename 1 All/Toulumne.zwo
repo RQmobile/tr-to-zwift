@@ -1,0 +1,56 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Toulumne</name>
+    <description>6x3-minute hill attack intervals where the first 2.5 minutes is spent above threshold in order to thoroughly tax your aerobic capacity (VO2max) while the final 30s simulates an aggressive kick to the top of the hill with the goal of increasing your anaerobic capacity (lactate processing). Each effort is separated by 90s of recovery and the final 3-minute effort is followed by a 20-minute set of hill accelerations where riders spend the majority of their time below FTP in the Sweet Spot but are forced out-of-the-saddle for mild 30-seconds accelerations every 2.5 minutes.
+
+The first half of this combination workout seeks to improve maximum aerobic power (power relying primarily on oxygen rather than sugar stores) but then briefly addresses improvements in anaerobic power (no oxygen, all high-energy fuel sources) via brief kicks well above FTP. Then you?ll challenge your muscle endurance over the course of 20 minutes with occasional 30-second opportunities to get out of the saddle and stretch your legs without sacrificing any power.Maintain a high cadence, 100+ rpm, during the first portion of each interval, then go all-out WITH CONTROL during the final 30s, treat it like a true surge to the line.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="225" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

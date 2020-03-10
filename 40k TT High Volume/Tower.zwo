@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tower</name>
+    <description>Tower could well be labeled an exhaustion workout in the way it gradually wears you down with back-to-back, zero-rest intervals lasting 16 minutes each. You'll start at 60% FTP as you progress the workload up to 100% FTP during your final, 10% step.
+
+The muscular endurance intervals in this particular sequence of workouts - consisting of Rendezvous, Piute, Ragged &amp; Tower - grow in duration each week via slightly longer steps. Progression Workouts ever so gradually increase the power requirement until you are working at your Functional Threshold Power, all in an effort to raise that maximum steady-state pace, your ability to withstand increasing physical discomfort and your time to exhaustion.Do your best to keep your cadence in that 85-95rpm range with each upward step in power output, and spend greater lengths of time in your aero position even as the power requirements grow.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.5" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="930" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="930" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.7" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="930" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="930" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="1" pace="1128505344"/>
+	<SteadyState Duration="930" Power="1" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

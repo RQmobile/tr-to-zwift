@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Granite</name>
+    <description>Granite consists of 4x7-minute speed intervals with power&nbsp;between 75-90% FTP decreasing then increasing in order to increase then decrease cadence respectively - power goes down, speed goes up and vice versa. Individual leg training (ILT) drills conclude the warmup and are included between sets of ladders and 3-minute recoveries fall between all intervals.
+
+Improved pedaling mechanics through the use of high-cadence efforts cultivating a more efficient pedalstroke and allowing better use of energy at all leg speeds - greater pedal efficiency means less wasted energy.Higher cadences reduce the level of muscle stress and shift the energy demand more toward the aerobic (oxygen-dependent) system and away from the anaerobic (sugar-dependent) system. Many light pedalstrokes utilize less sugar than fewer hard pedalstrokes. Cadence can climb as high as a rider can sustain while exhibiting excellent control but should fall no lower than 90rpm. ILT cadence is a low as necessary to learn single-leg control with a goal cadence of 90rpm/leg for all durations as improvement takes place.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

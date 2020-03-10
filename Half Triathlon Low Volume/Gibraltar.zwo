@@ -1,0 +1,44 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gibraltar</name>
+    <description>Gibraltar is 105 minutes of continuous riding where you'll spend 90 minutes between 80-85% FTP.
+
+Tempo rides are the height of aerobic endurance and while rather uncomfortable, they aren't too stressful to keep you from spending pretty long durations at a productive work level that isn't too demanding in terms of recovery.This is where most long-course triathletes will live for hours at a time. This is also where a lot of time is spent during any long road ride.Use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power. Try to do so with a cadence above 85rpm, preferably above 90rpm.
+
+
+
+
+
+There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.80" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.80" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.80" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.80" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.81" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.40" PowerHigh="0.30" pace="1128505344"/>
+    </workout>
+</workout_file>

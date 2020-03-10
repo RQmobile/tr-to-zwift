@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>TrainerPowerCurveMeasurement</name>
+    <description>This isn't a workout. It is just a special protocol for people who have access to a power meter in order to create a power curve for the trainer on which they are riding. Only do this if we tell you specifically to do this - this is not a workout. Set your FTP to 100 before starting. Or, do this off of speed targets while you have set workout mode to HR. We repeat, this is not a workout.
+
+Establish a power curve in order to add a new trainer to our list of supported trainers. This is not a workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="3" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1" pace="1128505344"/>
+    </workout>
+</workout_file>

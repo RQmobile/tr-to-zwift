@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Conness</name>
+    <description>Conness consists of nearly 2.75 hours of aerobic Endurance riding spent between 60-70% FTP.Some of the optional form drills are Form Sprints, Endurance Spinning intervals, a bit of aero work &amp; some Single-Leg Focus drills to name a few.
+
+Conness is primarily aimed at building aerobic power &amp; efficiency by improving your ability to metabolize fat at higher power outputs while sparing sugar in the process.Try to keep your cadence above 85rpm unless instructed otherwise.The optional form drills target improvements in pedaling mechanics by focusing on the top &amp; bottom quadrants of your pedalstroke, improvements in leg speed &amp; pedal economy and improvement in the application of power throughout each leg's entire pedalstrokeForm Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear. As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10 seconds long and are all about leg speed, form &amp; technique, so experiment with which foot leads and learn how to generate a lot of leg speed in very little time.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence. Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals more quickly with less force (muscle stress) thereby improving your ability to remain predominantly aerobic over a wide rpm range. If your HR rises more than a few bpm, you're pedaling too quickly - take it easy and stay relaxed but quick.Single-Leg Focus: The objective here is to learn to more effectively apply power through the entire pedalstroke by focusing strictly on one leg's activity through the bottom, upstroke and over the top of the pedalstroke. For 60-90 seconds at a time, devote your attention to one leg before switching to the other. Your cadence may fall slightly, but these drills typically come more naturally to riders less experienced with single-leg drills. Pay particular attention to lightly pulling your foot across the bottom, lifting your knee lightly upward &amp; then softly kicking over the top of each pedalstroke. Add this drill indoors or outdoors as often as you like, more frequently if you recognize a substantial difference in one leg's strength or coordination.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1860" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1680" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

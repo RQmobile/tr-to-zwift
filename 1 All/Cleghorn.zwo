@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cleghorn</name>
+    <description>Race simulation of the Cleghorn HarvestFest Race
+
+Created by James Manz</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="390" Power="0.67" pace="1128505344"/>
+	<SteadyState Duration="195" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="225" Power="1" pace="1128505344"/>
+	<SteadyState Duration="105" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="285" Power="0.79" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.21" pace="1128505344"/>
+	<SteadyState Duration="409.8" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.53" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="80.400000000001" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="450" Power="1.14" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.79" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="229.8" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="105" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="315" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

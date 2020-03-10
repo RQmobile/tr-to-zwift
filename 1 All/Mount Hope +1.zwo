@@ -1,0 +1,33 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Hope +1</name>
+    <description>Mount Hope +1 is 5x10-minute intervals at 95-99% FTP with 9-minute Endurance intervals at 60% FTP between each.
+
+By working at the very edge of FTP, you can improve your ability to perform more work (i.e., go faster) without accumulating too-high levels of blood lactate. Additionally, your heart rate at all work levels can decrease due to improved abilities to get the necessary fuel to your muscles more efficiently and to clear the byproducts of hard work more effectively - more work, less fatigue, less burn. Try to keep your cadence between 85-95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.97" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.99" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.97" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

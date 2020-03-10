@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Vogelsang +2</name>
+    <description>Vogelsang +2 consists of 4 hours of aerobic Endurance riding spent between 60-65% FTP except for&nbsp;4x20-minute Tempo segments at 75% FTP.
+
+Aerobic Endurance workouts primarily target improvements in the ability to utilize oxygen to&nbsp;metabolize fat as the primary fuel source thereby preserving or 'stretching' carbohydrate stores and necessitating less food intake over the course of your workouts, rides, and&nbsp;races.Additionally, properly recovered athletes are likely to see improvements in the body's ability to deliver oxygen to the muscles and then more effectively utilize it, increases in their time to exhaustion, and&nbsp;strengthened connective tissues. Long rides of this nature are also an excellent time to practice on-the-bike nutrition.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="450" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.6" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.75" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1380" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.75" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.6" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.75" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.75" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="900" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

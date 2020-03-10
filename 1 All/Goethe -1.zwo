@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Goethe -1</name>
+    <description>Goethe -1 is 4x10-minute intervals very close to FTP ranging from 93-97% FTP with short, 2-minute recoveries between intervals.
+
+Threshold work is about 2 things: muscular endurance and pain tolerance. Sure, you'll improve lactate processing, you can work on aero positioning and breathing techniques, but unless your muscles can handle the abuse and your mind can compartmentalize the pain, nothing else will matter.As such, try to remain as relaxed, fluid and steady as possible as you dole out the continuous work for 10 minutes at a time.The slight changes in intensity could allow you to further understand what loads up your muscles and what keeps that flooding at bay.Try for a spin above 85rpm, above 95rpm if you're trying to cultivate a quicker, more aerobic spin. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.39" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

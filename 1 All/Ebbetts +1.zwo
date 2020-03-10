@@ -1,0 +1,73 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Ebbetts +1</name>
+    <description>Ebbetts +1 is 5x8-minute intervals between 88-94% FTP with 5-second high-power tags between 150-180% FTP.5-minute recoveries separate the intervals. 
+
+Ebbetts' primary goal is to improve your ability to sustain pretty high levels of your FTP for longer periods of time, i.e. increased muscular endurance. Additionally, you can achieve increases in glycogen storage capacity, fat utilization, and your capacity for more intense workouts later on.Ebbetts also aims to increase your ability to generate a lot of power in a very short period of time via increases in how much muscle you can activate as well as how quickly you can do it.These muscle-activating tags are short enough to avoid overwhelming your muscles as long as a quick cadence is utilized, so spin quickly through the bursts and then promptly return to your pre-burst cadence.Try to keep your cadence above 85rpm during the majority of the intervals and then as fast as you can control during the bursts, ideally above 110rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.61" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.61" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.61" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.61" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="4.8000000000002" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="4.8000000000002" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="55.2" Power="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

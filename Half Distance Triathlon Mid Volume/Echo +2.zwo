@@ -1,0 +1,33 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Echo +2</name>
+    <description>Echo +2 is 80 total minutes of Tempo work broken into 8x10-minute segments ranging from 80-90% FTP.
+
+Tempo rides are the height of aerobic endurance and while rather uncomfortable, they aren't too stressful to keep you from spending pretty long durations at a productive work level that isn't too demanding in terms of recovery.This is where some long-course and Olympic-distance triathletes will spend ample time. This is also where time is spent during any long but aggressive road ride. If applicable, use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power.There is no scheduled rest during this workout, but brief, occasional backpedal breaks&nbsp;are encouraged if they're the difference between loss of form and a high-quality workout.Try to do so with a cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.65" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

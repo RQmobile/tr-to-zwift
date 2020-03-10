@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cajon</name>
+    <description>Cajon is a pre-race warmup for events that will require long, sustained efforts.Starting with a gradual ramp and 1-minute effort at 80% FTP, you then get a chance to collect yourself before a 80-90% 5-minute ramp.After this primer, the warmup becomes more event-specific with a 8-minute effort at 92% FTP. This sub-threshold TT effort will make sure you're body is primed and ready for the consistent effort that lies ahead.
+
+Warm up for long, sustained events. Strive to mentally prepare yourself by focusing your mind on the task at hand as you prepare yourself physically.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.8" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wright Peak</name>
+    <description>Wright Peak is 3x30-minute intervals ranging from 90-92% FTP with 5-minute recoveries in between.
+
+When working this close to FTP, the goal is almost always to improve muscular endurance. You can bring about all of the performance-enhancing adaptations that come as a result of riding at your FTP but with a bit less stress on your muscles and mind. Build your fitness to a point where you can remain this close to your FTP for durations this long and it's probably time to reassess your FTP or push up your aerobic ceiling with some concentrated VO2max work.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

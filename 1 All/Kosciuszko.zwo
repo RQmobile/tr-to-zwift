@@ -1,0 +1,42 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Kosciuszko</name>
+    <description>Kosciuszko consists of 8x5-minute repeats at 108% FTP separated by 3-minute recovery valleys.
+
+Ducking far enough below VO2max power to allow far greater time at an output still well above your current sustainable power is the name of this game.The intent is to build greater muscular endurance and pain tolerance as your VO2max intervals become more and more similar to your key event. Shoot for a cadence in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="529.8" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.71" PowerHigh="1.09" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.41" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="169.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

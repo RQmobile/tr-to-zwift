@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Trail Trainer Gooseberry Mesa</name>
+    <description>Gooseberry Mesa is a world renowned mountain biking trail because of its amazing slickrock, tough terrain, and beautiful scenery. This 70 minute workout will push your muscles to exhaustion, and the ride will leave you guessing which way to turn and how to get up or down the next obstacle. This workout teaches agility, balance, and bike handling skills.This workout starts at the Cattle Grate Trail and then connects with God's Skateboard Park. After about 1.5 miles, the ride hooks up with Rattlesnake Rim until turning down Hidden Canyon Maze and then the North Rim Trail. The workout ends with a short jaunt down the Slickrock 101 back to the trailhead.Gooseberry Mesa, located near Zion National Park, features over 20 miles of trail on the mesa, and it's rideable year round, except in inclement weather. Many of the trails are advanced technical, but there are some beginner trails.
+
+Maintain power through each strength interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="298.8" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="217.8" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="250.2" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="25.2" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="96.6" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="35.4" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="541.8" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="171" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="547.2" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="180.6" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="311.4" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="76.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0" pace="1128505344"/>
+	<SteadyState Duration="97.2" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="148.8" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="43.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="239.4" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="28.8" Power="0" pace="1128505344"/>
+	<SteadyState Duration="112.8" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="55.199999999999" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="298.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="111" Power="0.46" pace="1128505344"/>
+    </workout>
+</workout_file>

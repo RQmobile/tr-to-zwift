@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Red Lake +2</name>
+    <description>Red Lake +2 is 5x5-minute repeats at 108% FTP, each with a very brief, 30-second intermediate break.Each segmented interval is separated by 5-minute recovery valleys.
+
+A noticeable drop from typical VO2 Max power allows far greater time at a potentially very productive power output well above your current sustainable power.The intent is to build greater muscular endurance and mental toughness by working at a high percentage of your maximal oxygen uptake with repeats that thoroughly stress your aerobic system. Shoot for a cadence above 85rpm, above 95rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.08" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.08" pace="1128505344"/>
+	<Ramp Duration="450" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

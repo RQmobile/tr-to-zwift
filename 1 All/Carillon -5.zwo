@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carillon -5</name>
+    <description>The time-crunched version of Carillon is made up of 2x10-minute Criss-Cross intervals where the valleys idle between 88-90% FTP for 2 minutes, then 30-second surges rise to 92-95% FTP as each interval weaves back and forth across the Sweet Spot power range.1 minute of recovery separates the intervals.
+
+Over-unders are typically about flooding your muscles and then forcing you to 'ride off' the accumulation. But since these intervals are all spent below FTP, the challenge can shift to other focuses while you improve your muscular endurance.Try spending the 2-minute valleys out of the saddle or perhaps in an aero position or maybe spend the 30-second segments standing or aero. In any case, feel free to dress these intervals up and make them doubly productive.Shoot for a cadence higher than 85rpm when seated and above 65rpm when standing.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

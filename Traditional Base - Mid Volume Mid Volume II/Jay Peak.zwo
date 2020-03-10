@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Jay Peak</name>
+    <description>Jay Peak is 2 hours and 15 minutes of Tempo intervals spent between 70-80% FTP with intermittent, 3 to 5-minute recoveries at 55% FTP. 
+
+Jay Peak is focused on building aerobic power while refining your climbing technique and familiarizing your body with the unique stress of climbing. Try to occasionally spend time turning the pedals with relatively high force yet still remaining relaxed, as though you're stuck in a big gear on a reasonably steep ascent. Keep your spin above 70rpm when seated and above 60rpm when standing unless you plan to grind out big gears when climbing outdoors (and you know your knees can handle the abuse).Otherwise, shoot for a seated climbing cadence above 80rpm and a standing climbing cadence above 70rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

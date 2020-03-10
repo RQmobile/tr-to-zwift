@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Townsend</name>
+    <description>Townsend consists of 90 minutes of aerobic Endurance riding spent between 60-70% FTP.
+
+As with all aerobic endurance workouts, this workout's goals are to condition your working muscles to utilize fat and preserve sugar stores, to improve oxygen delivery to the muscles as well as enhance&nbsp;O2 utilization by those very muscles, to increase muscular resistance to fatigue, and to improve the integrity of your connective tissues.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1080" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

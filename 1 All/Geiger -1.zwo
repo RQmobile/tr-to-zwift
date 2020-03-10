@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Geiger -1</name>
+    <description>Geiger -1 is 3x12-minute efforts spent between 83-89% FTP with brief, 3-minute recoveries between efforts.
+
+Muscular endurance intervals are all about furthering the ability to work at high percentages of FTP for reasonably long durations.Additional, related benefits include improved sugar storage in the muscles, better utilization of fat for fuel, a higher capacity for more intense workouts later on, and increased power output at moderate , largely aerobic intensities.Try to keep your spin above 85rpm unless the efficiency drills specify different cadences.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.83" PowerHigh="0.86" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.86" PowerHigh="0.83" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.83" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.89" PowerHigh="0.86" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.85" PowerHigh="0.87" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.87" PowerHigh="0.85" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.85" PowerHigh="0.87" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.87" PowerHigh="0.85" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.85" PowerHigh="0.87" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.87" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.86" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.89" PowerHigh="0.83" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.83" PowerHigh="0.86" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.86" PowerHigh="0.83" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Glassy +2</name>
+    <description>Glassy +2 is 4x15-minute intervals between 85-100% FTP with 5-minute recoveries between them.
+
+The primary aim of muscular endurance work like this is to improve your ability to resist fatigue at reasonably high power outputs over substantial lengths of time.In other words, workouts like this are all about increasing your muscular endurance.In doing so, you can improve your ability to climb faster and longer, face stiff winds without fading and time trial more consistently over the entire course of an event. Additionally, you have the option of targeting specific aspects of climbing form, time trialing, speed endurance, and aerodynamic positioning.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wright Peak -6</name>
+    <description>Wright Peak -6 is 2x30-minute intervals at 94% FTP with a couple 30-second active recoveries woven into each long interval. The intervals are separated by a 10-minute recovery valley. 
+
+When working close to FTP, the goal is almost always to improve muscular endurance. This level of effort allows you to bring about much of the performance-enhancing adaptations that come as a result of riding at your FTP but with a bit less stress on your muscles and mind. Build your fitness to a point where you can remain this close to your FTP for durations this long and it's probably time to reassess your FTP or push up your aerobic ceiling with some concentrated VO2max work.Try to keep your spin above 85rpm, preferably above 95rpm if you can sustain a high cadence comfortably.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Whitney +3</name>
+    <description>Whitney +3  consists of 3 shorter rounds of Tabata Intervals where each 3-minute burst of 20-second, all-out effort is followed by a short 10-second recovery for a total of 6 reps per set. A 2-minute rest separates each set.
+
+The aim here is to make improvements across the board by severely stressing your muscular, cardiovascular and respiratory systems all in a very limited timeframe. The intensity is set at 160% of FTP which may or may not be all-out efforts for you, so feel free to manipulate this percentage as necessary.If you feel like you still have something left to give following the sixth repeat in that first or second set, lift the Workout Intensity prior to the next round.Keep your cadence above 100rpm, but control is crucial so only sprint at a cadence that maintains control while probably not exceeding 120rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="109.8" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="130.2" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

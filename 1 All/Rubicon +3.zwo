@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Rubicon +3</name>
+    <description>Rubicon +3 consists of 3x15-minute intervals at 105% FTP with 8-minute recoveries between intervals.
+
+The goal of most taper-version workouts is to maintain the intensity of the previous weeks while reducing the total weekly volume.This allows your body to better absorb the training stress, continue positive performance adaptations and ditch some fatigue in time for further training and/or competition.Strive your keep your cadence in that 85-95 rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="900" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="900" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="900" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="540" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

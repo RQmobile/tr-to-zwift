@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Steamboat</name>
+    <description>Steamboat consists of 4x8-minute spin-ups between 78-84% FTP where leg speed is the focus. Each interval consists of 4 quick minutes, 3 quicker minutes, and 1 really quick minute at relatively low power output.9 minutes of ILT (Individual Leg Training) precedes the spin-ups, and 3 minutes of recovery fall between intervals.
+
+The primary focus is Improved pedaling mechanics through the use of high-cadence efforts that cultivate a more efficient pedalstroke and allow better use of energy at all leg speeds.Higher cadences reduce the level of muscle stress and shift the energy demand more toward the aerobic system and away from the anaerobic, sugar-dependent system - many light pedalstrokes utilize less sugar than fewer hard pedalstrokes.Cadence can climb as high as a rider can sustain while exhibiting excellent control but should fall no lower than 90rpm. ILT cadence is a low as necessary to learn single-leg control with a goal cadence of 90rpm/leg for all durations as improvement takes place.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.78" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

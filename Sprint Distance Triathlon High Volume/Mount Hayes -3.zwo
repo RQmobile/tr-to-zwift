@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Hayes -3</name>
+    <description>Mount Hayes -3 is 4x12-minute intervals at 85-90% FTP with 3-minute recoveries between intervals.
+
+The primary aim of Sweet Spot work is to improve your ability to resist fatigue at reasonably high power outputs over substantial lengths of time.In other words, workouts like this are all about increasing your muscular endurance.In doing so, you can improve your ability to climb faster and longer, face stiff winds without fading and time trial more consistently over the entire course of an event. Aim for a spin above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.89" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.89" pace="1128505344"/>
+	<Ramp Duration="510" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

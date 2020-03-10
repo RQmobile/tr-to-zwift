@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Intro Workout - Non-Smart</name>
+    <description>
+
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="30" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

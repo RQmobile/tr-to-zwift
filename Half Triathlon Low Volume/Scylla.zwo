@@ -1,0 +1,45 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Scylla</name>
+    <description>Scylla is 3x12-minute over-under intervals alternating between 2 minutes at 97% FTP and 1 minute at 103% FTP with 6-minute recoveries between intervals.
+
+The primary objective of over-unders is to increase your ability to tolerate and utilize the byproducts that accompany riding above your FTP, all while maintaining a reasonably high power output. In doing so, you?ll develop the ability to handle changes in pace while doing quite a lot of work.&nbsp;The over-segments or 'surges' flood the muscle with metabolic byproducts bringing with them the desire to ease up - don't.&nbsp;Hold that burn, then back off only slightly during the under-segments or 'valleys' in order to work through the burn and effectively train your muscles to process the lactic buildup while still going pretty hard.These intervals can increase how long you can work above FTP as well as how quickly you can reprocess the lactate buildup that can lead to muscle acidity. Equally as important, the short efforts above your current FTP can actually lead to increases in FTP.Try to keep your cadence above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.50" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.103" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.40" PowerHigh="0.30" pace="1128505344"/>
+    </workout>
+</workout_file>

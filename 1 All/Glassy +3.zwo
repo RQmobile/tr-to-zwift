@@ -1,0 +1,47 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Glassy +3</name>
+    <description>Glassy +3 is 5x15-minute intervals between 80-95% FTP with 4-minute recoveries between them.
+
+Tempo intervals are primarily aimed at increasing aerobic capabilities via reasonably long, mildly more intense work than your typical long-duration, minimally-changing aerobic endurance workouts.The workloads are low enough that you can spend a lot of time at this intensity without requiring disproportionately long recovery periods like you might face when attempting high amounts of work performed closer to your FTP.But the intensity is high enough to stimulate greater adaptation than you're likely to see when noodling along at Endurance power for durations as short as these.Try to keep your spin above 85rpm, preferably closer to 95rpm for most athletes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

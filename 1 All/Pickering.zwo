@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pickering</name>
+    <description>Pickering starts with a 20-minute interval at FTP broken up by 4x30-second intervals at 90% FTP. After 5 minutes of rest, 5x4-minute intervals at FTP await, each followed by a single minute's rest.
+
+Aimed at improving muscular endurance, Pickering is another spin on the usual 2x20-minute standard.The first 20 minutes at 100% FTP includes a 30-second reduction about every 5 minutes while the second 20 minutes is broken into five 4-minute segments with short, but substantially more helpful 1-minute recoveries.The second interval is a bit more forgiving in hopes of keeping your power on target for an entire 40 minutes, all told.Use these reprieves to improve how steadily and evenly you apply power to the pedals when working at FTP.Allow them to help you maintain your focus and elevate your productivity well above what you might turn out during steady 20-minute blocks.Aim for a cadence in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.38" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

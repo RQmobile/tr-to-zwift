@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Virtual Race Across America</name>
+    <description>If you're an avid cyclist, you've heard of it, you've followed it, maybe you've even dreamed about doing it. It's the Race Across America, that epic, 3,000 mile bicycle race that takes place every June!The Virtual Race Across America gives you a broad sample of this amazing race with seven selected segments of the course all in an awesome one hour training ride.
+
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="244.8" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="52.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="394.8" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="135" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.48" pace="1128505344"/>
+	<SteadyState Duration="298.8" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="23.4" Power="0.51" pace="1128505344"/>
+	<SteadyState Duration="147.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="148.2" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="25.8" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="32.4" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="669.6" PowerLow="0.9" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="226.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="25.2" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="298.8" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="28.8" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="829.2" PowerLow="0.9" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="69" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="87" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

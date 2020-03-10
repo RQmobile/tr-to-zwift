@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Diamond Valley Road Race +1</name>
+    <description>This 5-lap workout is a race simulation based on the make-or-break segment of a Carson/Tahoe/Reno road race course.It begins with an initial effort lasting 2 minutes at 115% FTP, a brief 30-second active recovery, 2 minutes of Tempo work, and then a second 2-minute effort at 115% FTP that concludes with a 30-second kick at 120% FTP. Recovery between each interval is 6 minutes long.
+
+Diamond Valley is a looped course featuring two short, back-to-back climbs with brief recoveries. These intervals mimic the two climbs in hopes of recreating the stress encountered during each lap and offering riders an opportunity to hone their approach to this particular type of repeated effort.Try to keep your cadence above 85rpm, preferably closer to 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="170.4" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

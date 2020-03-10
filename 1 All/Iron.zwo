@@ -1,0 +1,87 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Iron</name>
+    <description>Intermediate Tabata: Rather than the typical 4-minute sets, these 5x3-minute Tabata-like repeats offer 18-second all-out (180% FTP) efforts followed by either 12-seconds or 18-second recoveries; 5-minute rest between sets of intervals. Performed outside, these efforts would be "mild" to extreme sprints in order to further acquaint riders with the intensity of Tabata repeats. On a flat road or mild climb, sprint near your all-out intensity seated or standing. Cadence should be kept well above 100rpm but control is crucial so sprint at a cadence that maintains control with an eventual goal of 120+rpm.
+
+Improve maximum aerobic capacity (endurance that allows riders to work harder & longer with less sugar-expense and improved oxygen utilization) while simultaneously increasing anaerobic work capacity (greater speed endurance, improved lactate processing & improved sprint capabilities). Cadence should exceed 100rpm during every interval, but if fatigue forces a lack of control at higher cadences then shoot for 90+rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="6" Power="2" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="246" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="312" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="318" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="312" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="2" pace="1128505344"/>
+	<SteadyState Duration="318" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="312" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

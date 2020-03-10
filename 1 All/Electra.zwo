@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Electra</name>
+    <description>Following a 15-minute warmup, you’ll try to stay as close to 120rpm as possible without bouncing in the saddle during a couple of 1-minute fast-pedal efforts. The heart of the workout is 3x10-minute intervals at 90% FTP with 6 minutes of rest after each. The workout concludes with a set of 6 more 1-minute fast-pedal efforts with 90 seconds of rest between each.
+
+The short efforts are an opportunity to target quick but smooth pedaling well over 100rpm for brief periods of time while the goal of the main set of intervals is foster muscular endurance at a fairly high percentage of FTP.These longer intervals are excellent opportunities to work on aerodynamic positioning and/or different cadences.Cadence should be as close to 120rpm as possible during the 1-minute intervals and between 85-95rpm during the 10-minute intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.84" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="510" Power="0.6" pace="1128505344"/>
+    </workout>
+</workout_file>

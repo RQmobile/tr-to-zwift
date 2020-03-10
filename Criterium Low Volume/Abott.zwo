@@ -1,0 +1,59 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Abott</name>
+    <description>Abott is 3 sets of 3x3-minute 'Attack and Recover' intervals with very short, 1-minute recoveries between intervals and 4-minute recoveries between sets.
+
+This workout targets improvements in Anaerobic capacity by increasing times to exhaustion at levels well above FTP and even above VO2max power. Performing them on the heels of muscularly taxing Threshold efforts furthers the challenge for riders coming into race-level fitness.The benefits of training at intensities this high are plentiful and wide-ranging. From improved lactate processing capabilities/acidic tolerance to greater levels of muscle fiber recruitment and increased fiber size all equating to greater work capacity - painful but productive.The intensity and repetition make these efforts especially useful for mountain bikers, cyclocross racers, road racers and criterium riders.Cadence during the Threshold portions of each interval should stay above 90rpm and then jump to 100rpm or higher during the supra-threshold 'attacks' even exceeding 120rpm during the very brief, 15-second sprints that conclude each set of intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.22" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.24" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.64" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.9" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

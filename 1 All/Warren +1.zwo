@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Warren +1</name>
+    <description>Warren +1 consists of over 2 hours of aerobic Endurance riding spent between 60-70% FTP and includes 3x15-second sprints. It also includes some optional form sprints, endurance-spinning intervals, and some Isolated Leg Training (ILT) drills.
+
+Endurance workouts are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts. This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same&nbsp; adaptations.&nbsp;The additional sprint efforts are aimed at increasing your ability to recruit additional muscle fibers in an effort to grow your work capacity and lift your sustainable power.Try to keep your spin above 85rpm, well above 100rpm during the short sprints.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence.Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals quicker with less force (muscle stress), thereby improving your ability to remain predominantly aerobic over a wide range of rpm. If your HR rises more than a few bpm, you're pedaling too quickly - take it easy and stay relaxed but quick.Isolated Leg Training&nbsp;(One-Leggers): Like Single-Leg Focus drills, the objective here is to learn to more effectively apply power through the entire pedalstroke by focusing strictly on one leg's activity through the bottom, upstroke, &amp; over the top of the pedalstroke. Completely unclip one foot from the pedal and rest it on your trainer, a stool, or anything that allows it to safely rest without interfering with your other leg's pedaling. Begin with slow cadence - very slow in some cases - and periods of 10-20s per leg unless you can pedal longer without "knocking" and don't worry about your temporarily low power, these drills aren't about strength. As you improve, your cadence will increase as will each leg's duration.Pay close attention your kick &amp; pull, thinking more in terms of horizontal/back &amp; forth pedaling especially if you begin feeling deadspots in your pedalstroke or you begin hearing a knocking sound due to those deadspots. Keep tension on the chain and switch anytime your form degrades; don't practice bad habits just to tack on 5 or 10 more seconds. Include this drill indoors 2-3 times each week accumulating 5-10 minutes per leg each workout.Form Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear. As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10s long and are all about leg speed, form, and technique. Experiment with which foot to lead with, and learn how to generate a lot of leg speed in very little time.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<Ramp Duration="39.6" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="260.4" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2.25" pace="1128505344"/>
+	<Ramp Duration="39.6" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="260.4" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2.5" pace="1128505344"/>
+	<Ramp Duration="39.6" PowerLow="0.2" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="275.4" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1620" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.58" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

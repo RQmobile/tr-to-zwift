@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carter +2</name>
+    <description>Carter +2 ups the demand to the point where you'll ride for 30 continuous minutes between 85-95% FTP.
+
+This version of Carter is aimed at riders prepping for 10-mile TT's or the bike leg of a sprint triathlon (roughly 12 miles long) and lifts the demand 10% above that of its closest, easier version.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

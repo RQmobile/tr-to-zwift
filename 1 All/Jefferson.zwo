@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Jefferson</name>
+    <description>Jefferson is 4x5-minute intervals at 95% FTP with 5-minute recoveries at 50% FTP.Each interval places emphasis on varied climbing cadences (60/80/100rpm) and standing climbing drills where riders stand for 20 pedalstrokes at the top of each minute during the intervals. Pedalstroke quadrant drills are included mostly during the seated segments but trickle into the standing segments too. 
+
+The primary goal is to improve muscular endurance when climbing by targeting high levels of muscle control during slower, higher-force efforts.Additionally, Jefferson seeks improvement in your ability to not only transition in and out of the saddle smoothly, but to do so while limiting fluctuations in power output.Finally, there's ample opportunity to refine your body positioning when standing as well as improve pedaling technique when working out of the saddle. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

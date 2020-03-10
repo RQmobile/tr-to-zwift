@@ -1,0 +1,48 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>North Guard</name>
+    <description>North Guard consists of 5 sets of descending-intensity/ascending-duration intervals comprised of 90 seconds at 109% FTP, 3 minutes at 105% FTP and 5 minutes at 103% FTP. Recoveries within the sets are 1-2 minutes long and the active rests between sets are each 3 minutes in length.
+
+These superset-style intervals are VO2max in nature meaning your legs will load up and your breathing rate will be very high, but it also means you'll be doing a lot of work &amp; incurring a lot of stress in a very limited amount of time, the very construct of HIT workouts. By reducing the intensity each interval, we can increase the duration and thoroughly, and we hope pretty equally, tax your muscles as well as your heart &amp; lungs. The overriding goal is to address muscular improvements as much as metabolic adaptation here!Try to keep your spin above 95rpm during the work intervals if that's a reasonable cadence for you. If not, strive for 85+rpm over the entire workout, even the rest periods.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

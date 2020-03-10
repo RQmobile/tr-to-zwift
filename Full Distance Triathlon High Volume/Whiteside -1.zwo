@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Whiteside -1</name>
+    <description>Whiteside -1 is 5x20 Sweet Spot repeats at 88% FTP each separated by 5 minutes of active recovery.
+
+Sweet Spot work is focused on improving both aerobic power as well as muscular endurance. When spending time at this intensity, the objectives are to grow the ability to sustain a high percentage of FTP while also furthering the body's ability to fuel more work via fat metabolism. This is a progressive workout in that riders are encouraged to work up to completing this entire workout. Novice riders might only complete the first two intervals and can then add one interval every week until they can manage all five.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

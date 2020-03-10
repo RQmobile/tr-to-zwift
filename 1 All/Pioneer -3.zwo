@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pioneer -3</name>
+    <description>Pioneer -3 is a 45-minute segment between 70-75% FTP nestled inside of an hour-long workout.
+
+Training at the high end of the Endurance range is still quite productive, especially as the ride durations climb. Recovery from rides at this effort level is usually pretty quick, but longer rides in this wattage range can take a surprising toll on even very fit athletes.&nbsp;This is where fairly conservative ultra-distance triathletes will live for hours at a time. This is also where a lot of time is spent during any long road ride or milder-terrain trail ride.There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.
+
+
+
+
+
+If it applies, use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power. Try to do so with a cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.71" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

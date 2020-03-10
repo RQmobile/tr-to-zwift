@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Kennedy Peak +1</name>
+    <description>Kennedy Peak +1 is 2.5 hours of Tempo intervals spent between 75-85% FTP with intermittent, 3-minute recoveries at 55% FTP. 
+
+Tempo intervals are primarily aimed at increasing aerobic capabilities via reasonably long, mildly more intense work than your typical long-duration, minimally-changing aerobic endurance workouts.The workloads are low enough that you can spend a lot of time at this intensity without requiring disproportionately long recovery periods like you might face when attempting high amounts of work performed closer to your FTP. But the intensity is high enough to stimulate greater adaptation than you?re likely to see when noodling along at Endurance power for durations as short as these.Try to keep your spin above 85rpm, preferably closer to 95rpm for most athletes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.58" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.5" PowerHigh="0.67" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.67" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="1140" PowerLow="0.75" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="1320" PowerLow="0.6" PowerHigh="0.78" pace="1128505344"/>
+	<Ramp Duration="2100" PowerLow="0.78" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="2280" PowerLow="0.6" PowerHigh="0.85" pace="1128505344"/>
+	<Ramp Duration="2940" PowerLow="0.85" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="3120" PowerLow="0.6" PowerHigh="0.81" pace="1128505344"/>
+	<Ramp Duration="4620" PowerLow="0.81" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="4800" PowerLow="0.6" PowerHigh="0.84" pace="1128505344"/>
+	<Ramp Duration="5700" PowerLow="0.84" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="5880" PowerLow="0.6" PowerHigh="0.77" pace="1128505344"/>
+	<Ramp Duration="7200" PowerLow="0.77" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="7380" PowerLow="0.6" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="8580" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="-9000" PowerLow="0.4" PowerHigh="0" pace="1128505344"/>
+    </workout>
+</workout_file>

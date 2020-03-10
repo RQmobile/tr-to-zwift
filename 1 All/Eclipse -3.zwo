@@ -1,0 +1,37 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eclipse -3</name>
+    <description>Eclipse -3 consists of 2x20-minute Sweet Spot efforts (88-94% FTP) with 5 minutes of recovery between intervals. 
+
+Sweet Spot intervals aim to further muscular endurance and enhance aerobic capabilities.Additional, related benefits include improved sugar storage in the muscles, better utilization of fat for fuel, a higher capacity for more intense workouts later on and increased power output at moderate, predominantly aerobic intensities.On top of that, you'll have the opportunity to improve pedaling efficiency via some optional form drills.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.77" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.41" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.88" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.91" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.88" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.94" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.89" PowerHigh="0.93" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.93" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.89" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.93" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.93" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.91" PowerHigh="0.89" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

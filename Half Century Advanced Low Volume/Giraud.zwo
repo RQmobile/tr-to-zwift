@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Giraud</name>
+    <description>Giraud consists of 2 long blocks of Endurance work at 60% FTP and includes&nbsp;4x3-minute intervals of leg-speed drills at 70-80% FTP with 3 minutes of rest between intervals.
+
+Leg-speed drills are aimed at improving pedal economy during lower-intensity rides.Beginning cadence should be above 90rpm, then simply spin more quickly until you've reached a quicker, but still controlled&nbsp;spin upwards of 110rpm&nbsp;without rocking or bouncing in the saddle. Remain smooth &amp; relaxed and hold this high leg speed&nbsp;for the duration of the interval as long as you can maintain your form.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.7" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="780" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="1080" Power="0.6" pace="1128505344"/>
+    </workout>
+</workout_file>

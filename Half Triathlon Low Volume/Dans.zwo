@@ -1,0 +1,18 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Dans</name>
+    <description>Dans is 30 minutes of active recovery riding spent between 45-55% FTP.
+
+Occasionally, you're simply too tired to work out but could very well benefit from a short, easy recovery ride, and that's exactly what this workout is.Dans can also be used as an extended warm-up prior to each workout's more specific warm-up, or it can simply be used to tack on some easy mileage at the end of another workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.45" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.45" PowerHigh="0.55" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.55" PowerHigh="0.50" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.50" pace="1128505344"/>
+    </workout>
+</workout_file>

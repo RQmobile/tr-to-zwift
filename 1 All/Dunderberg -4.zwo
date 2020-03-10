@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Dunderberg -4</name>
+    <description>Dunderberg -4 is 60 minutes of near-steady output comprised of 6x10-minute segments ranging from 95-99% FTP each separated by short, 1-minute recoveries.
+
+Muscular endurance workouts like this one are about as close toa full-on 40km time trial as you're likely to get without actually doing a 40km time trial.This workout will hold you at a very high percentage of your functional threshold power for an entire hour with only small fluctuations in how far you can wander from your highest sustainable power output.Do your best to keep your cadence in that 85-95rpm range and try to refrain from leaving your aero position for more than the few seconds it takes to briefly stretch.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.5" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.99" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

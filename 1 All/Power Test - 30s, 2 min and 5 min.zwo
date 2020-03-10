@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Power Test - 30s, 2 min and 5 min</name>
+    <description>Following a 20-minute warmup, this power assessment begins with a 5-minute, all-out effort to measure Aerobic Capacity (power at VO2max). Then, a couple of 30-second, all-out efforts will measure short, anaerobic power. Finally, two 2-minute efforts measure longer anaerobic power. Recovery between intervals ranges from 4-10 minutes depending on the duration and severity of the preceding effort.
+
+Gain a sense of your power at VO2max as well as your anaerobic capacity for 30 seconds & 2 minutes. These efforts serve as PR & benchmarking measures, indications of weaknesses/strengths/limiters, and let's be honest, bragging purposes.Note: Riders on load-restricted trainers like CompuTrainer, KICKR, etc. users should perform this workout in "Slope" mode.Cadence recommendations are high ones, preferably over 100rpm but this will depend on the level of control you can maintain over these durations. If you get sloppy, don’t spin quite so quickly, but do your best to keep your spin above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="660" PowerLow="0.75" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.6" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="780" PowerLow="0.75" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="840" PowerLow="0.5" PowerHigh="1.5" pace="1128505344"/>
+	<Ramp Duration="900" PowerLow="1.5" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="1200" PowerLow="0.5" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="1500" PowerLow="1.1" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="1920" PowerLow="0.5" PowerHigh="2" pace="1128505344"/>
+	<Ramp Duration="1950" PowerLow="2" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="2280" PowerLow="0.5" PowerHigh="2" pace="1128505344"/>
+	<Ramp Duration="2310" PowerLow="2" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="2700" PowerLow="0.5" PowerHigh="1.3" pace="1128505344"/>
+	<Ramp Duration="2820" PowerLow="1.3" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="3180" PowerLow="0.5" PowerHigh="1.3" pace="1128505344"/>
+	<Ramp Duration="3300" PowerLow="1.3" PowerHigh="0.5" pace="1128505344"/>
+	<Ramp Duration="-3600" PowerLow="0.4" PowerHigh="0" pace="1128505344"/>
+    </workout>
+</workout_file>

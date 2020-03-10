@@ -1,0 +1,46 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Stanislaus -4</name>
+    <description>Stanislaus is -4 is a couple&nbsp;sets of 7x40/50's where 40 seconds are spent at 127% FTP followed immediately by 50 seconds of recovery.The sets of repeats are separated by 8 minutes of recovery.
+
+Closely stacked efforts are largely about improving your maximum aerobic power or your ability to repeatedly operate at or near it.Intervals like these can raise your aerobic ceiling and create room for later improvements in your VO2max and consequently your FTP, and in the process they can raise both your anaerobic power output and its repeatability. Strive for a cadence of 100rpm or even a bit higher during each interval. But if fatigue forces a lack of control at these higher cadences, shoot for something closer to 90rpm and ride smoothly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.6" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.27" pace="1128505344"/>
+	<Ramp Duration="220.2" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

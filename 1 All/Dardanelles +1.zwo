@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Dardanelles +1</name>
+    <description>Dardanelles +1 is 48 minutes of steady output comprised of 4 continuous 12-minute segments ranging from 95-102% FTP.
+
+The primary goal here is to practice pacing for a time trial lasting about an hour with the goal pace being that power output you plan to target on race day.Make these as specific as possible to your goal event by riding in your aero position, using your goal cadence and pacing just as you plan to on race day.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.6" PowerHigh="1.04" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="51" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="51" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6.0000000000001" Power="2" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.2" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.95" PowerHigh="0.99" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.99" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.99" PowerHigh="1.02" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="1.02" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

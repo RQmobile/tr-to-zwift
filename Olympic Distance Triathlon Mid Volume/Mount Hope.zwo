@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Hope</name>
+    <description>Mount Hope is 5x10-minute intervals at 95-99% FTP with 5-minute recoveries between each.
+
+The primary objective here is improvements in muscular endurance accomplished by growing your ability to repeat efforts at near-FTP wattages.By working close to but below your FTP, you not only accumulate a lot of time at a meaningful level of stress, but recovery from slightly sub-threshold effort comes much more readily than recovery following work done above your FTP.Try to hold your spin above 85rpm and even as high as 105rpm depending on your sustainable power and cadence goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="1200" PowerLow="0.95" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="1500" PowerLow="0.97" PowerHigh="0.4" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1830" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="2130" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.99" pace="1128505344"/>
+	<Ramp Duration="3060" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="3360" PowerLow="0.97" PowerHigh="0.4" pace="1128505344"/>
+	<SteadyState Duration="3660" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="3690" PowerLow="0.97" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="3990" PowerLow="0.95" PowerHigh="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4920" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="5220" PowerLow="0.95" PowerHigh="0.4" pace="1128505344"/>
+	<Ramp Duration="-5400" PowerLow="0.3" PowerHigh="0" pace="1128505344"/>
+    </workout>
+</workout_file>

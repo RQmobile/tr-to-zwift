@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Rendezvous +2</name>
+    <description>Rendezvous +2 is 60 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 8% increases every 10 minutes.
+
+Progression workouts ever so gradually increase the power requirement until you are working at your highest sustainable power, all in an effort to raise your muscular endurance, grow your ability to withstand increasing physical discomfort and your increase your time to exhaustion.By gradually raising your power and along with it your fatigue, acidic accumulation and lactate levels, the continually increasing power demand will serve as the stimulus for subsequent adaptation. Translation: this workout + proper recovery = more power for longer spans of time.Do your best to keep your cadence in that 85-95rpm range with each upward step in power output, and spend greater lengths of time in your aero position if your discipline requires riding low.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.55" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.68" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.68" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.68" PowerHigh="0.76" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.76" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.76" PowerHigh="0.84" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.84" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.84" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.92" PowerHigh="1" pace="1128505344"/>
+	<SteadyState Duration="570" Power="1" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

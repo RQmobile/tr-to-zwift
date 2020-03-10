@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Free Ride 240</name>
+    <description>This in an open ride with no specific targets lasting 240 minutes. Free Rides can be used for custom workouts, base mileage, recovery rides...really any unstructured riding that you’d like to do.
+
+No set goals other than the ones you should establish before beginning this ride. Be clear on why you’re riding, even if your goal is simply to ride easy for 4 hours and accumulate time in the saddle.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0" pace="1128505344"/>
+	<SteadyState Duration="-14400" Power="0" pace="1128505344"/>
+    </workout>
+</workout_file>

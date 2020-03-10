@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hurd</name>
+    <description>Hurd is two sets of 3x3-minute VO2max repeats at 110-130%FTP.3 minutes of recovery falls between Intervals and 6 minutes of easy spinning separates the sets.Try to settle on a repeatable power output such that you finish each interval...barely. This might require some trial and error and it's likely to change as your fitness improves - you may be able to hold it for longer, you may be able to increase it, you may be able to repeat it with less rest. Adjust the 'Workout Intensity' as you see fit, but make each one of these mean something, make each one HURT, and don't drop your watts lower than 110% FTP. Go full-gas, recover no longer than recommended - very important - and do it again.
+
+By working at very high percentages of pVO2max (power at peak oxygen uptake) which is well above FTP, riders will see tremendous improvements in both aerobic &amp; anaerobic power - all in very little time.Not only can VO2max repeats improve VO2max itself, they have positive effects on muscle endurance and most importantly aerobic endurance capabilities which is especially important for riders working on a very limited amount of weekly training hours. In far less time than that required by traditional base training, riders can develop aerobic capabilities on par with those gained via long hours of long, slow distance - little time, high stress, comparable adaptation. Try to keep your cadence high, 100-120rpm as long as you can control that much leg speed without bouncing, and do your best to keep that quick spin even as you fatigue, shifting gears when necessary to keep your leg speed high. Try to pedal quickly in a light gear to prevent cooking your muscles any sooner than necessary.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="540" PowerLow="0.55" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

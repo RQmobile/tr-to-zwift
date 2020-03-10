@@ -1,0 +1,51 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Stanford -1</name>
+    <description>Stanford -1 is 4x10-minute 'Power Step' intervals each beginning with 5 minutes between 92-96% FTP followed immediately by 5 minutes of 2-3% FTP steps up. Each interval tops out between 106-112% FTP and are separated by 5 minutes of recovery.
+
+Ramping workouts like this one target improvements in muscular strength &amp; muscular endurance. The strength component comes as a result of the increasing muscular demand of the steps due to each step's incrementing demand. The muscular endurance results from the near-FTP sustained segment and is especially challenged during the stepping portion of each interval.Do your best to resist a decline in cadence as you work your way up each set of steps and shoot for a spin in the 85-95rpm range.Rather than allowing your spin to slow to a crawl, consider brief, 10-second backpedals if/when the steps become overwhelming.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

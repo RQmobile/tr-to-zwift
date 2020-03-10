@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Ptarmigan +2</name>
+    <description>Ptarmigan +2 is 3 hours of steady effort largely spent at 65% FTP except for&nbsp;3x20-minute Tempo efforts spent between 75-85% FTP.
+
+Aerobic Endurance workouts primarily target improvements in the ability to use oxygen to&nbsp;metabolize fat as the primary fuel source thereby preserving or 'stretching' carbohydrate stores and necessitating less food intake over the course of your workouts, rides, and&nbsp;races.Additionally, properly recovered athletes are likely to see improvements in the body's ability to deliver oxygen to the muscles and then more effectively utilize it, increases in their time to exhaustion, and&nbsp;strengthened connective tissues.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="450" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="450" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1440" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.75" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1080" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.65" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="1260" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.85" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1260" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="210" PowerLow="0.65" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.8" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

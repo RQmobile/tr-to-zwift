@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cheaha +1</name>
+    <description>Cheaha +1 is 90 minutes of aerobic Endurance riding mostly spent at 70% FTP and includes 3x20-second sprints.
+
+The goals of these Endurance + Sprints workouts are the same regardless of duration: improve aerobic fitness, prime the muscles for the workouts ahead, and&nbsp;increase muscle fiber recruitment in an effort to grow your strength capabilities.Perform the sprints in the saddle at a high, 100+rpm cadence and ride the rest of this workout in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.57" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.64" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,42 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Verstegg -1</name>
+    <description>Verstegg -1 is 2 sets of 2x7.5-minute ladders stepping from 95-109% FTP before stepping back down to again, all in 90-second steps.Recoveries between intervals are a scant 1 minute while the rest between sets of intervals is a slightly more generous 3 minutes.
+
+Improving time to exhaustion by overstepping your sustainable power and then working through the fatigue and acidic accumulation are the names of this game. By riding near and above FTP and loading the muscles up with searing discomfort, you not only improve your ability to process lactate but also learn to endure the pain that accompanies it. The aim is to increase both your physiological &amp; psychological capabilities.Shoot for a cadence above 90 rpm over the course of each set of steps.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

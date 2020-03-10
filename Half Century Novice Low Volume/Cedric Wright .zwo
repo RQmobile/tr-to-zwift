@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cedric Wright </name>
+    <description>Cedric Wright is 3x8-minute intervals in the Threshold power level at 95-99% FTP with 4-minute recoveries between intervals. These intervals are bookended by 5-8 minutes of Endurance work to give you 60 minutes of nicely varied ride time. 
+
+The goal here is quite simply to elevate FTP.By spending time very close to lactate threshold while remaining just below it, riders can improve their sustainable power &amp; muscle endurance by teaching their muscles to process high levels of lactate &amp; acidic buildup without slowing down. Cadence should fall in the 85-95rpm range but steady stress and target watts are more important than pedal speed so prioritize accordingly and don't worry if your cadence falls outside of this range from time to time.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.75" PowerHigh="0.73" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

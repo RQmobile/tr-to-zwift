@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Huxley -5</name>
+    <description>The time-crunched version of Huxley is 2 sets of three varied-duration Attack and Recover intervals.Very short, 45-second recoveries separate intervals while a 5-minute recovery separates the sets of A&amp;R's.
+
+Huxley targets improvements in Anaerobic work capacity via increased times to exhaustion at levels well above FTP, even effort levels above VO2max. Performing them on the heels of muscle-taxing Threshold efforts furthers the challenge for riders coming into race-level fitness.The benefits of training at intensities this high are plentiful and wide-ranging and can include improved lactate processing capabilities &amp; acidic tolerance to greater levels of muscle-fiber recruitment &amp; increased fiber size.Simply, this type of training is painful but productive.The intensity and repetition makes these efforts especially useful for mountain bikers, cyclocross racers, road racers and criterium riders.Cadence during the Threshold portions of each interval should hover around 90rpm and then jump to 100rpm+ during the supra-threshold "attacks". You might even exceed 120rpm during the very brief, 15-second sprints that conclude each set of intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="75" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.81" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="75" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.81" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Koip</name>
+    <description>Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between 60-70% FTP and includes&nbsp;form drills like form sprints, endurance spinning, and single-leg focus (SLF) drills.
+
+Aerobic Endurance workouts are aimed at improving your ability to metabolize fat and spare your far more limited sugar stores, all&nbsp;in&nbsp;a low-stress manner. By riding for increasingly longer periods of time, your endurance muscle fibers become more efficient at utilizing fat for fuel and reserving your sugar stores for more intense efforts. Workouts like this can improve oxygen delivery and utilization, increase muscular resistance to fatigue, improve integrity of connective tissue, and even help you improve your on-bike nutrition strategies.Regarding the form drills, Koip targets improvements in pedaling mechanics, leg speed and sprinting form as well as improved pedal economy and improvements in the application of power throughout each leg's entire pedalstroke</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1680" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="660" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="780" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1560" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="960" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

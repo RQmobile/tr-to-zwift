@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Kaweah +1</name>
+    <description>Kaweah +1 is 5x12-minute intervals between 96-99% FTP with 4-minute recoveries between intervals. 
+
+Kaweah's primary goal is quite simply to improve muscular endurance while adapting to an increasingly aerodynamic position.Additionally, and equally as important, riders can learn to tolerate the mental discomfort inherent in maintaining high levels of Functional Threshold Power.By spending time very close to lactate threshold while remaining just below it, riders can improve their sustainable power and muscle endurance by teaching their muscles to process high levels of lactate and tolerate the discomfort of acidic buildup without slowing down. Extra emphasis is placed on spending longer periods of time in an increasingly aero position striving to find that balance between aerodynamics and power output.Cadence should fall in the 85-95rpm range but steady stress and target watts are more important than leg speed so prioritize accordingly and don't worry if your cadence falls outside of this range from time to time.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

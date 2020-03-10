@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Dorr +3</name>
+    <description>Dorr +3 is 4x30-second hard starts way up at 200% FTP followed by 1 minute of suprathreshold work at 110% FTP. 10 minutes of recovery falls between each effort.
+
+As Dorr grows its demands, these efforts become more akin to short race efforts suitable for STXC, BMX and Gravity riders.The initial effort is all about enormous muscle-strength and power while the final minute is about holding onto as much anaerobic power as possible for the duration of a short, highly intense event.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="105" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="540" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

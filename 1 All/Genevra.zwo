@@ -1,0 +1,49 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Genevra</name>
+    <description>Genvera is 2 sets of 3x5-minute threshold efforts that begin with a 15-second sprint at 150% FTP before settling into 4 minutes at 95% FTP.  Both sets finish with a 30-second 'kick to the line' in the form of a ramp from 95% FTP all the way up to 140% FTP.Breaks between intervals are only 1 minute long and the rest period between sets of intervals is 5 minutes long.
+
+Race winners are about 3 things:First, establishing separation with a short, maximal effort.Second, settling into a sustained pace as close to your FTP as possible.Third, repeating until successful. Often enough, attempts to get away require perseverance and a willingness to suffer over & over again until you're either alone off the front or part of a select group of opportunistic workers. So the primary objective is to learn how recruit a lot of muscle quickly for a powerful & effective sprint but then cut the effort down to a manageable but difficult level that you can sustain for an extended duration without blowing up. Additionally, aerobically fit riders will find it possible to repeat these efforts with minimal rest while less fit riders will have the opportunity to target their lacking recoverability & improve their willingness to thrash themselves - and their opponents - relentlessly.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="246" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

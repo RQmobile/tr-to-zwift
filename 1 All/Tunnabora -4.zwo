@@ -1,0 +1,48 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tunnabora -4</name>
+    <description>Tunnabora -4 is 4x7-minute sets of decreasing then increasing watts from 94% to 88% back to 94% FTP in 1-minute steps to allow cadence changes over the course of each interval.Active recoveries between intervals are each 3 minutes long.
+
+Running the entire Sweet Spot wattage range, Tunnabora simultaneously targets improvements in muscle endurance while also aiming to improve your pedal economy.During these leg speed intervals, start conservatively and escalate from there, keeping your focus on controlled speed - excellent form always!</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

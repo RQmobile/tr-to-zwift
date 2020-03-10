@@ -1,0 +1,47 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gilbert -2</name>
+    <description>The time-crunched version of Gilbert is made up of 4x6.5-minute power-step intervals each beginning with 90 steady seconds between 90-95% FTP followed immediately by 5 minutes of 2-5% FTP steps which all top out at 115%.2 minutes of recovery separate each interval.
+
+Ramping workouts like this one target improvements in muscular strength &amp; muscular endurance. The strength component comes as a result of the increasing muscular demand of the steps due to each step's incrementing demand. The muscular endurance results from the overall duration of each near-FTP interval and is especially challenged during the stepping portions that close these out. Do your best to resist a decline in cadence as you work your way up each set of steps and shoot for a spin in the 85-95rpm range.Rather than allowing your spin to slow to a crawl when the going gets tough, consider brief, 10-second (or less) backpedals, 1-2 times per ascent.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="108" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="12" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.11" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="108" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="12" PowerLow="0.4" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="108" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="12" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.11" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.13" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

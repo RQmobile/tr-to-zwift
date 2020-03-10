@@ -1,0 +1,56 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cathedral</name>
+    <description>Cathedral is another smattering of efforts including a 30-minute Tempo effort at 80% FTP sprinkled with some 30-second pushes at 95% FTP. This is followed by 10 minutes of endurance work at 73% FTP after which you'll face 2x20-minute Sweet Spot intervals at 90% FTP with 10 minutes' recovery in between. After 10 minutes of Tempo at 70% FTP, the workout concludes with another half hour of Tempo around 80% FTP with 3x1-minute pushes right up next to your FTP.
+
+Cathedral is a subthreshold workout targeting both improvements in low-end &amp; high-end aerobic power. By riding through various levels of aerobic efforts ranging from relatively easy aerobic endurance right up to the edge of your max, steady-state power, you'll grow accustomed to varying your efforts without flooding your muscles and forcing yourself to back off prematurely. TT/multisport athletes can spend varied lengths of time in their aero position, climbers can stand during the pushes, and all riders can experiment with their cadence ranges.Try to keep your spin above 85rpm throughout and shoot for high-cadence spins during some or all of the near-threshold pushes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.82" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

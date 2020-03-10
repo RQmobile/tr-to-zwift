@@ -1,0 +1,48 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Black Giant -5</name>
+    <description>This time-crunched version of Black Giant consists of 4 sets of Anaerobic power repeats ranging from 120-150% FTP lasting either 18 or 24 seconds but both in the 20-second sprint ballpark. Recoveries between intervals are about 1 to 1.5 minutes while downtime between sets is about 3 minutes in all cases.
+
+Anaerobic efforts are necessarily short with extreme power outputs, all in an effort to improve your ability to generate and utilize lactate as your predominant fuel source fostering an ability to work really hard when necessary.By placing the intervals so closely together within each set, the emphasis shifts away from building work capacity to utilizing that work capacity - frequently. Learn to hit it hard time after time and reap the many benefits that come with severely taxing your muscles while mentally coping with the associated discomfort.Try to keep your spin high during each seated effort, preferably above 100rpm.Should you perform some efforts out-of-the-saddle, shoot for a standing cadence above 75rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="42" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="42" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="54" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="54" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="54" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="72" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="72" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="72" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="96" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="96" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="96" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="72" Power="0.41" pace="1128505344"/>
+    </workout>
+</workout_file>

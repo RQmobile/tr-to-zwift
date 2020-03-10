@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>z - 8DC  Stage 5  2013</name>
+    <description>Stage 5 is the closest thing this tour offers in the way of an easy day. After an early, moderate climb, a flat course favors the sprinters. There are 3 intermediate sprints and only a single KOM.
+
+Plan of Attack: Our goal today is mostly to tuck in and rest up in preparation for the time trial. This may be the only stage that offers us a chance for recovery too, so we'll do our best to tuck in and conserve as much as possible prior to tomorrow's time trial.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<Ramp Duration="261.6" PowerLow="0.55" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="71.4" PowerLow="0.6" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="162" PowerLow="0.98" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="81.6" PowerLow="0.95" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="244.2" PowerLow="0.98" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="27" PowerLow="0.99" PowerHigh="0.68" pace="1128505344"/>
+	<Ramp Duration="154.8" PowerLow="0.68" PowerHigh="0.7" pace="1128505344"/>
+	<Ramp Duration="148.2" PowerLow="0.7" PowerHigh="0.66" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.75" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.2" PowerHigh="0.63" pace="1128505344"/>
+	<SteadyState Duration="106.2" Power="0.63" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.63" PowerHigh="0.76" pace="1128505344"/>
+	<Ramp Duration="147" PowerLow="0.76" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="177.6" PowerLow="0.94" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.97" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.45" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.4" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="187.8" PowerLow="0.72" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="58.2" PowerLow="0.75" PowerHigh="0.73" pace="1128505344"/>
+	<Ramp Duration="274.8" PowerLow="0.73" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.75" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="24.6" PowerLow="0.2" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="156" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="132" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<Ramp Duration="184.2" PowerLow="0.75" PowerHigh="0.72" pace="1128505344"/>
+	<SteadyState Duration="105" Power="0.72" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.75" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.2" PowerHigh="0.76" pace="1128505344"/>
+	<SteadyState Duration="108" Power="0.76" pace="1128505344"/>
+	<Ramp Duration="135" PowerLow="0.76" PowerHigh="0.8" pace="1128505344"/>
+	<Ramp Duration="162" PowerLow="0.8" PowerHigh="0.77" pace="1128505344"/>
+	<Ramp Duration="132" PowerLow="0.77" PowerHigh="0.87" pace="1128505344"/>
+	<Ramp Duration="64.8" PowerLow="0.87" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="192" PowerLow="0.95" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="57" PowerLow="0.98" PowerHigh="1.06" pace="1128505344"/>
+	<Ramp Duration="164.4" PowerLow="0.5" PowerHigh="0.45" pace="1128505344"/>
+    </workout>
+</workout_file>

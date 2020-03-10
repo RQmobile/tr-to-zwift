@@ -1,0 +1,66 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Broken Finger +1</name>
+    <description>Broken Finger +1 is a combination of VO2max intervals and strength endurance efforts.The initial 3 interval sets are each 14 minutes long and consist of 2 minutes at 112% FTP, 2.5min at 104% FTP and 3 minutes at 92% FTP before you step back out the same way you stepped in. Brief, 30-second active recoveries fall between each push, and recoveries between each set of intervals last 5 minutes.Part 2 of Broken Finger consists of breakaway simulations where you drill it for 1-2 minutes at 110-125% FTP and then settle in for 2-3 minutes at 95-105% FTP. Active recoveries between these intervals are 4 minutes each.Finally, 15 minutes of Endurance riding at 65% FTP is tacked on following the rough stuff.
+
+Another peak-fitness workout, the first half of Broken Finger heaps on the stress but only teases you with recovery. If your aerobic engine isn't firing on all cylinders, you'll soon know it because these recoveries are just enough to keep the aerobically fittest of athletes hanging in there while the watts remain unapologetically high.The second half of this brute will not only ask you to rally with another display of high aerobic power but will also demand that you back up these displays with evidence of real muscular endurance and outright toughness. Strive to keep your spin above 90rpm during the first half of Broken Finger and pedal even quicker, 100+rpm, during the initial segments of each breakaway interval before settling into that same 90+rpm spin you used earlier.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="150" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

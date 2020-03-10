@@ -1,0 +1,33 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Unicorn</name>
+    <description>Unicorn is 70 minutes of steady output comprised of 7 continuous 10-minute segments ranging from 92-96% FTP.
+
+Muscular endurance workouts like this one are about as close toa full-on 40km time trial as you're likely to get without actually doing a 40km time trial.This workout will hold you at a very high percentage of your functional threshold power for an entire hour with only small fluctuations in how far you can wander from your highest sustainable power output.Do your best to keep your cadence in that 85-95rpm range and try to refrain from leaving your aero position for more than the few seconds it takes to briefly stretch.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.47" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.92" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.94" PowerHigh="0.96" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.96" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.92" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.94" PowerHigh="0.96" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.96" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

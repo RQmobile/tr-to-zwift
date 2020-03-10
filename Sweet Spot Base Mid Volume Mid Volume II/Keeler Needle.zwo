@@ -1,0 +1,44 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Keeler Needle</name>
+    <description>Keeler Needle consists of a total of 14 power ramps ranging from 115-150% FTP.Each set of ramps includes different recovery durations depending on the intensity of the preceding ramps, but none are very long.
+
+Power ramps help develop the ability to maintain power at lower cadences and they lend themselves to gradually improving joint integrity as long as proper pedaling mechanics are maintained.These ramps top out at high power outputs and coupling this muscle/joint stress with a slower-than-usual cadence can be dangerous. So it's recommended that less experienced riders complete this workout with a normal cadence the first time and save the slow-force cadences for later passes at Keeler Needle.In terms of priorities, Target wattage is the primary aim, low cadence comes second. Riders who have done force work in the past and feel safe turning out high wattage very slowly can spin even lower than 60rpm while most riders are better off playing it safely and completing this workout above 80rpm. Whether you spin at 50rpm (advanced), 90rpm (safe) or anywhere in between, keep your watts climbing and pay attention to any hints of joint pain which mean you're not quite ready for such strenuous force work, at least not at such low cadences - increase cadence and/or reduce the Workout Intensity.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.7" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.7" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.7" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.5" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.5" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="1.3" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

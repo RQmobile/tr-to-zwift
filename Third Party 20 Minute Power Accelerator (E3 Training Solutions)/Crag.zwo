@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Crag</name>
+    <description>Crag starts with 15 minutes of general warmup followed by 5x30-second specific warmup efforts ranging from 90-100% FTP. The main set is composed of 6x4-minute high-Threshold/Low-VO2max efforts akin to climbing repeats, all at 105% FTP with brief, 45-second recoveries between each interval.
+
+Created by Jorge Martinez, E3 Training Solutions.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="465" PowerLow="0.7" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

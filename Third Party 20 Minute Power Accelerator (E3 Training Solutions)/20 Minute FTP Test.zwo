@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>20 Minute FTP Test</name>
+    <description>Following a full 30 minutes of warm-up, a 20-minute time trial is used to assess Functional Threshold Power (FTP) and Lactate Threshold Heart Rate (LTHR).This workout can also serve as a workout in its own right and will target muscular endurance and effective pacing over a somewhat extended duration. Use any cadence that suits you, but if you're pedaling slower than 80rpm it's in your best interest to increase your cadence over the course of your training. 
+
+By following a strictly structured assessment protocol, riders can assess/reassess possible changes in fitness at any time of training season as long as they're rested and motivated. Try to allow full recovery prior to performing an assessment workout by scheduling it at the end of a recovery week or following 2-3 days of full rest and/or active recovery.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<Ramp Duration="600" PowerLow="0.4" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="1.02" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

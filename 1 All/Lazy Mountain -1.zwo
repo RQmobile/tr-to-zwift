@@ -1,0 +1,18 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lazy Mountain -1</name>
+    <description>Lazy Mountain -1 is 1 hour of easy, steady effort at a steady 45% FTP.
+
+Recovery rides can be used to further your aerobic base by riding very easily when your muscles are already pretty cooked. When recovery is the goal, keep the ride as short as necessary and pull the plug well inside of an hour if effort this low is wearing you down and postponing your recovery.Spin lightly and reasonably quickly, preferably above 85rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.45" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Birling</name>
+    <description>Birling consists of 4 all-out sprints lasting 30 seconds each and separated by 4 minutes of active recovery. Each sprint is intended to be a maximal effort, so adjust the Intensity appropriately in order to barely finish each 30-second effort.
+
+The objective with these short, sprint-intensity repeats is to bring about measurable aerobic adaptation in the shortest amount of training time possible.By repeating efforts performed at maximal intensity, what begin as primarily anaerobic efforts become increasingly aerobically driven.In the process, both your anaerobic and aerobic systems derive an endurance benefit making what appears to be an entirely anaerobic capacity workout more about improving your aerobic power and endurance.These are excellent for athletes who are short on training time, but they also serve as a viable, productive alternative for all athletes looking to change up their usual training.The cadence range for these intervals is wide because the goal is to maximize muscle fiber recruitment. This can be done with low, grinding pedaling as low as 60rpm as well as high-cadence spins upward of 100rpm.What's important is reaching your Target power quickly and then holding it for as close to 30 seconds as possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.25" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.3" PowerHigh="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.25" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.3" PowerHigh="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.25" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.3" PowerHigh="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="2.25" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

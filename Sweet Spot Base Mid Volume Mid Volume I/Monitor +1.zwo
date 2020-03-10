@@ -1,0 +1,51 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Monitor +1</name>
+    <description>Monitor +1 is 7x6-minute intervals of rolling Sweet Spot (88-94% FTP) work to address aerobic fitness and muscular endurance via more than 40 minute's worth of time at intensity.1-minute recoveries separate the intervals. 
+
+Monitor primarily aims to further aerobic efficiency via Sweet Spot efforts by improving glycogen storage capacity, fat utilization, and the capacity for more intense workouts later on while increasing power output at moderate intensities.Additionally, you can work to improve pedal economy by increasing natural cadence and reinforcing proper pedaling mechanics.Fast pedaling drills are incorporated into several intervals in order to target pedal economy and to shift some stress off the muscles with a quick, lower-force spin. Try to keep your spin above 85rpm and follow the on-screen pedaling drills to the best of your ability.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.92" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.94" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.94" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.92" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

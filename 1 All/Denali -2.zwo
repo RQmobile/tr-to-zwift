@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Denali -2</name>
+    <description>Denali -2 is 3x6-minute intervals at 105-109% FTP with short, 2-minute recoveries following each interval. 
+
+The goals of workouts like this one are to extend supra-threshold power over greater durations by increasing both anaerobic and aerobic work capacity via a shorter, more intense approach.This power level incorporates a high anaerobic component but also a high aerobic contribution that only gets higher over the course of each reasonably long interval. This impacts both energy delivery systems in a meaningful and useful way, given adequate recovery, of course.Strive to keep your cadence above 90rpm, even closer to 100rpm if possible.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="1.09" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

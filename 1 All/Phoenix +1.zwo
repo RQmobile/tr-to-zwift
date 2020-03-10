@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Phoenix +1</name>
+    <description>Phoenix +1 is 90 minutes of continuous riding where you'll spend 75 minutes between 85-90% FTP.
+
+Riding at the lower end of the Sweet Spot range pushes you to the height of aerobic endurance.Still rather uncomfortable, working here is still low enough on the stress to allow you to spend pretty long durations at a productive work level that's not too demanding in terms of recovery.This is where aggressive half-distance triathletes will spend multiple hours during their bike leg. This is also where ample time is spent during long road races, especially ones with steady climbs.Consider using portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power. Try to keep your cadence above 85rpm, preferably above 90rpm.
+
+
+
+
+
+
+
+There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.76" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.87" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.87" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.87" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.86" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

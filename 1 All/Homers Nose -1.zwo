@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Homers Nose -1</name>
+    <description>Homers Nose -1 is an hour of mostly Endurance work between 55-65% FTP with recommendations to ride short segments around 120rpm, slightly longer segments around 70rpm, and the longest segments around 90rpm, should you choose to include the drills.
+
+Endurance training is primarily about furthering your aerobic capacity in the hopes of improving fat metabolism, energy delivery to the muscles, glycogen conservation in general, lower HR/higher aerobic power, improved neuromuscular efficiency, etc.Shorter Endurance rides like this one done consistently can help time-constrained riders make up for some of that lack of pro rider time availability.Follow along with the onscreen workout instructions or simply try to hold your spin within an 85-95rpm range.Also consider spending some time adapting to and modifying your aero or climbing position &amp; form while the workload is relatively low.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.61" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.62" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.41" PowerHigh="0.31" pace="1128505344"/>
+    </workout>
+</workout_file>

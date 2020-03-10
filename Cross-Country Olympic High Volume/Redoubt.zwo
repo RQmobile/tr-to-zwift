@@ -1,0 +1,27 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Redoubt</name>
+    <description>Redoubt is 2x30-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 96% FTP for the remaining 29 minutes. Each interval is separated by 10 minutes of active recovery.
+
+While the Threshold component of this workout is all about improvements in muscular endurance, leading a steady-state interval with a sprint effort tweaks the nature of the workout making it a bit more diverse and raceday realistic.Beyond that, the initial sprints tacked onto these repeats will improve your ability to recruit ample muscle mass when it comes time to accelerate during all types of surges like the start of a race, during an attack, or perhaps at the onset of a bridging attempt.Be forewarned: sustaining near-FTP watts for long stretches is tremendously demanding on an indoor trainer. Do your best to hang in there, but also recognize the value in occasionally backpedaling for 10-20 seconds when the fatigue is almost overwhelming. Infrequent, short breaks can vastly improve the overall quality of long intervals without negatively impacting their productive nature.Do your best to keep your cadence above 85rpm throughout each long interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="165" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.96" pace="1128505344"/>
+	<SteadyState Duration="1740" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.96" pace="1128505344"/>
+	<SteadyState Duration="1740" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

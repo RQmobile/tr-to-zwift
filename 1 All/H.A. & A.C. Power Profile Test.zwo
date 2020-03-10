@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>H.A. & A.C. Power Profile Test</name>
+    <description>Power profile test for 5-second, 1-minute and 5-minute durations to be used in conjunction with Coggan/Allen's power profile assessment.IMPORTANT: The test intervals will automatically switch from ERG mode to SLOPE or LEVEL mode if you are on an electronic trainer. This means you might need to shift or adjust the level when these intervals start. TrainerRoad will not hold the resistance to the target like the rest of the workout.
+
+Assess 5-second, 1-minute & 5-minute power output following a recent FTP assessment (at least 1 full day's rest between assessment workouts is highly recommended). Riders will go all-out for each duration in an attempt to produce their highest power output for each of these 3 durations. The results from this workout combined with the results from a 20-minute or 8-minute FTP assessment complete an entire Power Profile per Dr. Andy Coggan's specifications.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<Ramp Duration="900" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2.04" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="15" Power="2" pace="1128505344"/>
+	<Ramp Duration="900" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,62 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Bandeira</name>
+    <description>Bandeira is 6 hours of Aerobic Endurance spent between 65-75% FTP.
+
+Aerobic Endurance workouts are aimed at improving your aerobic (oxygen-reliant) power producing capabilities in a low-stress manner. By riding for increasingly longer periods of time, your endurance muscle fibers become more efficient at utilizing oxygen,&nbsp;metabolizing fat for energy,&nbsp;and sparing sugar stores for more intense efforts.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.66" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.66" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.66" PowerHigh="0.63" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.63" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.63" PowerHigh="0.67" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.67" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.67" PowerHigh="0.64" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.64" PowerHigh="0.66" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.66" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.66" PowerHigh="0.62" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.62" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.62" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.66" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.66" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.66" PowerHigh="0.64" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.64" PowerHigh="0.69" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.69" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.69" PowerHigh="0.74" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.71" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.71" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.71" PowerHigh="0.69" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.69" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.69" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.61" PowerHigh="0.63" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.63" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.63" PowerHigh="0.68" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.68" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.68" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

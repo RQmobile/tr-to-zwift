@@ -1,0 +1,43 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Haeckel</name>
+    <description>Haeckel 3 sets of 4x3-minute Threshold intervals that can be treated as slow-force work. They step up from 90-105% FTP in 5% increments and  all recoveries are 1 minute long.
+
+The ILT drills are aimed at evening out the power contribution from each leg as well as pointing out problem areas within each leg's pedalstroke.As far as the slow-force work goes, low-cadence work at near-FTP power is inherently higher force due to lower leg speed, so simply riding at low cadences can be enough to constitute force work. Slow, high-force spinning will not give you massive, muscular legs; rather, the focus here is to strengthen the less obvious joint support system, i.e. tendons & ligaments.Additionally, low-cadence work is an excellent time to analyze form & even flexibility issues by paying close attention to your movements in slow motion. Spin as slowly as you can control, but do so with the utmost concern for your knees, hips & low back. There's really no reason to drop below 50rpm unless you have very specific event demands that necessitate a dead-slow spin.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.52" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

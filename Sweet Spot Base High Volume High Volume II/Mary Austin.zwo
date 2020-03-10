@@ -1,0 +1,56 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mary Austin</name>
+    <description>Mary Austin is 3 sets of 2x10-minute intervals consisting of 2-minute steps up from 95%-105% FTP and then back down again.Rest between intervals is a quick minute while each recovery between sets of intervals is 5 minutes.
+
+Threshold workouts like Mary Austin target both muscular endurance as well as lactate tolerance which takes place at both the muscular level as well as a psychological one.Your muscles gradually adapt to increasing levels of lactate and acidic accumulation as they improve their ability to process these metabolic byproducts more effectively while your mind grows accustomed to tolerating these increasing levels of discomfort, all to the same end - riding harder for longer.Try to keep your spin in the 85-95rpm range as you step upward, even more quickly if you can do it without elevating your HR to an unsustainable level. Then hang on for the true challenge as you step back down without letting your cadence plummet - aim to spin steadily for the whole 10 minutes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

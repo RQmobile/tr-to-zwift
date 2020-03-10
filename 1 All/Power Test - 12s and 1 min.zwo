@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Power Test - 12s and 1 min</name>
+    <description>Following a 15-minute warmup, this power assessment begins with 3x12-second, all out sprints to measure sprinting capability within the confines of an indoor trainer. Then, you?ll face 2x1-minute, all-out efforts to measure your short-term anaerobic capacity. And then you?ll have another crack at the very same format in order to improve upon your first go-around or simply to turn this into more of a Sprint/Anaerobic workout. All recoveries are approximately 4-5 minutes in duration in order to allow plenty of rest between efforts.
+
+Establish PR's or benchmark measures of 12-second sprint (neuromuscular) power &amp; 1-minute anaerobic capacity output. Note: Riders on load-restricted devices like CompuTrainer should perform this workout in "Slope" mode.Cadence recommendations are high ones, preferably over 100rpm but this will depend on the level of control you can maintain over these durations. If you get sloppy, don?t spin quite so quickly, but do your best to keep your spin above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.5" pace="1128505344"/>
+	<SteadyState Duration="228" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

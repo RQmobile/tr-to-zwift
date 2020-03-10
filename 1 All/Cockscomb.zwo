@@ -1,0 +1,91 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Cockscomb</name>
+    <description>Cockscomb is 4x4-minute sets of 20 seconds at 150-180% FTP followed by brief 10-second recoveries, all repeated 8 times.8-minute recoveries fall between sets of intervals.
+
+In this quartet of Tabata-Protocol repeats, the aim is to improve maximum aerobic capacity while simultaneously increasing your anaerobic work capacity. While the efforts begin as very anaerobic affairs, each set will become increasingly aerobic as the short but highly intense repeats stack up. This stress promotes aerobic adaptations to all involved muscle fibers making this seemingly anaerobic workout very much about achieving aerobic gains.Repeats begin at 150% FTP, but these should be all-out efforts. Try to find your highest, repeatable power over the course of the 4 sets, then adjust the intensity accordingly.Cadence should be kept well above 100rpm, but control is crucial so sprint at a cadence that maintains control but keeps your power high and reasonably steady.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="7.8" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="18" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="489.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="489.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="489.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="0.3" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="297" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

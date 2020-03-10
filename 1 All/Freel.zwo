@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Freel</name>
+    <description>Freel is a lighter version of similar workouts and consists of 2 sets of 5x60-seconds at 127% FTP with brief, 70-second recoveries between intervals.Each set of intervals is separated by 10 minutes of recovery.
+
+The goal of most recovery-version workouts is to maintain the intensity of the previous weeks while reducing the total weekly volume.This allows your body to better absorb the training stress, continue positive performance adaptations and ditch some fatigue in time for further training and/or competition.Strive for a higher than usual cadence with these repeats, preferably over 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.46" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="69.6" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.27" pace="1128505344"/>
+	<Ramp Duration="220.2" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,86 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Red Slate</name>
+    <description>Red Slate consists of 3x10-minute over-under-type intervals where each minute's first 45 seconds are spent within 5% of FTP, above or below.The remaining 15 seconds in every minute are spent at increasingly suprathreshold intensities between 110-140% FTP.Recoveries between intervals are roughly 5 minutes in duration.
+
+As each interval progresses toward its finish, somewhat simulating the painful and nearly overwhelming demands of the closing minutes of a team time trial. But the main objective is the development of the ability to handle changes in pace while maintaining a high level of work. The surges flood the muscle with metabolic byproducts bringing with them the desire to ease up, don't. Hold that burn, then back off only slightly during the work valleys in order to work through the burn and effectively train your muscles to process the lactic buildup while still doing a lot of work.These intervals will increase your ability to better process lactate thereby increasing not only how long you can work above FTP but also increasing FTP itself.Red Slate also simulates the demands of a paceline where the effort may change when it's your turn at the front, but the speed &amp; cadence - as long as you shift into a bigger gear when you're 'in the wind' - remain steady.Try to keep your cadence in the 85-95rpm range whether on flat road or a mild grade, in a valley or surging. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.45" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.87" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.43" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

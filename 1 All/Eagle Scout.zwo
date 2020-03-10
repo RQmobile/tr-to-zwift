@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Eagle Scout</name>
+    <description>Eagle Scout consists of 3x12-minute descending intervals or "strip sets" where each interval is broken into 2 minutes climbing out-of-the-saddle at 107% FTP, 4 minutes of threshold work right at 100% FTP and finally 6 minutes of Sweet Spot work at 93% FTP spent riding aerodynamically.Recoveries between intervals are each 4 minutes long.
+
+This combination of climbing endurance and seated power and aerodynamics is a bit of a catch-all but one that's mostly focused on sustained power (muscular endurance). Try to get comfortable churning out power at various intensities right around FTP while adding the additional challenges of spending time standing or in your most aero position(s).Try to keep your spin above 65rpm when standing, above 95rpm when seated upright, and above 85rpm when tucked into an aero position.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.93" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

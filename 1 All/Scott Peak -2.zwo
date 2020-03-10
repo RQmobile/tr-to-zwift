@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Scott Peak -2</name>
+    <description>Scott Peak -2 is 20 minutes of easy, aerobic riding with 3x45-second race openers between 140-150% FTP somewhere near the middle of the workout.Recoveries between openers are 90 seconds long.
+
+Typically following a rest day and just prior to a race day, priming workouts or 'openers' look to prepare riders both physiologically as well as psychologically.The intensity of each opener is high while the duration is low in order to 'wake up' the muscles without fatiguing them as well as to keep the mind familiar with this level of output and discomfort, if only briefly.Try to keep your spin light and quick, well above 100rpm as long as you can spin that quickly with a high level of control.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="225" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

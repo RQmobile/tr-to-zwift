@@ -1,0 +1,58 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hilgard</name>
+    <description>Hilgard is 4x10-minute intervals at 95-99% FTP with 10-second Anaerobic tags ranging from 150-180% FTP.2 minutes of recovery fall between each interval.
+
+Primarily, these intervals are about increasing muscular endurance by riding very near FTP. But the brief, anaerobic bursts not only break up the monotony of the longer intervals but increase muscle fiber recruitment as well as your rate of fiber recruitment. This is to say you become capable of utilizing more of the muscle you?re carting around and you learn to access it quickly!Try to keep your cadence above 85rpm during the valleys and well over 100rpm during the short bursts of power.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="0.98" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

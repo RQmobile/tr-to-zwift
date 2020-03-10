@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Collins</name>
+    <description>Collins is 75 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP.
+
+Aerobic Endurance training is primarily about cultivating a strong, wide aerobic base that includes all of the physiological adaptations inherent in long, steady, low-intensity riding, e.g. improved fat metabolism, energy delivery &amp; glycogen conservation, lower HR/higher aerobic power, improved neuromuscular efficiency, etc.As time-constrained as most riding schedules are though, shorter Endurance rides done consistently can make up for some of the lacking pro-rider time availability.Try to hold your spin within an 85-95rpm range &amp; spend ample time adapting to &amp;amp; modifying your position on the bike while the workload is more manageable.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.75" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

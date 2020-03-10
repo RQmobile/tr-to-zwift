@@ -1,0 +1,29 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Young -5</name>
+    <description>The time-crunched version of Young is made up of 2 sets of intervals starting with 90 seconds at 109% FTP followed by 3 minutes at 105% FTP then 4 minutes at 103% FTP. Recoveries between intervals are a minute long and the rest between sets last 2.5 minutes. 
+
+VO2max efforts, even if just minimally above FTP, are first about raising your aerobic capacity, i.e. your ability to work hard using mostly oxygen as fuel.But when they're stacked so closely together they become more about aerobic power since you'll have to rely on your ability to repeat hard efforts with very little recovery.Within each set, each interval drops the intensity slightly while beefing up the duration following relatively short recoveries. This is done with one goal in mind: to help you reap the most time at/near your peak aerobic uptake by keeping your breathing rate high with your power high, sustainable &amp; repeatable. Try to keep your spin above 90rpm over the course of each interval, above 100rpm if you can spin quickly with high control.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.03" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

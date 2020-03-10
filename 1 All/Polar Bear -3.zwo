@@ -1,0 +1,46 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Polar Bear -3</name>
+    <description>Polar Bear -3 is 120 minutes of continuous riding where you'll spend 105 minutes between 70-75% FTP.
+
+Training at the high end of the Endurance range is still quite productive, especially as the ride durations climb. Recovery from rides at this effort level is usually pretty quick, but longer rides in this wattage range can take a surprising toll on even very fit athletes.&nbsp;This is where fairly conservative ultra-distance triathletes will live for hours at a time. This is also where a lot of time is spent during any long road ride or milder-terrain trail ride.There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.
+
+
+
+
+
+If it applies, use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power. Try to do so with a cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.57" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.71" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

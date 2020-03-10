@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Adams -1</name>
+    <description>Adams -1 is reduced-load assortment of suprathreshold efforts consisting of 7 minutes at 105% FTP, 5 minutes at 108% FTP, 3 minutes at 115% FTP and 2 minutes at 121% FTP.Recoveries between intervals last between 1-2 minutes.
+
+The goal of most Recovery Week workouts is to maintain the intensity of the previous weeks while reducing the total weekly volume enough to allow your body to better absorb the training stress and make positive performance adaptations. Shoot for a cadence above 85rpm on the longer intervals, ideally above 95rpm on the shorter ones.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.21" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

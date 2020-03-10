@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Trail Trainer Corner Canyon</name>
+    <description>Corner Canyon is a fast and smooth trail system both up and down. That's why it's perfect for intervals. This ride will test your fitness as you hammer out four climbing intervals up the mountain and then test your skills as you come flying back down around some serious corners.
+
+Carry yourself up the mountain in these fast climbing intervals with standing sprints thrown in for good measure.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="301.8" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30.6" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30.6" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="31.2" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="30.6" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="230.4" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="9.6" Power="1.57" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="169.2" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="1.1999999999998" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000001" Power="1.57" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="110.4" Power="1.17" pace="1128505344"/>
+	<SteadyState Duration="0.59999999999991" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.57" pace="1128505344"/>
+	<SteadyState Duration="118.8" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="78" Power="1.47" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.57" pace="1128505344"/>
+	<SteadyState Duration="109.2" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="567.6" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="311.4" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="46.8" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

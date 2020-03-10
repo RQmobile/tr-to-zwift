@@ -1,0 +1,52 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Tallac +4</name>
+    <description>Tallac +4 is 6x15-minute efforts spent in the Sweet Spot, 88-94% FTP, with 3-minute recoveries between intervals.
+
+Be forewarned, workouts don't get more demanding than this one. Sweet Spot work is all about improving your ability to resist fatigue at high, subthreshold percentages of FTP over substantial lengths of time--it targets improvements in muscular endurance.&nbsp;And what's ahead is about all the Sweet Spot work we can pack into 2 hours of riding, so prepare yourself for a brute of a workout.Given adequate nourishment, hydration, and recovery, these intervals can help you improve your ability to climb faster and longer, face stiff winds without fading and time trial more consistently over the entire course of an event.&nbsp;Additionally, you have the option of targeting specific aspects of climbing form, time trialing, speed endurance, and aerodynamic positioning.Try to keep your spin above 85rpm, preferably above 90rpm, and follow the on-screen pedaling drills to the best of your ability.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.88" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.92" PowerHigh="0.91" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.91" PowerHigh="0.93" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.93" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.9" PowerHigh="0.93" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.93" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.94" PowerHigh="0.91" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.92" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.92" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.88" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.91" PowerHigh="0.94" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.94" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.92" PowerHigh="0.9" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.9" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.9" PowerHigh="0.92" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.92" PowerHigh="0.88" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

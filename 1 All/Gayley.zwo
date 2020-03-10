@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gayley</name>
+    <description>Gayley is 4x8-minute intervals right at Functional Threshold Power (100% FTP) with 4-minute recoveries between intervals.
+
+Time at threshold is all about increasing your muscular endurance, i.e., pushing the pedals hard for reasonably long periods of time, and learning to tolerate both the physical and psychological distress that comes with working at this intensity. As your body becomes accustomed to processing excess lactate and working through high levels of acidic accumulation, i.e. your aerobic fitness improves, your mind becomes familiar with this inherent discomfort in ways that allow you to work harder for longer, i.e. your pain tolerance increases.These relatively short Threshold intervals are also a good opportunity to home in on a target cadence or even to experiment with different cadences in order to lower your perceived exertion as much as possible without sacrificing power. Similarly, riders can work on producing full power in an aerodynamic or time trial position with shorter, more tolerable durations than similar but longer intervals.Try to keep your spin in the 85-95rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="1" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

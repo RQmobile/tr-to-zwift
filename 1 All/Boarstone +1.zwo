@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Boarstone +1</name>
+    <description>Boarstone +1 is 2 hours of steady, aerobic Endurance spent between 70-80% FTP. This version includes 4 late-ride sprints.
+
+Endurance workouts are aimed at improving your aerobic power production capabilities in a steady, low-stress manner. By training your endurance muscle fibers to better utilize oxygen to metabolize fat as fuel, your muscles can spare sugar stores for more intense efforts.This long/slow approach to fostering aerobic capabilities is the lighter, kinder alternative to high-intensity repeats, but both approaches target many of the same adaptations.The additional sprint efforts are aimed at increasing your ability to recruit additional muscle fibers in an effort to grow your work capacity and lift your sustainable power.Try to keep your spin above 85rpm, well above 100rpm during the short sprints.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.75" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.7" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.75" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.77" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.78" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.77" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.2" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.75" PowerHigh="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

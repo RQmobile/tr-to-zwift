@@ -1,0 +1,69 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Basin +1</name>
+    <description>Basin +1 is 5x6-minute sets of out-of-the-saddle ramps into briefly sustained segments, all ending in an anaerobic out-of-the-saddle surge. The format is 1 minute at 85% FTP plus a 1-minute ramp to 95% FTP. Then, 1 minute at 95% FTP is followed by a 30-second ramp to 105% FTP where you'll stay for 1 minute before surging to 130% FTP over the next 30 seconds. The final kick includes 30 seconds at 130% FTP and a 30-second ramp to 150% FTP. Each recovery valley between intervals is 7 minutes long.
+
+Efforts ending in workloads this high largely target increased times to exhaustion at output levels well above FTP - largely aerobic with a hefty dose of anaerobic contribution.The benefits of training at intensities this high are plentiful and wide-ranging, from improved lactate processing and acidic tolerance to greater levels of muscle fiber recruitment and increased fiber size all resulting in greater work capacity.Put another way, they make you faster, both aerobically and anaerobically.Try to hold a steady cadence above 90rpm during the seated segments reserving a quick, out-of-the-saddle spin for the ramps, very likely above 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.05" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.3" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.05" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.3" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.05" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.3" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.05" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.3" PowerHigh="1.5" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.05" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.3" PowerHigh="1.5" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

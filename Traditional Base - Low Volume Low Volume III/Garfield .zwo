@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Garfield </name>
+    <description>Garfield is made up of 4x5-minute intervals at 100% of your FTP with 5-minute recoveries between repeats.
+
+The goals here start with improving muscular endurance during climbing and target high levels of muscle control during slower, high-force efforts.You'll also work to improve your ability to not only transition in and out of the saddle smoothly, but to do so while limiting fluctuations in power output. There's added emphasis on varied climbing cadences (60/80/100rpm) and standing climbing drills. Pedalstroke quadrant drills are included mostly during the seated segments but trickle into the standing segments too.  Finally, try to refine your body positioning when standing as well as improve your pedaling technique when out of the saddle.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

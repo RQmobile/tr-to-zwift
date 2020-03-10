@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Thompson</name>
+    <description>Thompson is 4x8-minute ramps starting at 90-100% FTP and finishing between 110-120% FTP. Recoveries between intervals are 4 minutes each.
+
+Threshold ramps target both muscular endurance as well as lactate tolerance which takes place at both the muscular level as well as the psychological level in that they hurt.While your muscles will gradually adapt to increasing levels of lactate and acidic accumulation and improve their ability to shuttle these metabolic byproducts more effectively, your mind will grow accustomed to tolerating these increasing levels of discomfort, all to the same end - riding harder for longer.Try to keep your spin in the 85-95rpm range, higher if you can do it without elevating your HR to an unsustainable level. The true challenge will come as the resistance gradually increases and your muscles approach failure without letting your cadence plummet - spin steadily for the whole 8 minutes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="1" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.95" PowerHigh="1.15" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.9" PowerHigh="1.2" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

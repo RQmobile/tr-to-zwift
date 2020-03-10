@@ -1,0 +1,18 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Muir</name>
+    <description>Muir is 50 minutes of aerobic Endurance riding&nbsp;at a steady 70% FTP. Optional drills include Speed Endurance intervals and some&nbsp;Cadence Spin-Ups.
+
+Improvements in aerobic endurance/aerobic base are the aim when working at moderate intensities well below lactate threshold. By sustaining this effort level for fairly long and sometimes quite long, minimally interrupted periods of time, your body will improve its aerobic capabilities thereby improving your level of power output at low to moderate levels of exertion - even though it still feels easy, you get faster.Greater aerobic adaptation&nbsp;means you can further your ability to metabolize fat for energy&nbsp;before dipping into your far less sustainable sugar stores thereby preserving those stores for the higher-intensity efforts. This also means you'll require less food/carbohydrate to fuel your effort during your events.Add in the optional speed drills and you'll also address muscular efficiency via the addition of speed work.Try to maintain a cadence between 85-95rpm unless you choose to take part in the optional speed drills which can put your cadence well above 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="3000" Power="0.7" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Frissell</name>
+    <description>Frissell is 4x9-minute intervals at 95% FTP with 9-minute recoveries at 50% FTP.
+
+The primary target here is improvements in muscular endurance accomplished by growing your ability to repeat efforts at high percentages of your FTP.By working close to but below your FTP, you not only accumulate a lot of time at a meaningful level of stress, but recovery from slightly sub-threshold effort comes much more readily than recovery following work done closer to your FTP.Try to hold your spin above 85rpm and even as high as 105rpm depending on your sustainable power and cadence goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

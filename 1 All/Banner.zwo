@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Banner</name>
+    <description>Banner is a trio of 5-minute VO2max intervals between 110-120% of FTP with 5-minute recoveries between each.This is a very short but very intense workout and each interval approaches and might even exceed the maximum power output most riders could sustain for 5 minutes at a time, so scale the Workout Intensity accordingly.
+
+VO2max work takes place at the height of aerobic output and is used to expand aerobic and anaerobic capabilities as well as increase a rider's ability to tolerate high levels of acidic accumulation and stress, both physiologically &amp; psychologically. Not only can efforts like these make you stronger and faster, but each one will make you tougher and more capable of mentally withstanding extremely demanding efforts.Shoot for a cadence in the 90-100rpm range during each interval, no lower than 85rpm during the recoveries.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="480" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

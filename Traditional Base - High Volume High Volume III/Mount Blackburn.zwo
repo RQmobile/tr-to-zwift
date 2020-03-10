@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Blackburn</name>
+    <description>This workout consists of 4 long hours of Aerobic Endurance, most of which is spent between 60-70% FTP with a few stretches as high as 85% FTP. To pass the time and improve your pedal economy, the workout includes optional Form Sprints, Endurance Spinning intervals, Pistons/Kick &amp; Pull pedaling drills as well as some Single-Leg Focus to keep you engaged over this long haul.Form Sprints: Practice high-rpm sprint simulations at low power outputs to reinforce proper sprinting technique by jumping out-of-the-saddle and winding up a light gear. As your cadence reaches its controllable peak, gracefully transition into the saddle where you can shift gears if necessary. These sprints are only 10s long and are all about leg speed, form, &amp; technique. Experiment with which foot to lead with, and learn how to generate a lot of leg speed in very little time.Endurance Spinning: Practice spinning slightly quicker than your natural, self-selected cadence. Ride at a cadence that's at the very top of your comfortable rpm range and remain there for a solid 5 minutes. The goal is to learn to turn the pedals more quickly with less force (muscle stress) thereby improving your ability to remain predominantly aerobic over a wide range of rpm's. If your HR rises more than a few BPM, you're pedaling too quickly - take it easy and stay relaxed but quick.Pistons: Few if any riders need to practice pushing down on the pedals, but improvements in how well your knees move are both beneficial to economy and joint health. As you pedal, pay close attention to how your knees track. They should move directly up, directly down - like pistons - with little if any lateral movement, especially at the top of each pedalstroke. Focus on one knee for 30s before switching sides. Kick &amp; Pull: A balanced pedalstroke is dependent upon consistent tension on your bike's drivetrain throughout the entire pedalstroke. Reinforce your ability to maintain tension through the weakest portions of the pedalstroke, the top &amp; bottom quadrants. As your knee approaches top-dead-center, lightly kick your toes into the fronts of your shoes, and as your feet approach bottom-dead-center, lightly pull your heels into the backs of your shoes - kick &amp; pull. Focus on just the kick for 30s, just the pull for 30s, then eventually both for 30s simultaneously.Single-Leg Focus: The objective here is to learn to more effectively apply power through the entire pedalstroke by focusing strictly on one leg's activity through the bottom, upstroke, &amp; over the top of the pedalstroke. For 90 seconds at a time, devote your attention to one leg before switching to the other. Your cadence may fall slightly, but these drills typically come more naturally to less experienced "one-leggers". Pay particular attention to lightly pulling your foot across the bottom, lifting your knee lightly upward &amp; then softly kicking over the top of each pedalstroke. Add this drill indoors or outdoors as often as you like, more frequently if you recognize a substantial difference in one leg's strength or coordination.
+
+As with all Aerobic Endurance workouts, this workout's goals include:- Condition muscles to utilize fat &amp; preserve sugar stores- Improve oxygen delivery to muscles - Improve oxygen utilization by muscles- Increase muscular resistance to fatigue- Improve integrity of connective tissue- Improve on-bike nutrition strategiesAdditionally, this workout targets:- Improvements in pedaling mechanics by focusing on the top &amp; bottom quadrants of your pedalstroke - Improvements in leg speed &amp; sprinting form- Improvement in the application of power throughout each leg's entire pedalstroke</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<Ramp Duration="900" PowerLow="0.5" PowerHigh="0.64" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.64" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1740" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1980" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="1320" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1680" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.65" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="1680" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

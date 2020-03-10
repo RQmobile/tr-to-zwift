@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Corcoran -1</name>
+    <description>Corcoran -1 is a combination of increasing-duration, slightly suprathreshold efforts followed by a series of shorter even higher-intensity race-simulation drills. The first 2 sets of intervals each start with 90 seconds at 109% FTP followed by a quick minute's active recovery. Then you'll ride 3 minutes at 105% FTP, spin easy for 2 minutes and wrap things up with 5 minutes at 103% FTP. Part deux consists of 2 sets of 3x3-minute attack-and-recover format intervals with efforts ranging from 2 minutes at 90% FTP to 15 seconds at 180% FTP.  Recoveries within these sets are just 1 minute long. 
+
+This combination workout could be titled "kitchen sink" weren't it for the lack of sustained sub-threshold efforts. Instead, it's a suprathreshold assault on your muscles, heart and lungs as close to an actual race as you're likely to get indoors.Save Corcoran for the point in your training where you feel like you can handle the toughest of workouts with high stress loads over relatively short periods of time.Shoot for a cadence above 90rpm during the initial intervals and shoot for 100+rpm spins when the watts start clearing 110% FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.41" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="180" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

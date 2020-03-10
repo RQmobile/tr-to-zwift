@@ -1,0 +1,20 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Power Training Ridethrough</name>
+    <description>This is a very quick, 4-minute walkthrough showcasing the basic features of TrainerRoad.Once you've updated your FTP on the 'Profile' tab, this short ride will recommend target outputs in watts based on your personal capabilities. Simply ride along and try to match your effort to the workout's targets.
+
+Familiarize new TrainerRoad subscribers with the basics of a power-based ride.If you're a user of a load-restricted device like a CompuTrainer, simply maintain a cadence between 85-95rpm - the steadier the better - over the course of this 4 minutes.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="12" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="18" PowerLow="0.5" PowerHigh="0.7" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="0.7" pace="1128505344"/>
+    </workout>
+</workout_file>

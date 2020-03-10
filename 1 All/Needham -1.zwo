@@ -1,0 +1,41 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Needham -1</name>
+    <description>Needham -1 is 48 minutes between 88-94% FTP which is interrupted every 4 minutes by 20-second surges between 115-120% FTP. 
+
+Sweet Spot work is all about stimulating aerobic adaptation &amp; muscular endurance at the higher end of the Aerobic Endurance power range. By remaining distinctly below your FTP but never far from it, this is an uncomfortable but productive power range that doesn't require the same level of recovery as a Threshold workout.The short, 20-second bursts require a quick change in cadence and increased output which improve your ability to rapidly recruit extra muscle when it's needed. Increased muscle recruitment is not only beneficial to short bursts but can also enhance your power when riding well below sprint-level wattages. Try to maintain a reasonably quick cadence of 85-95rpm during the bulk of this workout but spin comfortably quickly during the surges, ideally above 100rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="270" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.18" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="219.6" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

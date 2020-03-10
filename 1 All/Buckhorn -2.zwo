@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Buckhorn -2</name>
+    <description>Buckhorn -2 is made up of 3x12-minute hard-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 88% FTP for the remaining 11 minutes. Each interval is separated by 4 minutes of recovery.
+
+Muscle endurance workouts are all about improving the ability to push more watts for longer durations, but when they start with a sprint-like effort, the nature of the workout takes on a more race-like tone and becomes more performance oriented.The initial sprints tacked onto these repeats will improve your ability to generate a lot of power at once, albeit for very short durations.So when it comes time to accelerate - at the start of a race, during brief, hard surges up a hill or when jumping on a wheel - the necessary explosiveness will be there.If the intensity of these initial sprints is too high, reduce the Workout Intensity for the sprints but try to refrain from reducing the wattage during the Sweet Spot segments.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="165" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="660" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="660" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="660" Power="0.88" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

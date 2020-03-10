@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>z - 8DC  Stage 6  2013</name>
+    <description>Time Trial! Today's TT is short but it finishes with a tough hill climb. No KOM's or sprints, just individual racing against the clock.
+
+We'll follow a structured team warmup and hope for a couple of high finishes due to our climber's time trailing prowess as well as our new rider's excellent time trialing & climbing capabilities. Should our new rider sit lower in the GC than our climber, we'll use our new rider's time splits to inform our climber over the course of the TT.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="600" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="195" PowerLow="0.55" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="1.05" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="135" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="1.15" PowerHigh="1.2" pace="1128505344"/>
+	<SteadyState Duration="135" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="1.25" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="99.6" PowerLow="0.4" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="195" PowerLow="0.98" PowerHigh="1.02" pace="1128505344"/>
+	<Ramp Duration="145.2" PowerLow="1.02" PowerHigh="1.04" pace="1128505344"/>
+	<Ramp Duration="250.2" PowerLow="1.04" PowerHigh="1.06" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="19.8" PowerLow="0.85" PowerHigh="1.04" pace="1128505344"/>
+	<Ramp Duration="160.2" PowerLow="1.05" PowerHigh="1.08" pace="1128505344"/>
+	<Ramp Duration="280.2" PowerLow="1.08" PowerHigh="1.1" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

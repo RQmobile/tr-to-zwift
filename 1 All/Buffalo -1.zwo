@@ -1,0 +1,27 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Buffalo -1</name>
+    <description>Buffalo -1 is made up of 2x25-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle into the Sweet Spot at 88% FTP for the remaining 24 minutes. The intervals are separated by 7 minutes of recovery.
+
+Muscle endurance workouts are all about improving the ability to push more watts for longer durations, but when they start with a sprint-like effort, the nature of the workout takes on a more race-like tone and becomes more performance oriented.The initial sprints tacked onto these repeats will improve your ability to generate a lot of power at once, albeit for very short durations.So when it comes time to accelerate - at the start of a race, during brief, hard surges up a hill or when jumping on a wheel - the necessary explosiveness will be there.If the intensity of these initial sprints is too high, reduce the Workout Intensity for the sprints but try to refrain from reducing the wattage during the Sweet Spot segments.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="165" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="1440" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="1440" Power="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

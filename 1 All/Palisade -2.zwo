@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Palisade -2</name>
+    <description>Palisade -2 is 3x9-minute intervals alternating slightly above or slightly below FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed immediately by 2-minute efforts at 105% FTP. 6 minutes of recovery fall between intervals. 
+
+Over-unders chiefly aim to develop your ability to handle changes in pace while maintaining a high level of work enhancing muscle endurance in the process.The surges flood the muscle with metabolic byproducts bringing with them the desire to ease up, don't. Hold that burn, then back off only slightly during the valleys in order to work through the burn and effectively train your muscles to process the buildup while still doing a lot of work.These intervals can increase your ability to better process lactate thereby increasing not only how long you can work above FTP but also increasing FTP itself.Try to keep your cadence in the 85-95rpm range whether enduring a valley or powering through a surge.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="360" PowerLow="0.42" PowerHigh="0.32" pace="1128505344"/>
+    </workout>
+</workout_file>

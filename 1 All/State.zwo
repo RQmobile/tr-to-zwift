@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>State</name>
+    <description>State is 3x12-minute intervals in the Threshold power level at 95-99% FTP with 6-minute recoveries between intervals. These intervals are bookended by 14-minute stretches of Endurance work to give you 90 minutes of varied ride time. 
+
+The goal here is quite simply to elevate FTP.By spending time very close to lactate threshold while remaining just below it, riders can improve their sustainable power &amp; muscle endurance by teaching their muscles to process high levels of lactate &amp; acidic buildup without slowing down.Additionally, and equally as important, riders learn to tolerate the mental discomfort inherent in maintaining high levels of Functional Threshold Power (FTP). </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

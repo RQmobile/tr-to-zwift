@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pioneer +3</name>
+    <description>Pioneer +3 increases the main 45-minute segment inside of this hour-long workout once more, all the way up to 95-100% FTP.
+
+Sustaining a near-FTP level of power output for such an extended duration requires a high level of strength-endurance, especially considering the steady nature of this workout. This will be uncomfortable, but this is where highly aggressive Olympic-distance triathletes will spend most of their bike leg and 40k TT riders will live here for closer to an hour at a time. This is also where harder stretches of time are spent during long road races, especially ones with shorter, steady climbs. There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout. Use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power. Try to do so with a cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

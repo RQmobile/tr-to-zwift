@@ -1,0 +1,60 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Thimble</name>
+    <description>Thimble is 2 sets of 7x50-second repeats at 127% FTP with 50-second recoveries between them.Each set is separated by 8 minutes of recovery.
+
+By working at very high percentages of your power at peak aerobic uptake (pVO2max), tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to  frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="289.8" Power="0.45" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="9.5999999999999" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.39" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="9.5999999999999" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="469.8" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="9.5999999999999" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="9.5999999999999" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="50.4" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="10.2" PowerLow="0.7" PowerHigh="1.27" pace="1128505344"/>
+	<SteadyState Duration="49.8" Power="1.27" pace="1128505344"/>
+	<Ramp Duration="500.4" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

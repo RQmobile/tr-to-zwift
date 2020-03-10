@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Carson -5</name>
+    <description>The time-crunched version of Carson consists of 3 intervals between 88-94% FTP ranging from 5-7 minutes and totaling 18 minutes of Sweet Spot work. Each interval is separated by 2-minute recoveries.Optional hill climbing drills are included as is some optional muscle control work in the form of slow-cadence recommendations. Some intervals include saddle transition drills too.
+
+Carson's primary goal is to further aerobic efficiency via Sweet Spot efforts by improving glycogen storage capacity, fat utilization, and the capacity for more intense workouts later on while increasing power output at moderate intensities.Additionally, Carson aims to improve muscle control via low-rpm riding in an effort to pinpoint poor pedaling mechanics as well as strengthen slowly-adaptive connective tissues.There are also option drills to improve the ability to smoothly transition in &amp; out of the saddle.Climbing cadence should fall in the 70-85rpm range &amp; slow-force cadence shouldn't drop lower than 50rpm for most riders.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

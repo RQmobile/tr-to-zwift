@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Matterhorn</name>
+    <description>Matterhorn is 6 high-intensity efforts lasting 90 seconds at 133% FTP with 90-second recoveries between each.
+
+Short VO2max repeats are both beneficial in their own right and also an excellent gateway into longer efforts of this same nature. Use these forgivingly shorter efforts to both grow your aerobic capacity, i.e. your ability to utilize oxygen over sugar, and to accustom yourself to the discomfort that comes with efforts this difficult &amp; productive. Try to keep your spin above 100rpm unless you're not fluid &amp; controlled at speeds that high; otherwise, use a cadence that's quick but controllable.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.33" pace="1128505344"/>
+	<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

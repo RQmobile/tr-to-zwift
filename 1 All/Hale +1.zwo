@@ -1,0 +1,58 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Hale +1</name>
+    <description>Hale +1 is 4x10-minute intervals at 95-99% FTP with 5-second high-power tags ranging from 150 to 180% FTP.5 minutes of recovery fall between each interval.
+
+The bulk of these intervals targets muscular endurance by training you to push the pedals hard for sustained periods of time, but about every 2 minutes the emphasis very briefly shifts to improving muscle fiber recruitment and how much of your existing muscle mass contributes to turning the pedals.These short bursts of high power also serve to break up the monotony of the intervals while cultivating the ability to quickly and forcefully change speeds and then abruptly return to a high, sustained power output.Shoot for a spin above 85rpm during the sustained segments and a cadence well above 100rpm during the brief bursts. </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="4.8" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.6" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.7" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="4.7999999999997" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="115.2" Power="0.98" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

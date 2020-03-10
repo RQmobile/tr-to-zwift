@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mount Bond +1</name>
+    <description>Mount Bond +1 is 3 hours of Tempo intervals spent between 75-85% FTP with intermittent, 3-minute recoveries at 55% FTP. 
+
+Continue building aerobic power while refining your climbing technique &amp; familiarizing your body with the unique stress of climbing; learn how to turn the pedals with relatively high force yet still remain relaxed; target particular quadrants of the pedalstroke in order to keep power on the pedals more effectively throughout the entire 360-degree pedalstroke by focusing on lifting upward and kicking forward - lift &amp; kick.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.59" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="840" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="720" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1140" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1800" Power="0.79" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.83" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.83" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

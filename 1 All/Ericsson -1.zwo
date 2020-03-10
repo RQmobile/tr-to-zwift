@@ -1,0 +1,37 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Ericsson -1</name>
+    <description>Ericsson -1 is 4x8-minute spin-up intervals between 83-89% FTP where riders begin with a slightly quicker-than-usual spin for the first 4 minutes, increase their pedal speed for the following 3 minutes, and then spin all-out for the final minute. The rest between intervals is 4 minutes and the workout kicks off with 3x2-minute rounds of Isolated Leg Training (ILT) where riders can train each leg's spin individually.
+
+Primarily, this workout aims at improvements in sustainable leg speed while improving pedal economy. By pedaling fluidly and quickly, with as little wasted energy as possible, riders can improve their efficiency in the off-season and revisit this workout intermittently during the competitive season, specifically during mid-peak training valleys. Additionally, this workout promotes improvements in high-end aerobic endurance as well as a potential positive effect on muscle endurance.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.69" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.47" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.83" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.83" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

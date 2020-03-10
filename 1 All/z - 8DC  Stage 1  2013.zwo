@@ -1,0 +1,93 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>z - 8DC  Stage 1  2013</name>
+    <description>The opening stage of 8DC builds toward a long, Alpe d'Huez-like climb meaning there are numerous switchbacks on a long, sustained climb with difficult but not extreme grades. Following a long, fast descent, the race is likely to come down to a field sprint. There's one intermediate sprint and a single KOM on the finishing climb.
+
+Plan of Attack: The goal today is to shepherd our climber to the foot of the final climb. We'll then try to protect our climber as far up the climb as possible, but if the big guns start firing, our climber is likely to be solo, without the support of the team.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<Ramp Duration="510" PowerLow="0.55" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="39.6" PowerLow="0.6" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.2" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="20.4" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="22.2" Power="1.07" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.86" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="22.8" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="19.2" Power="1.02" pace="1128505344"/>
+	<Ramp Duration="82.8" PowerLow="0.87" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="24" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.91" pace="1128505344"/>
+	<SteadyState Duration="25.8" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.93" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<Ramp Duration="231" PowerLow="0.68" PowerHigh="0.7" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.75" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="24.6" PowerLow="0.2" PowerHigh="0.65" pace="1128505344"/>
+	<Ramp Duration="121.2" PowerLow="0.65" PowerHigh="0.68" pace="1128505344"/>
+	<Ramp Duration="90" PowerLow="0.97" PowerHigh="1.01" pace="1128505344"/>
+	<SteadyState Duration="16.2" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="135" PowerLow="0.95" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="166.8" PowerLow="1.02" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="138" PowerLow="0.97" PowerHigh="1.01" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="127.8" PowerLow="0.99" PowerHigh="1.01" pace="1128505344"/>
+	<SteadyState Duration="14.4" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="112.8" PowerLow="0.98" PowerHigh="1.04" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.15" pace="1128505344"/>
+	<Ramp Duration="165" PowerLow="0.76" PowerHigh="0.79" pace="1128505344"/>
+	<Ramp Duration="94.8" PowerLow="0.83" PowerHigh="0.81" pace="1128505344"/>
+	<Ramp Duration="215.4" PowerLow="0.81" PowerHigh="0.85" pace="1128505344"/>
+	<Ramp Duration="46.8" PowerLow="0.85" PowerHigh="0.72" pace="1128505344"/>
+	<SteadyState Duration="67.8" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="25.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="79.200000000001" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="21.6" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="79.199999999999" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="22.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="64.8" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="28.2" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="34.8" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="70.2" Power="0.72" pace="1128505344"/>
+	<Ramp Duration="150" PowerLow="0.72" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="130.8" PowerLow="1.06" PowerHigh="1.22" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="1.22" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="9.6000000000004" Power="2" pace="1128505344"/>
+	<Ramp Duration="190.2" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

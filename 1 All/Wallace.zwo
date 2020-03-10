@@ -1,0 +1,33 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wallace</name>
+    <description>Wallace is 2x20-minute efforts right at FTP, but each interval is broken up with 4x30-second valleys at 90% FTP. The intervals are separated by 5 minutes of recovery.
+
+The goal is to improve the amount of time you can sustain Functional Threshold Power (FTP) and further fortify your strength-endurance foundation in anticipation of a higher FTP down the road.This slightly more forgiving 2x20 workout offers tired riders, less experienced riders, or recently assessed (and ideally improved) riders a chance to ride a couple of 20-minute intervals while taking the edge off the more traditional 2x20 Threshold workout.These are also good opportunities to practice your aero position, out-of-the-saddle climbing, or to target cadence improvements.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="270" Power="1" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

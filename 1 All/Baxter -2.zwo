@@ -1,0 +1,38 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Baxter -2</name>
+    <description>Baxter -2 is 60 minutes of non-stop aerobic conditioning at 55-75% FTP where the effort changes based on cadence. 
+
+Effectively a fixed-gear trainer ride with low to moderate effort levels, Baxter is aimed at improving your aerobic fitness by growing your body's ability to utilize fat for energy and spare sugar stores.Additionally, you can improve your pedal efficiency through high-rpm spinning and also focus on furthering your muscular control and joint integrity via low-rpm grinding.Cadence recommendations vary at least +/- 20rpm from your self-selected cadence.So for example, if you typically ride at 90rpm then your rpm range will be 70-110rpm - the greater your capabilities, the greater this rpm range.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.56" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.61" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.67" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.67" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.61" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

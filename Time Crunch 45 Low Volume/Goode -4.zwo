@@ -1,0 +1,67 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Goode -4</name>
+    <description>Goode -4 is very similar to Goode except everything gets just a little short - work intervals, recoveries, even the warmup &amp; cooldown. But the intensity remains at 105% FTP to 130% FTP regardless of how long you'll ride there. 
+
+By working at very high percentages of pVO2max (power at peak oxygen uptake) which is well above FTP, riders will see tremendous improvements in both aerobic &amp; anaerobic power, all in very little time. Little time, high stress, substantial adaptation.The consistently short recoveries aren't long enough to allow full recovery and they become increasingly stressful and challenging with respect to your aerobic capabilities. Goode is an excellent benchmark workout in that it can display how effectively you quickly recover in time to put forth another hard effort.Only the most aerobically fit riders will survive this workout without any intensity down-scaling or occasional backpedal breaks.Try to keep your cadence high, 110+rpm if you can control that much leg speed without bouncing. And do your best to keep that quick spin even as you fatigue, shifting gears when necessary to keep your leg speed high. Try to pedal quickly in a light gear to prevent cooking your muscles any sooner than necessary.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.81" pace="1128505344"/>
+	<SteadyState Duration="45" Power="0.91" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.44" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="45" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="15" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="75" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

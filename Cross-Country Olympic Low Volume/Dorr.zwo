@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Dorr</name>
+    <description>Dorr is 3x30-second hard starts at 180% FTP followed by 1 minute of Threshold work at 96% FTP. Almost 5 minutes of recovery falls between each effort.
+
+This workout offers a few chances to test and fine-tune your initial acceleration capabilities. Go out too hard and risk blowing up, go out too softly and risk losing position, but if you use these repetitions to learn the sort of efforts you can perform at the start of a race, and perhaps more importantly, repeat during later stages of a race, you'll stand a far greater chance of not only surviving these hard kicks but making them work for you.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="105" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.96" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

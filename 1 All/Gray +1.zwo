@@ -1,0 +1,23 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Gray +1</name>
+    <description>Gray +1 consists of 2x20-minute intervals at FTP with 10 minutes of recovery between intervals.
+
+The primary aim of Threshold work is to extend the amount of time you're able to ride at your FTP.As your body grows accustomed to a certain level of stress, your ability to withstand that stress for longer periods of time improves. Before you know it, your muscles don't load up like they used to, your mind isn't completely consumed with the desire to ease up, and your so-called 'hour power' gravitates toward truly sustainable, hour-long power.The recommended cadence range is wide, 85-105rpm, and accommodates many styles of riding. Riders wishing to target improvements in strength endurance will work toward the lower end of this cadence range while those riders seeking less muscle stress and more aerobic contribution will shift their spin upwards toward 100rpm or even a bit higher. In any case, the power output should be even with minimal fluctuations over the course of each interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="1" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="1" pace="1128505344"/>
+	<Ramp Duration="900" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

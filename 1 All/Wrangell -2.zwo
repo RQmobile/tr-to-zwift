@@ -1,0 +1,27 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wrangell -2</name>
+    <description>Wrangell -2 is 2x20-minute race-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 94% FTP for the remaining 19 minutes. The intervals are separated by 6 minutes of active recovery.
+
+While the Threshold component of this workout is all about improvements in muscular endurance, when you lead a steady-state interval with a sprint effort, the nature of the workout takes on more racelike tone and becomes more performance oriented.The initial sprints tacked onto these repeats will improve your ability to recruit ample muscle mass when it comes time to accelerate during all types of surges like the start of a race, during an attack, or perhaps at the onset of a bridging attempt.If the intensity of these initial sprints is too high, reduce the Workout Intensity for the sprints but try to refrain from reducing the wattage during the Threshold segments.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="105" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="1140" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="1140" Power="0.94" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

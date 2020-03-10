@@ -1,0 +1,37 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>White +1</name>
+    <description>White +1 is 60 minutes of Tempo work broken into 6x10-minute segments ranging from 75-85% FTP.
+
+Tempo rides are the height of aerobic endurance and while rather uncomfortable, they aren't too stressful to keep you from spending pretty long durations at a productive work level that isn't too demanding in terms of recovery.This is where some ultra-distance triathletes will live for hours at a time. This is also where a lot of time is spent during any long road ride.Use portions or entireties of these intervals to work on riding in your aerodynamic position without sacrificing power.There is no scheduled rest during this workout, but brief, occasional backspins are encouraged if they're the difference between loss of form and a high-quality workout.
+
+
+
+
+
+
+
+Try to do so with a cadence above 85rpm, preferably above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.65" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.75" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.75" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="570" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="420" PowerLow="0.6" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

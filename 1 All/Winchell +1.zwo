@@ -1,0 +1,71 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Winchell +1</name>
+    <description>Winchell +1 is a combination workout that starts with 3 sets of 4-minute Threshold efforts at 95-105% FTP with active recoveries that increase in duration over each set of 3 repeats.The second round of intervals is made up of 3 sets of 40/20's where you'll ride for 40 seconds at 120-135% FTP, rinse for 20 seconds, then repeat for 5 short efforts per set of high-intensity repeats.Recoveries between sets of 40/20's are 5 minutes long.Finally, 25 minutes of Endurance riding finishes things off.
+
+While the first half of Winchell aims for improvements in muscular endurance and longer time to exhaustion, the second half targets improvements in aerobic power even though the target wattages land largely in anaerobic territory. But because anaerobic stores will get beat down, down, down, it will be up to your aerobic engine to carry an increasing portion of the workload.Like all of these combo workouts, Winchell is best saved for a time of season when your fitness is topped off and you can handle high stress loads in short periods of time. Aim for 90+rpm during the first portion of the workout, then ramp things up to 100+rpm during the later, high-intensity repeats.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.89" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="20.400000000001" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="20.400000000001" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="20.400000000001" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="20.400000000001" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="39.599999999999" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="19.799999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="19.799999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="19.799999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="19.799999999999" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.35" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.67" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.62" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

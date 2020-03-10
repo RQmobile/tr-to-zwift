@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Looking Glass -1</name>
+    <description>Looking Glass -1  is 2x20-minute intervals between 75-90% FTP with a 3-minute recovery between them.
+
+One objective of Tempo workouts is to first see to it that you can last for the full duration of your target event without falling apart. Additionally, lower-intensity workouts give you the opportunity to accumulate increased time on the bike while improving your aerobic endurance as your body actively recovers from previous high-intensity work.If you find that you aren't recovered from the previous workout, don't force yourself to endure these intervals at the prescribed intensity because they could very well come at the expense of your next high-intensity workout. Knock down the Workout Intensity 10-20% or consider an additional day of rest.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.9" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.85" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.8" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

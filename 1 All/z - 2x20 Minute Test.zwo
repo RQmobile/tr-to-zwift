@@ -1,0 +1,25 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>z - 2x20 Minute Test</name>
+    <description>FTP assessment consisting of 2x20-minute intervals with only 2 minutes of rest between intervals. FTP is calculated as the average power from the two 20-minute intervals. This workout will not generate an FTP for you, you must do the calcuation yourself.&nbsp;
+
+This workout offers an alternate method of estimating FTP and can also serve as a means of confirming a recent, more formal assessment workout like the 8 Minute Test or the 20 Minute Test. This workout functions as a check for confirmation of your FTP, but does not give you an FTP upon completion.&nbsp;As assessment, simply try to sustain your highest output possible keeping in mind that you?ll have to repeat the effort after a very brief recovery interval.As a confirmation workout, riding both intervals at 102% FTP can serve as a good indication that your recent assessment was a reasonably accurate estimate of your maximal sustainable power.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.9" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>

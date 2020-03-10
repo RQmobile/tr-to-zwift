@@ -1,0 +1,18 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>LSCT Warmup</name>
+    <description>This workout is our version of the Lamberts and Lambert Submaximal Cycle Test. It's a great way to test your freshness before a workout, and a good warmup too. The workout instructions will tell you what to do along the way.
+
+The goal of this workout is to identify your HRR. In order to get sound data, keep your cadence consistent and try to keep your nutrition, hydration, schedule and environment the same. Simply follow the workout instructions and you'll be all set.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.18" pace="1128505344"/>
+    </workout>
+</workout_file>

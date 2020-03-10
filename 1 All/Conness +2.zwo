@@ -1,0 +1,30 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Conness +2</name>
+    <description>Conness +2 consists of 2.75hr of solid effort largely spent between 60-65% FTP and includes 3x20-minute segments of Tempo work between 75-85% FTP.
+
+Aerobic Endurance workouts primarily target improvements in the ability to metabolize oxygen as the primary fuel source thereby preserving or "stretching" carbohydrate stores and necessitating less food intake over the course of subsequent workouts, rides &amp; races.Additionally, properly recovered athletes are likely to see improvements in the body's ability to deliver oxygen to the muscles and then more effectively utilize it, increases in their time to exhaustion as well as strengthened connective tissues.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Tempo"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.6" PowerHigh="0.75" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.75" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.75" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="900" Power="0.65" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.85" PowerHigh="0.6" pace="1128505344"/>
+	<SteadyState Duration="960" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.6" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.8" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="1080" Power="0.64" pace="1128505344"/>
+	<Ramp Duration="600" PowerLow="0.65" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

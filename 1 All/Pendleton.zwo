@@ -1,0 +1,39 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Pendleton</name>
+    <description>7x20-minute intervals at 88-94% FTP wtih brief, 3-minute recoveries between intervals. 
+
+Sweet Spot work lays the foundation on which we build higher & higher FTP's and is also the high end of half-distance triathlon power. Build the muscle endurance necessary to power up short hills without flooding your muscles with acidic fatigue via long Sweet Spot intervals and minimal rest periods.This is an uncomfortable but productive power range that doesn't require the same level of recovery as Threshold workouts yet yields many of the same benefits. Intervals like these allow you to work reasonably hard for long durations and do it frequently.Try to maintain a reasonably quick cadence of 85-95rpm over the course of this workout </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="SweetSpot"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="1200" Power="0.88" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

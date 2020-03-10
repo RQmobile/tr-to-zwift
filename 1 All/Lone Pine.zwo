@@ -1,0 +1,54 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lone Pine</name>
+    <description>Lone Pine is 6x10-minute intervals between 96-99% FTP with 3-minute recoveries between each. 
+
+The primary objective here is improvement in muscular endurance accomplished by growing your ability to repeat efforts at high percentages of your FTP.By working close to but below your FTP, you not only accumulate a lot of time at a meaningful level of stress, but recovery from slightly sub-threshold effort comes much more readily than recovery following work done at or just above your FTP.Try to hold your spin above 85rpm and even as high as 105rpm depending on your sustainable power and cadence goals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="120" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.96" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.96" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.96" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.98" PowerHigh="0.96" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.96" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.99" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.97" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.98" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.99" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

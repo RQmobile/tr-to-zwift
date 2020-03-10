@@ -1,0 +1,24 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Unicorn +2</name>
+    <description>Unicorn +2 is 60 minutes of steady output comprised of 5 continuous 12-minute segments ranging from 95-102% FTP.
+
+The primary goal here is to practice pacing for a time trial lasting about an hour with the goal pace being that power output you plan to target on race day.Make these as specific as possible to your goal event by riding in your aero position, using your goal cadence and pacing just as you plan to on race day.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.95" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.98" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.97" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="1" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="720" PowerLow="0.98" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="630" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

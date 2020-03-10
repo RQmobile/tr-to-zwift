@@ -1,0 +1,32 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Townsend -1</name>
+    <description>Townsend -1&nbsp;consists of 90 minutes of light, aerobic Endurance riding spent between 50-65% FTP.
+
+Though on the light side of the Endurance power level,&nbsp;this workout's goals are to condition your working muscles to utilize fat and preserve sugar stores, to improve oxygen delivery to the muscles as well as enhance&nbsp;O2 utilization by those very muscles, to increase muscular resistance to fatigue, and to improve the integrity of your connective tissues, all in a very low-intensity manner.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.55" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.6" PowerHigh="0.62" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.62" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.62" PowerHigh="0.58" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="2400" Power="0.58" pace="1128505344"/>
+	<SteadyState Duration="2580" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="3120" Power="0.63" pace="1128505344"/>
+	<SteadyState Duration="3240" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="3780" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="4020" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="4500" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.6" PowerHigh="0.63" pace="1128505344"/>
+	<Ramp Duration="4680" PowerLow="0.6" PowerHigh="0.63" pace="1128505344"/>
+	<SteadyState Duration="5100" Power="0.63" pace="1128505344"/>
+	<Ramp Duration="-5400" PowerLow="0.4" PowerHigh="0" pace="1128505344"/>
+    </workout>
+</workout_file>

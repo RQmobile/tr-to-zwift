@@ -1,0 +1,70 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Thor -2</name>
+    <description>Thor -2 consists of a hefty 6 sets of 3x12-second sprints between 180-220% FTP followed closely by a slightly suprathreshold 4-minute effort at 105% FTP, a.k.a. sprint-ervals.The rest following the sprints is minimal and won't allow complete recovery while the rest between sprint-ervals is 3 minutes long with the intention of allowing just enough rest to effectively repeat these challenging sets. 
+
+Sprint-ervals aim to increase fiber recruitment via short, powerful, pre-interval sprints such that the subsequent sustained intervals feel more manageable due to the increased muscle activity making increased muscle fiber recruitment the primary objective.Secondarily, the aim is to help riders reap the reward of this additional muscle activity in order to power through a demanding, leg-searing 4 minutes of work slightly above Functional Threshold Power. So, both neural activation as well as muscular endurance (e.g. lactate processing, fatigue resistance) are targeted in each tidy set of sprints + intervals charmingly dubbed 'sprint-ervals'.Spin quickly, 100rpm or much higher during each sprint, then settle into the typical 85-95rpm range for the 4-minute segments.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="24" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="2" pace="1128505344"/>
+	<SteadyState Duration="204" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.8" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="12" Power="2.2" pace="1128505344"/>
+	<SteadyState Duration="48" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="240" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

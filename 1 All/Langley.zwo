@@ -1,0 +1,28 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Langley</name>
+    <description>Langley consists of 5x3.5 intervals at 120% FTP separated by 7-minute active recoveries.
+
+By working at power outputs high enough to elicit very high levels of oxygen uptake, tremendous improvements in both aerobic and anaerobic power can be achieved, all in very little time.Short-duration, high-intensity repeats can be highly productive for all types of riders but are especially important for riders working on limited training time. In far less time than that required by long, slow distance, riders can develop similar aerobic capabilities - little time, high stress, comparable adaptation.Try to keep your cadence high, 90-100rpm is recommended. Important: Try to settle on a demanding but repeatable power output such that you can finish as many intervals as possible. The goal is to accumulate a productive level of stress at a high level of intensity while avoiding the need to frequently quit intervals early.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="VO2Max"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="1.2" pace="1128505344"/>
+	<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

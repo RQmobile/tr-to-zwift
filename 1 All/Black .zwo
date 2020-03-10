@@ -1,0 +1,40 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Black </name>
+    <description>Black is an hour of aerobic Endurance riding ranging from 50-80% FTP with no recovery.
+
+Improvement in aerobic endurance is the aim when working at moderate intensities well below FTP.By sustaining this effort level for fairly long, minimally interrupted durations, your body will improve its fat-metabolizing capabilities thereby diminishing its need to utilize sugar at subthreshold work levels.Greater aerobic efficiency (more energy for the same amount of oxygen) means you can work harder before dipping into your far less sustainable sugar stores thus preserving those stores for the higher-intensity efforts. This also means you'll require less food to fuel your effort during your events.Try to maintain a cadence between 85-95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Endurance"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="90" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="90" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.64" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.71" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.69" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.68" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.74" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.78" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.82" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.75" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.66" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.73" pace="1128505344"/>
+	<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

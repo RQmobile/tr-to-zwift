@@ -1,0 +1,34 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Haku</name>
+    <description>Haku is 6x20-second all-out efforts at 200% FTP, each separated by about 5 minutes of active recovery at 65% of FTP.
+
+The goal is primarily to increase the amount of force riders can apply to the pedals. In the interim, a fair amount of aerobic Endurance riding is accumulated making aerobic efficiency a secondary aim.By working at very high outputs for only brief periods of time, your muscles experience the type of work that encourages improvements in capacity, anaerobic capacity, in this case.By effectively increasing your ability to drive the pedals, one half of the strength-endurance combination is satisfied paving the way for higher power during short efforts as well as a higher FTP due to greater muscular capabilities.Increase or reduce the Workout Intensity as necessary such that each interval is very challenging but can be completed in its entirety. And try to keep your spin above 100rpm during each interval, then above 85rpm during the endurance valleys.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.3" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2.01" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.3" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.3" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.3" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2" pace="1128505344"/>
+	<Ramp Duration="40.2" PowerLow="0.3" PowerHigh="0.65" pace="1128505344"/>
+	<SteadyState Duration="270" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="19.8" Power="2" pace="1128505344"/>
+	<Ramp Duration="730.2" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

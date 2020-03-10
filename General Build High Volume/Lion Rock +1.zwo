@@ -1,0 +1,76 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Lion Rock +1</name>
+    <description>Lion Rock +1 is 4 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka "racewinners".Each set finishes with a 30-second "kick to the line" in the form of a ramp from 95% FTP all the way up to 140% FTP.Recoveries between intervals are only 1 minute long but recoveries between sets of intervals are each 10 minutes long. 
+
+Racewinners are about 3 things: establishing separation with a short, maximal effort, settling into a sustained pace as close to threshold as possible, repeating until successful. Often enough, attempts to get away require perseverance and a willingness to suffer over and over again until you're either alone off the front or part of a select group of opportunistic workers. The primary objective is to learn how recruit a lot of muscle quickly for a powerful and effective sprint but then cut the effort down to a manageable but difficult level that you can sustain for an extended duration without blowing up. Additionally, aerobically fit riders will find it possible to repeat these efforts with minimal rest while less fit riders will have the opportunity to target their lacking recover-ability and improve their willingness to thrash themselves - and their opponents - relentlessly.Use a high, 100+rpm cadence during the initial sprint and ending ramps; otherwise, try to keep your cadence above 90rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Sprint"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="18" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="6" Power="1.5" pace="1128505344"/>
+	<SteadyState Duration="246" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<SteadyState Duration="600" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="15" Power="1.5" pace="1128505344"/>
+	<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.95" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

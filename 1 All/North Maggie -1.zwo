@@ -1,0 +1,51 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>North Maggie -1</name>
+    <description>North Maggie -1 consists of 4x12-minute Power Steps each beginning with 7 minutes between 94-96% FTP followed immediately by 5 minutes of 2-3% FTP steps that top out at 112% FTP.4 minutes of recovery fall between each interval.
+
+The goal here is quite simply to elevate FTP while tolerating gradually increasing and exhausting muscular demands.By spending time very close to lactate threshold during the opening segment of each interval, riders can improve their sustainable power and muscle endurance by teaching their muscles to process high levels of lactate &amp; acidic buildup without overloading their muscles. Then, during the second half of each interval, the demand becomes more about leg strength and pain tolerance.Each step requires greater muscle fiber recruitment pushing you closer to the point of muscular failure without ever fully reaching it - we hope.Cadence should fall in the 85-95rpm range even as it becomes almost unbearably difficult to resist slowing your spin.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.73" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.37" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.03" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.09" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.92" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.94" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="30" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.06" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.08" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.12" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.02" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.04" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.06" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

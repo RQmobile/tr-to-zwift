@@ -1,0 +1,26 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Mt Hale +2</name>
+    <description>Mt Hale +2 is 4x9-minute intervals at 105% FTP with generous, 7-minute recoveries.
+
+The goal of slightly suprathreshold workouts is to extend high power over greater durations. By riding only slightly above your current FTP, you'll become accustomed - both physically and mentally - to a workload just beyond your current sustainable reach.  These intervals are also an ideal time to begin bridging the gap between power in an upright riding position and power in an aerodynamic position.Strive to keep your cadence above 85rpm, preferably above 95rpm.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="360" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.72" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="420" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="540" Power="1.05" pace="1128505344"/>
+	<Ramp Duration="780" PowerLow="0.5" PowerHigh="0.4" pace="1128505344"/>
+    </workout>
+</workout_file>

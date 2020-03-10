@@ -1,0 +1,36 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Fin</name>
+    <description>Fin is 4x6-minute intervals between 95-99% FTP with 5-minute recoveries between intervals. The intervals are bookended by short stretches of work between 72-74% FTP.
+
+The goal here is to increase time-to-exhaustion at FTP.By spending time very close to lactate threshold while remaining just below it, riders can lengthen their ability to sustain high power by teaching their muscles to process high levels of lactate and acidic buildup without slowing down.Additionally, and equally as important, riders learn to tolerate the mental discomfort inherent in maintaining high levels of Functional Threshold Power (FTP). Cadence should fall in the 85-95rpm range but steady stress and target watts are more important than pedal speed so prioritize accordingly and don't worry if your cadence falls outside of this range from time to time.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Threshold"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="150" Power="0.49" pace="1128505344"/>
+	<SteadyState Duration="150" Power="0.65" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="300" Power="0.4" pace="1128505344"/>
+	<SteadyState Duration="360" Power="0.97" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.72" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.74" PowerHigh="0.72" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,87 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>z - 8DC  Stage 7  2013</name>
+    <description>The Queen stage of 8DC is comprised of 3 climbs, the final climb being the most difficult and including a hilltop finish. There are KOM's at the end of each of the 3 climbs and a single intermediate sprint.
+
+The GC standings will largely affect our strategy, but if all goes well this will be another day of shepherding our climber to the final climb and then slingshotting our climber to a high finish, perhaps even a stage victory.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="204.6" Power="0.55" pace="1128505344"/>
+	<Ramp Duration="240" PowerLow="0.55" PowerHigh="0.74" pace="1128505344"/>
+	<Ramp Duration="135" PowerLow="0.74" PowerHigh="0.64" pace="1128505344"/>
+	<Ramp Duration="144" PowerLow="0.64" PowerHigh="0.6" pace="1128505344"/>
+	<Ramp Duration="303" PowerLow="0.6" PowerHigh="0.58" pace="1128505344"/>
+	<Ramp Duration="100.2" PowerLow="0.58" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.3" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="216" PowerLow="0.95" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.99" PowerHigh="0.97" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.99" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.95" PowerHigh="1.02" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="1.02" PowerHigh="1" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="1" PowerHigh="1.04" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.04" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.46" pace="1128505344"/>
+	<Ramp Duration="24.6" PowerLow="0.4" PowerHigh="0.58" pace="1128505344"/>
+	<Ramp Duration="132" PowerLow="0.57" PowerHigh="0.59" pace="1128505344"/>
+	<Ramp Duration="227.4" PowerLow="0.59" PowerHigh="0.57" pace="1128505344"/>
+	<Ramp Duration="112.8" PowerLow="0.57" PowerHigh="0.66" pace="1128505344"/>
+	<Ramp Duration="64.2" PowerLow="0.66" PowerHigh="0.95" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99" pace="1128505344"/>
+	<Ramp Duration="99" PowerLow="0.99" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="12" Power="1.4" pace="1128505344"/>
+	<Ramp Duration="63" PowerLow="0.95" PowerHigh="0.98" pace="1128505344"/>
+	<SteadyState Duration="13.8" Power="1.45" pace="1128505344"/>
+	<SteadyState Duration="57" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="1.45" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.98" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="21" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1" pace="1128505344"/>
+	<Ramp Duration="93" PowerLow="1" PowerHigh="0.98" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.98" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.45" pace="1128505344"/>
+	<Ramp Duration="24.6" PowerLow="0.4" PowerHigh="0.56" pace="1128505344"/>
+	<Ramp Duration="307.2" PowerLow="0.56" PowerHigh="0.59" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.75" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="25.2" PowerLow="0.2" PowerHigh="0.65" pace="1128505344"/>
+	<Ramp Duration="73.800000000001" PowerLow="0.65" PowerHigh="0.84" pace="1128505344"/>
+	<Ramp Duration="92.399999999999" PowerLow="0.84" PowerHigh="0.88" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.99" pace="1128505344"/>
+	<SteadyState Duration="34.8" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="10.800000000001" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="40.2" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="12" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="42" Power="0.88" pace="1128505344"/>
+	<SteadyState Duration="13.8" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="38.4" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999995" Power="0.97" pace="1128505344"/>
+	<SteadyState Duration="40.200000000001" Power="0.91" pace="1128505344"/>
+	<SteadyState Duration="10.2" Power="0.96" pace="1128505344"/>
+	<SteadyState Duration="33" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.92" PowerHigh="0.99" pace="1128505344"/>
+	<SteadyState Duration="34.799999999999" Power="1.25" pace="1128505344"/>
+	<SteadyState Duration="36.000000000001" Power="0.98" pace="1128505344"/>
+	<SteadyState Duration="34.8" Power="1.3" pace="1128505344"/>
+	<Ramp Duration="83.999999999999" PowerLow="1.3" PowerHigh="0.92" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.92" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="0.92" PowerHigh="0.94" pace="1128505344"/>
+	<SteadyState Duration="22.200000000001" Power="1.29" pace="1128505344"/>
+	<SteadyState Duration="37.2" Power="1.01" pace="1128505344"/>
+	<SteadyState Duration="24.6" Power="1.33" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="43.2" Power="1.18" pace="1128505344"/>
+	<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.03" pace="1128505344"/>
+	<Ramp Duration="120" PowerLow="1.03" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.15" pace="1128505344"/>
+	<SteadyState Duration="76.8" Power="1.01" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="1.02" PowerHigh="1.3" pace="1128505344"/>
+	<SteadyState Duration="30" Power="1.45" pace="1128505344"/>
+	<Ramp Duration="338.4" PowerLow="0.4" PowerHigh="0.35" pace="1128505344"/>
+    </workout>
+</workout_file>

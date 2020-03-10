@@ -1,0 +1,35 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Goat</name>
+    <description>Goat is two sets of 3x2-minute VO2max repeats at 120-140%FTP. 3 minutes of recovery fall between Intervals and 8 minutes of easy spinning separates the sets.
+
+By working at very high percentages of pVO2max (power at peak oxygen uptake) which is well above FTP, riders can see tremendous improvements in both aerobic and anaerobic power - all in very little time.Not only can VO2max repeats improve VO2max itself, they have positive effects on muscle endurance and most importantly aerobic endurance capabilities which is especially important for riders working on a very limited amount of weekly training hours. In far less time than that required by traditional base training, riders can develop aerobic capabilities on par with those gained via long hours of long, slow distance - little time, high stress, comparable adaptation. Try to settle on a repeatable power output such that you finish each interval, barely. This might require some trial &amp; error and it's likely to change as your fitness improves - you may be able to hold it for longer, you may be able to increase it, you may be able to repeat it with less rest. A quick cadence is recommended, preferably above 100rpm, but you're welcome to use a lower cadence if it suits your goals as long as you can meet the Target power.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+	<tag name="Anaerobic"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="240" Power="0.51" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.7" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="60" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="60" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="1020" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="480" Power="0.6" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.2" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.3" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.4" pace="1128505344"/>
+	<SteadyState Duration="1500" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="180" PowerLow="0.6" PowerHigh="0.3" pace="1128505344"/>
+    </workout>
+</workout_file>

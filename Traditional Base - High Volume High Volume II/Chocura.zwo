@@ -1,0 +1,52 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Chocura</name>
+    <description>60 minutes of mostly Tempo and Sweet Spot work spent between 80-90% FTP with the addition of 4x2-minute Force Intervals with 2 minute's rest between them and 3x10s Strength Sprints followed by 6 minutes of Tempo work. 
+
+Tempo/Sweet Spot Intervals: Continue building aerobic power while branching into harder efforts which target muscular endurance. Try to keep your cadence above 85rpm unless told otherwise.Force Intervals: Practice creating power at very low cadences and improve the resilience of your connective tissue gradually; improve your pedaling control by focusing on eliminating the lateral movement of your knees, especially at the top of the pedalstroke. Use a gear that allows you to hold your Target Power while riding between 50-60rpm. and focus on the top &amp; downstroke of your pedalstroke by kicking over the top and driving your foot downward. Strength Sprints: Practice turning a big gear as forcefully as possible in order to recruit as many muscle fibers as you can. From a near stop and in the biggest gear you can gracefully turn over without exceeding 90rpm in 12 pedalstrokes, stand &amp; hold onto your handlebar drops while driving each foot down as hard as you can. Maintain excellent form and if you reach 90rpm inside of 12 pedalstrokes, choose a larger gear next time.**Note: When using a load-restricted trainer like a CompuTrainer or KICKR, consider switching to Slope Mode for your Strength Sprints.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="TrainerRoad"/>
+    </tags>
+    <workout>
+	<SteadyState Duration="210" Power="0.5" pace="1128505344"/>
+	<SteadyState Duration="210" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="240" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.95" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.05" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="1.1" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.6" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.85" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.85" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.85" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<SteadyState Duration="9.5999999999999" Power="1.8" pace="1128505344"/>
+	<Ramp Duration="50.4" PowerLow="0.2" PowerHigh="0.9" pace="1128505344"/>
+	<SteadyState Duration="120" Power="0.9" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.8" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.8" pace="1128505344"/>
+	<Ramp Duration="30" PowerLow="0.8" PowerHigh="0.5" pace="1128505344"/>
+	<SteadyState Duration="180" Power="0.5" pace="1128505344"/>
+    </workout>
+</workout_file>
