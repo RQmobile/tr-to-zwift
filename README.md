@@ -4,11 +4,11 @@ There are workouts from trainer road splitted by training plans. Some plans cont
 
 You can use it in zwift or GoldenCheetah.
 
+**List of training plans with detailed description:**
 * Half Distance Triathlon - Low Volume - TrainerRoad.pdf
 * Half Distance Triathlon Base - Low Volume - TrainerRoad.pdf
 * Half Distance Triathlon Base - Low Volume - TrainerRoad.pdf
 * Half Distance Triathlon Base - Low Volume - TrainerRoad.pdf
-* List of training plans with detailed description:
 * Sprint Distance Triathlon - Low Volume - TrainerRoad.pdf
 * Sprint Triathlon Base - Low Volume - TrainerRoad.pdf
 * Sprint Triathlon Build - Low Volume - TrainerRoad.pdf
